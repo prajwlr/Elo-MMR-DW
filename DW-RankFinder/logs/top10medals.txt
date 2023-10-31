@@ -1,0 +1,73 @@
+Running for contest :  7
+{
+  _id: new ObjectId("63c42bba24def9d654a62d28"),
+  username: 'bepossible',
+  userid: 'Erq8sPQmkVdjbvAcPFgZrLNO3X03'
+}
+{
+  _id: new ObjectId("64da0dafde2aa06e7035177f"),
+  username: '10xdev',
+  userid: '6cr3GSGK2OQCrYCxj7D5t2aWt403'
+}
+{
+  _id: new ObjectId("63c42bc124def9d654a63066"),
+  username: 'Vishal4',
+  userid: 'bxTnkph7rFQoRMiwvweQcLkiCjQ2'
+}
+{
+  _id: new ObjectId("652552b8dc06b30093b78f56"),
+  username: 'PARASi27',
+  userid: 'btrfHGSYzEhXVpfHv01m1AUXgFb2'
+}
+{
+  _id: new ObjectId("652ab70c0d93891c17cb1c3e"),
+  username: '0xhappy',
+  userid: 'b7Mo4K6dE6NpzDvmbzKoLDzshOy1'
+}
+{
+  _id: new ObjectId("650abbfed34a32145ca5b09f"),
+  username: 'kamuik16',
+  userid: 'ZtjIHEUMVxQhBZE05CyOc5T2i8q1'
+}
+{
+  _id: new ObjectId("6526240bdc06b30093b78fff"),
+  username: 'Dhananjayi88',
+  userid: 'snzLmFjrgNXYG7sLJv8XXywaQdh1'
+}
+{
+  _id: new ObjectId("652ba44a0d93891c17cb25e4"),
+  username: 'Kshitijd36',
+  userid: 'tx1KNADnqyb01UT1vFvFI8D1jU12'
+}
+{
+  _id: new ObjectId("650df2fdd34a32145ca5b77a"),
+  username: 'sufiyanmemon',
+  userid: 'zpXV7qlSLEhsPbiZAqEXEiAAe1l1'
+}
+{
+  _id: new ObjectId("652a47600d93891c17cb14b2"),
+  username: 'Ethan360',
+  userid: 'RpjyzivdeoYMosIUqy44wIJone73'
+}
+allUserIds :  {
+  bepossible: 'Erq8sPQmkVdjbvAcPFgZrLNO3X03',
+  '10xdev': '6cr3GSGK2OQCrYCxj7D5t2aWt403',
+  Vishal4: 'bxTnkph7rFQoRMiwvweQcLkiCjQ2',
+  PARASi27: 'btrfHGSYzEhXVpfHv01m1AUXgFb2',
+  '0xhappy': 'b7Mo4K6dE6NpzDvmbzKoLDzshOy1',
+  kamuik16: 'ZtjIHEUMVxQhBZE05CyOc5T2i8q1',
+  Dhananjayi88: 'snzLmFjrgNXYG7sLJv8XXywaQdh1',
+  Kshitijd36: 'tx1KNADnqyb01UT1vFvFI8D1jU12',
+  sufiyanmemon: 'zpXV7qlSLEhsPbiZAqEXEiAAe1l1',
+  Ethan360: 'RpjyzivdeoYMosIUqy44wIJone73'
+}
+userid :  Erq8sPQmkVdjbvAcPFgZrLNO3X03  ------ medal :  /images/badges/medal-contest-7-rank-1.png
+userid :  6cr3GSGK2OQCrYCxj7D5t2aWt403  ------ medal :  /images/badges/medal-contest-7-rank-2.png
+userid :  bxTnkph7rFQoRMiwvweQcLkiCjQ2  ------ medal :  /images/badges/medal-contest-7-rank-3.png
+userid :  btrfHGSYzEhXVpfHv01m1AUXgFb2  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  b7Mo4K6dE6NpzDvmbzKoLDzshOy1  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  ZtjIHEUMVxQhBZE05CyOc5T2i8q1  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  snzLmFjrgNXYG7sLJv8XXywaQdh1  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  tx1KNADnqyb01UT1vFvFI8D1jU12  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  zpXV7qlSLEhsPbiZAqEXEiAAe1l1  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  RpjyzivdeoYMosIUqy44wIJone73  ------ medal :  /images/badges/medal-contest-7-top10.png
