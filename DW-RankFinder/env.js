@@ -100,8 +100,19 @@ const leaderBoard = [
         "MrLittle",
         "Ericselvig",
         "ashishmeena20",
-        "Paras9DD",
-        "muditI60",
+    ],
+    //9
+    [
+        "ktshacx",
+        "bepossible",
+        "Paras_21",
+        "Ronnie",
+        "Aravind5I6",
+        "Mayuresh20",
+        "sauravrao637",
+        "bg5fxp_JF",
+        "Shoydon",
+        "kamuik16",
     ],
 ];
 
@@ -178,6 +189,16 @@ const ContestTimestamps = {
         "palindrome-checker-hard": "A",
         "lottery-problem": "B",
         "lottery-problem-2": "C",
+    },
+    9: {
+        start: 1700893800000, // 25th nov 12:00 PM IST
+        end: 1701016200000, // 26th nov 10:00 PM IST
+        starttimeString: "25th Nov 12:00 PM IST",
+        title: "Contest-9",
+        problem: "closest-prime-difference",
+        "closest-prime-difference": "A",
+        "token-sale-easy": "B",
+        "token-sale-hard": "C",
     },
 };
 console.log("Running for contest : ", contest);

@@ -1,2 +1,2218 @@
-Running for contest :  8
-userid :  Erq8sPQmkVdjbvAcPFgZrLNO3X03  ---- rating :  2361
+Running for contest :  9
+userid :  Erq8sPQmkVdjbvAcPFgZrLNO3X03  ---- rating :  2519
+userid :  cpT4WdytyoUy3EdCI7DKyhaI8A73  ---- rating :  2374
+userid :  hwoALi6h56eIp0mxO3jZBlVif8v1  ---- rating :  2354
+userid :  4EjD0VpnSaN6nQ1mCgYc34hP4zI2  ---- rating :  2333
+userid :  7s0bpWKAUNgnzPs6OiYNRRVFFPX2  ---- rating :  2274
+userid :  H5KDz42LHHUHMJ4aAVx9BSYvPBh2  ---- rating :  2264
+userid :  5oZIjrSuBfWYD8OmK5IUw6MhUgU2  ---- rating :  2252
+userid :  PTVYlSiC3wYT8e6PMa3ypq5Tutr2  ---- rating :  2235
+userid :  ZtjIHEUMVxQhBZE05CyOc5T2i8q1  ---- rating :  2203
+userid :  fGmwfOvJMLeBDMOQAeZ7GqgCqxj2  ---- rating :  2190
+userid :  zpXV7qlSLEhsPbiZAqEXEiAAe1l1  ---- rating :  2183
+userid :  btrfHGSYzEhXVpfHv01m1AUXgFb2  ---- rating :  2116
+userid :  b7Mo4K6dE6NpzDvmbzKoLDzshOy1  ---- rating :  2083
+userid :  tDxVv0FS5MOYcljWevBsNJbOIsg2  ---- rating :  2074
+userid :  BsigiqEEWRQNj6NOrGk0acjUBbf1  ---- rating :  2067
+userid :  A935wqYr0VdG0pCMl54gTMwfrlx1  ---- rating :  2062
+userid :  1DX1XJ3tiRRpwc6KQO88HXbJ0YA2  ---- rating :  2059
+userid :  JsjNzoroDQTbH9W042l8xZ478kB2  ---- rating :  2058
+userid :  snzLmFjrgNXYG7sLJv8XXywaQdh1  ---- rating :  2055
+userid :  ob9gIKRPsLe47fbU5ON6qe3ipkN2  ---- rating :  2042
+userid :  riLU2ku7YJUtrWytdE0Xx0QaAzI2  ---- rating :  2034
+userid :  WFnmy4NZ0dQjc6oo2pMJTa0Xow82  ---- rating :  2030
+userid :  tx1KNADnqyb01UT1vFvFI8D1jU12  ---- rating :  2030
+userid :  dxAvT1VJ50MMCTZ3usmoufkja2D3  ---- rating :  2027
+userid :  3VcvD9s0YPULXogJN5eW9Yxjm922  ---- rating :  2023
+userid :  gO9u5Mx1QeTk9k0AUKDLA83tcSJ2  ---- rating :  2021
+userid :  eSE66xB0QCOVTaRvBffRNhaOVwz2  ---- rating :  2012
+userid :  i7l3jyuQCoYm1nnCHdrzwqwpAxE3  ---- rating :  1993
+userid :  6ITD57lxQScfU3oUs1yVug3P7ep2  ---- rating :  1991
+userid :  s0fsiQTE9oUGKerZZNd0GVHmWZ52  ---- rating :  1981
+userid :  anlF7C6ozMNbjFdPxuzRP9zBVAS2  ---- rating :  1980
+userid :  isxXteIeYlO2UNZBXVFLliI3BXI3  ---- rating :  1965
+userid :  SMUb0CasLKZSIYl6HjzuQWhU6t62  ---- rating :  1964
+userid :  SYIwmpQWDxNOe7gZvtkjy32V7ir1  ---- rating :  1964
+userid :  CmbwAQoypfYrPc12wuuD72qVlFH2  ---- rating :  1959
+userid :  8RYcy1YJLCTTBPwxcvRyE8v9uCB2  ---- rating :  1952
+userid :  VDwHTKLU60h4lvyzaKCaN0Y6yF42  ---- rating :  1952
+userid :  LI69W0sPQ2Wk9Jn11rHCHwSjQJ32  ---- rating :  1942
+userid :  4GXviBxBbzdWCdeGYgPfWp15AlD3  ---- rating :  1941
+userid :  sNPEIwTUHQg8wF3Cb1Trs99o3Ir2  ---- rating :  1939
+userid :  VY0Nc2UZk9WN6CinBbZVwsr4xMY2  ---- rating :  1929
+userid :  IoFLyLUdAgUBTEG0yz9ASlW33zm2  ---- rating :  1922
+userid :  FDvQQ9oiEBWc5sPAKEXBGI6Fls02  ---- rating :  1908
+userid :  wZdEoGtxoFWBZzvIgaaoH1rFvgx1  ---- rating :  1906
+userid :  Ejj8nEKstfY6SXMUiwjZSEMHRu12  ---- rating :  1905
+userid :  H9NBnb0fdIRQQFrzkQp3vut7zBz1  ---- rating :  1904
+userid :  yGjxqEubKqecgo0TN5vCy7Ds5qK2  ---- rating :  1904
+userid :  Rew912pGdaUbeE54Wgg3X04k1NN2  ---- rating :  1893
+userid :  SIjRv2f1b8NCT9qmL73gqWAWCye2  ---- rating :  1889
+userid :  XaQ1qvOuAoYSwNy9HU90K8rYqRy2  ---- rating :  1887
+userid :  RP6RgcZfVMMkSwpX8VIOswJXE1w2  ---- rating :  1880
+userid :  dhSns9sExjbOE4XkURyDrKO80tV2  ---- rating :  1880
+userid :  NNfQUG4i5SafzYvuQqY4c1iWMOy2  ---- rating :  1865
+userid :  bI6JxP9NvKOl9OKjqzhowbDk6gA3  ---- rating :  1861
+userid :  51CBSJ6LJxRhylRdkMqBDKLOnwe2  ---- rating :  1860
+userid :  IA3x1vGKi2YUHYEu1hvHwfIKNXG3  ---- rating :  1853
+userid :  ZyYAIRHvl5PB9RdiHbf1luiwBNw1  ---- rating :  1850
+userid :  GRnOubzLd2QOwibUcXQOoO075802  ---- rating :  1843
+userid :  KyjyR4D0JbdL6g53LZgm6r8RoVm2  ---- rating :  1843
+userid :  t5m0gaOVd2O5tBYbLLKaweJZ59L2  ---- rating :  1838
+userid :  BiUckXATFRNGqpkbO4YRJsK7L2h2  ---- rating :  1834
+userid :  3Uw2je9lGwSpPySHm5qQSLZJxuq1  ---- rating :  1830
+userid :  dFXyQDfd10U1RobeopisH47MZfu1  ---- rating :  1825
+userid :  FucTbFzJjLSSmvgH65teBF7Hot73  ---- rating :  1824
+userid :  tWvm6xC5BHV1gkUMQQXYwk25nvW2  ---- rating :  1819
+userid :  FhUV3gmdHEXOJB1yffA3FWBMj7y1  ---- rating :  1811
+userid :  TPRFgogTFhXRgA060eRGNzSY2nd2  ---- rating :  1811
+userid :  a2AYMVL7SGXbLYg7WuGfCu8C0Nw2  ---- rating :  1807
+userid :  UotsJCHHQtXlVTCJuVd31gElIds1  ---- rating :  1806
+userid :  czJtWePRk6MJNaTNbOH2nvjyEug1  ---- rating :  1806
+userid :  wEMeg2yjK3N8b5J3BWoUqiqso4z2  ---- rating :  1800
+userid :  PnyvfVu9CkYErPVlHd9x8lK0iLt2  ---- rating :  1799
+userid :  44Zvb1ghWTUYNhDvShEQrkI12N53  ---- rating :  1797
+userid :  TasYPmOeMnOdzs9e54MML3vcurh1  ---- rating :  1794
+userid :  f5jJYGlTXrbRR0CuBUOGdxU5mR53  ---- rating :  1790
+userid :  BGMBjwffcGWfuNZYFDWAU64JTi33  ---- rating :  1784
+userid :  ctog09cVfCQ0qlb23zgwptXAK3J2  ---- rating :  1783
+userid :  v280tCCVFUQt8mi9BxwXpw7mQFZ2  ---- rating :  1779
+userid :  YiANVA3DWkcQz7lSzAqMkymRvl02  ---- rating :  1776
+userid :  FuaqZt1n5Ab9a2WidTiYEmirCE63  ---- rating :  1774
+userid :  RaKSfo2xSKcOAzJNeTmSLMOJoM13  ---- rating :  1773
+userid :  MbVEHm6gYshDmUgYNWHQSVapR4y2  ---- rating :  1771
+userid :  VGDtI59bvtUrNLE6PlXYPYOklaH3  ---- rating :  1771
+userid :  uxneCLNnUfMY2E8D3SfF2iaxOUU2  ---- rating :  1764
+userid :  z4zr5bbFL0WNBJjVqf2q28GM1SZ2  ---- rating :  1763
+userid :  wnMHkxNcsjfcoXNBxWgQcQ7Zkn12  ---- rating :  1755
+userid :  ebWdR7JSWIPJsSIV1sTmsJs22h12  ---- rating :  1754
+userid :  IcajDeAGefep1zPQoONQ0yOaOEq2  ---- rating :  1749
+userid :  WSXzUJXeuLOynsWtViWGtZ14tzz2  ---- rating :  1746
+userid :  NMFxIodHpiQ41OY0XU91fWkpLzu1  ---- rating :  1740
+userid :  aPE7ywyIW9Zedw8QYIr5coXwD1y1  ---- rating :  1739
+userid :  gLFfbPz7icRrpbq7ElBbNbjYVAs2  ---- rating :  1737
+userid :  TtYlpuc5SggSiSqyI2P2kztRV2y1  ---- rating :  1725
+userid :  3EUgI014weXAfPezAh40mUtbq5z1  ---- rating :  1724
+userid :  IyOvgI24f8NR5lEuJ5jkGcv3dWU2  ---- rating :  1721
+userid :  VT9lMJnNcXV2SPj16CGaQV277Pt1  ---- rating :  1721
+userid :  tlWL669oCYUEyLNEXie3fPoQBes2  ---- rating :  1720
+userid :  EmW14FUO81ZoAsckNsmtGFtA6LH2  ---- rating :  1719
+userid :  SyeP93HRFlfOE341IfiVsUWDCoB2  ---- rating :  1717
+userid :  umca2SZYEiMxqDiNbPisF7DO5Oj1  ---- rating :  1711
+userid :  pda5qWWCVPbuJzZ0gJnVZvwTI0K2  ---- rating :  1710
+userid :  DCLmW08eFlOeCzLPbBcqicxnqKj2  ---- rating :  1709
+userid :  7vFeOPORfqNUac3CZlGuGi0jeTq2  ---- rating :  1708
+userid :  OHiBr1ilNOR9xFnjwsygmCEn0lh2  ---- rating :  1706
+userid :  f1QJ6cNfqwV08ae4xCLj26IjWeF2  ---- rating :  1701
+userid :  uWBoni7TQZb7Tyk3bdvlhuVb38f1  ---- rating :  1698
+userid :  w6zob1pY6fTHhRujngMUipKpFAz1  ---- rating :  1697
+userid :  9jS0avN9J6URsffiZUnkwOI99AN2  ---- rating :  1696
+userid :  hqAKjPR3pkPOUJPZNm24qrO38hO2  ---- rating :  1695
+userid :  6UpIwRoG89QQkQ2CpGtRhZ9NoNm1  ---- rating :  1694
+userid :  L9AuM9aQ9KUtx7Qow0GcgPfsUi43  ---- rating :  1694
+userid :  ppC331Vo2GYDmmJCMMcUQ0nSuqG3  ---- rating :  1692
+userid :  urjlSdiSbyV2ai3neVXVaUPn9iA3  ---- rating :  1690
+userid :  HVsiQhrEkUfreGWfjcLo7VfFZMv1  ---- rating :  1689
+userid :  w2eUU77m5rX0wNRzQm3mGNU9ROq1  ---- rating :  1688
+userid :  x7U9ETkjt9YdPh9sxkWa1UwjyvE2  ---- rating :  1685
+userid :  zmGZlq9uzveM4lmT5ZGpHWyF2i22  ---- rating :  1684
+userid :  QeK9GtS5eiM4cWd35tBz4EI2HBB2  ---- rating :  1682
+userid :  0b0C22Fd7Sbft4A9CyWcxpqgqhj2  ---- rating :  1681
+userid :  2HKgeCB9VeggXYzqNMbKFrSRuWl1  ---- rating :  1680
+userid :  b8UkYKfWb7WDj9MEQzbpeTDNYIL2  ---- rating :  1679
+userid :  uw8itTaeOLbt5ZEfvloPo3696dF2  ---- rating :  1678
+userid :  6QFcSqXGBeOKJRmscPEyPqeZZPF3  ---- rating :  1675
+userid :  cy8e51zA3XafuHad4BDPSMYzYsH2  ---- rating :  1675
+userid :  hGIp2G8U8zZ4O6IK5O97y6IEUKy2  ---- rating :  1674
+userid :  hWHcIOnisSeJO9WK47saSf1uMgw1  ---- rating :  1674
+userid :  0GYQpuWe6zXKEgLWTG7So4eRx8U2  ---- rating :  1673
+userid :  fg2q3zfFkeaFxUfje3Bi6eeef753  ---- rating :  1673
+userid :  ynRVxjtFuqQu8uvVFRAeQu2Je9g1  ---- rating :  1671
+userid :  OOH6Li6ltoUe47UUsWHtm26Kad63  ---- rating :  1669
+userid :  K0sNABU5oQcI5D0h4AMgaVk6jOG2  ---- rating :  1668
+userid :  ey5fcytT2qgCK513uAXh5Gqoi5z2  ---- rating :  1666
+userid :  c92xwlJgThRGsuRCxG0EKv5Rjd53  ---- rating :  1663
+userid :  hBUBAXk837UDId7Y6NeUfqaQgdn1  ---- rating :  1663
+userid :  odRLfjr1CIOJD1sjb6asHBH82Jk2  ---- rating :  1660
+userid :  HO9E2etDZOZCTOuvuAzHTIRIK5D2  ---- rating :  1658
+userid :  dbhFPsOiV0Xvu9P7pNLpn3fMPuw2  ---- rating :  1658
+userid :  4THCh7yQu8SIkvlTdSicHl4Qzqk1  ---- rating :  1657
+userid :  MvHV0luVKXZQSJ6rmNZtZILfptf2  ---- rating :  1656
+userid :  MauIK0t39xVYmLKqhHm6wwMTKFH2  ---- rating :  1655
+userid :  ZQOLC0SE12NFWa9L5HrisfR0URG3  ---- rating :  1655
+userid :  mStP4255LNhrIYnGmP2ZGnrJqgF2  ---- rating :  1654
+userid :  4vmDJlBV60cYH1L7vM4L1NF3zgJ2  ---- rating :  1653
+userid :  B7WjIj6rSnfbh13I2Rg9UmKAmNP2  ---- rating :  1653
+userid :  tbmnns9J9yZyLwlYKUm7RR823go1  ---- rating :  1653
+userid :  hfZLo1QUwnZuIkjyy6Agvp2WUdj2  ---- rating :  1652
+userid :  jM6GXiH8YDUYFpeaYtaKKlA3sdn1  ---- rating :  1651
+userid :  4JCIUfaDQ5c5Td0SDoxhKkrnCqp1  ---- rating :  1650
+userid :  E4bEwfBbXrYTrQQBm8GdMTmEPTG3  ---- rating :  1648
+userid :  jDQX1D3vU5csAJhIYBGVERe6DeB2  ---- rating :  1644
+userid :  PbgbRCgH2PV3YXJQ3qJvwBDmbL52  ---- rating :  1643
+userid :  bWUtuY0nwAhGpywroBsVu6sKgYS2  ---- rating :  1643
+userid :  YwxANYGDEjMOiTJx72bsBShitJF3  ---- rating :  1640
+userid :  XkPVBVvi3vT58VsIblWvRd5HRrn2  ---- rating :  1638
+userid :  b8p8FsH3gDhMIBZd0o6gLTbi2Ln1  ---- rating :  1638
+userid :  xteO4xDsKUUn2THt6RGibjO4FI32  ---- rating :  1638
+userid :  PjY8jNHQBCa2qdvfPm9D4IOy2dy1  ---- rating :  1637
+userid :  FlUNu9IG22QauQCQGSGvC4zDtzp1  ---- rating :  1636
+userid :  VexxWvI6sIMQgLsfvAmvuTHDe3h1  ---- rating :  1636
+userid :  pFD4znm3iBUg24IoyN8h5glN0KV2  ---- rating :  1636
+userid :  L1LrnduoWjSA4OF90MgC13fEHAg2  ---- rating :  1634
+userid :  gPvUxi4KarbpM3ogaT1rCqFvovU2  ---- rating :  1634
+userid :  LuFDGZBKSVM0StPIfgF5udq27Pp2  ---- rating :  1633
+userid :  9va6EszWR1RoSaL2CEPOTkRDAVt2  ---- rating :  1631
+userid :  RYVM93e7WZalipaGPBcvN9qi87h1  ---- rating :  1631
+userid :  RsSmYuFPhCVqpvc9KL6s3ocNzY02  ---- rating :  1628
+userid :  pcZu5wPJLLezZs7XrNqV9tvMcAk1  ---- rating :  1627
+userid :  3s0fiOGi6sfTIX7OUJgK3rFTn263  ---- rating :  1626
+userid :  R5wCIZDXEthGrwPPhqLHDpu26hE2  ---- rating :  1626
+userid :  Sx51AhPLywRmgD59FCaYFLYVc5s2  ---- rating :  1625
+userid :  0xLFxJNBC3e7qxfW7hJI5gBaJMy2  ---- rating :  1624
+userid :  ug3jDSnjvlXi905fBq5tnjzW0513  ---- rating :  1624
+userid :  2vgqgm1xakPxOWSLCdprNvuRzsn1  ---- rating :  1622
+userid :  BDMRYVWQKnQ4swuT1CA7OxD4Uun2  ---- rating :  1622
+userid :  SbIPzmqvB0PnCoPMV4odeRJCIYk2  ---- rating :  1619
+userid :  hrY5xtwCHdNaCwiXpU5PT4Mq4Tz2  ---- rating :  1619
+userid :  e1l24YhnLSTUUDeEk9ks6gcCFUo2  ---- rating :  1617
+userid :  oNt78llgJTUqsNTCbJ3TELF2Yoz1  ---- rating :  1616
+userid :  7i5dGUSniscvNbvYXN0hgwa4CaE3  ---- rating :  1614
+userid :  w8NN5Pf5uZVVl4NM1kg96wjrUc62  ---- rating :  1614
+userid :  n5eCGyejIVSrXkHi8s7YtTXr4hZ2  ---- rating :  1613
+userid :  flMFPhl6imfG9YNFMgzisnxlS3E2  ---- rating :  1612
+userid :  UuVnftd25pUl3xWqzTFPIvXt0Jl1  ---- rating :  1610
+userid :  wkwv5vguvESWTTyKDElJWJufj6r1  ---- rating :  1610
+userid :  2SNiBJzwURTAwcyBB27MAthkF3e2  ---- rating :  1609
+userid :  HPuLUCTfzeM5n4FhL15UK8bW49l1  ---- rating :  1609
+userid :  ZDGxArV4yZY40cYKgsiv0q7dpht2  ---- rating :  1608
+userid :  BWOwfgmIi5QllcusTyppm7ADKpy1  ---- rating :  1607
+userid :  IcSvFX6VUugsF5Qd5FsGZus0BW43  ---- rating :  1607
+userid :  OtVu6Dpwk7ZgyW3hwsC1O8emKYk1  ---- rating :  1607
+userid :  JHyxwCojnQTnUriUiRtSWPBDquk2  ---- rating :  1606
+userid :  tcZHEoqcfKUbuGSS9BK0TZQ4AIP2  ---- rating :  1604
+userid :  hKt6LreMILMhrLOZv6voOj1i1iB2  ---- rating :  1603
+userid :  ynIznjHMwZSTJwXPy3GfRD1Kru23  ---- rating :  1602
+userid :  QZvZWGhT4TemZF8asQyi2IJ9J9B3  ---- rating :  1600
+userid :  IvJ23YJmBiearYNuk3n9pilzyCc2  ---- rating :  1599
+userid :  QcxijD3sYBhMjKDZTNIuW8ZfbBF3  ---- rating :  1598
+userid :  YsXUIoZO9INndVEs5w6IqG3truJ2  ---- rating :  1597
+userid :  En59To2XyFQzQdAKRxD5IbSxYC23  ---- rating :  1596
+userid :  qUHJKqSbkHN2XFDuY8IbiAHCq1u2  ---- rating :  1596
+userid :  unnc7uZTJdSm2XjDArrFaO9vMuk1  ---- rating :  1596
+userid :  JJuKlffjWEYb8SdzG8v2UfueTxs1  ---- rating :  1595
+userid :  gK3ZA4TIp2NbpwDXEhHKveH3aYd2  ---- rating :  1592
+userid :  j2mvkRKofbdRxfVMT5rLvE2NKPX2  ---- rating :  1592
+userid :  kYKvsvcRS4XeUCK3oQ1fSutphvu1  ---- rating :  1592
+userid :  CIhG7lydpdaK3LIvc941nT7favx1  ---- rating :  1591
+userid :  9tIU123G2VhpqNoK0d0PhtDu7kA3  ---- rating :  1589
+userid :  g8T23bC3HqNhxraT44U4QlL12v02  ---- rating :  1589
+userid :  hzprAL1XHocwkX1Li9lSZSb86le2  ---- rating :  1589
+userid :  UP65fhZyqETQWJm8vRjE7NtDKql2  ---- rating :  1587
+userid :  VIuiT8uAAuVbzxVLcgeTWsp47o33  ---- rating :  1587
+userid :  jTJU43zEryPZIL0p3rRv5G2KL652  ---- rating :  1585
+userid :  vd0rvNclOnbZ4HUddKngkbl6Cd03  ---- rating :  1585
+userid :  8udlhT2qVsN1UAMbqgVSZIwr2d23  ---- rating :  1583
+userid :  A2DRFMBHoJeQg8qEx6VaOWMQKrN2  ---- rating :  1583
+userid :  1OGQrofhIoViyNFG9BsB4QOOA8u1  ---- rating :  1581
+userid :  kQiEPRXFFPVsd5tGAwLuryVpeZJ2  ---- rating :  1581
+userid :  RfmeCSeuKZSW1JFvkxWg9VIZaaU2  ---- rating :  1580
+userid :  UBkVIocn2YbOql1p93dN8jtlr4z1  ---- rating :  1580
+userid :  4ezGS7zoyycMZH4amoMm919pc0C3  ---- rating :  1579
+userid :  0o9ReCyP7nTq6vnrSR9xJE3aStA3  ---- rating :  1577
+userid :  Dc0wUTT9kASpfCrfkVUHIqYjEDM2  ---- rating :  1577
+userid :  SLHghoSf9CPblOKmRBxRz5QgDsn1  ---- rating :  1577
+userid :  DG6g0jPlL5QZaqeWk7lgUu5acnJ2  ---- rating :  1576
+userid :  7vkAPbdayTSL1Ubx7EU1uOahvaL2  ---- rating :  1575
+userid :  VPKXJFdW39PsVbAlLXjHA6nCpH02  ---- rating :  1574
+userid :  wuMzwyAgmia6OQDhSPiKbHOcY7s1  ---- rating :  1573
+userid :  Gh20huiz32batkdTVTKvt10cwtz1  ---- rating :  1572
+userid :  X2PkDFD32kOl6cBUfOfhIBfNVPI3  ---- rating :  1571
+userid :  qE6S5kwDE2fsHSV696zVRq7Ctm02  ---- rating :  1570
+userid :  OmdfxGOASVWXIhcqKdZG3XybwfK2  ---- rating :  1569
+userid :  vniqk2q4mSNMzsNpRx7M7kGxtWz1  ---- rating :  1569
+userid :  QLcWniowbeScihO4GXONlW3h3Jk2  ---- rating :  1566
+userid :  ZUQ1zMt1nhRiha4g0sPymyu0K6J3  ---- rating :  1566
+userid :  HNZOfdKE66gjzzQzikTlsxiEhQG2  ---- rating :  1565
+userid :  yKfmtr32BpaQWOhmfgjThDlEDS93  ---- rating :  1563
+userid :  BLLWqsaLJ2ae9rL5Tf2mxgKXN862  ---- rating :  1562
+userid :  Cv2RldTjd9chX73f6wZOf5W1JoS2  ---- rating :  1562
+userid :  v0AXfCRY1sbXlKUfnLeYyvDifDi2  ---- rating :  1562
+userid :  GimDeS5sUEUocAQNlZcmaZAWrzL2  ---- rating :  1560
+userid :  fAbtQwPG19Q1eM3XGwp52FlpaC43  ---- rating :  1559
+userid :  7DVkwRWTXDbsomRsaMYrgJVW8kr2  ---- rating :  1558
+userid :  ByA9JC4VRqN9mUq6HP9oFij2IC72  ---- rating :  1556
+userid :  vbZvhxdsWuOqXhUXg6SW09UBk3q1  ---- rating :  1556
+userid :  GcHUz79F6eXhRRBx1aROc3AqPui1  ---- rating :  1555
+userid :  ht8hhjeuA1cLQlK8FUgWyQBa2kR2  ---- rating :  1555
+userid :  0SzvDA6oYseaf5pWQ7LkHpVV9lB2  ---- rating :  1554
+userid :  1gN07LdIBxUVHN7es82iMezB2Kr2  ---- rating :  1554
+userid :  s8SbivICljfcOKPnbfZW0N9VQya2  ---- rating :  1554
+userid :  obLcCELsHpN47axjYbg3BdGYsyo1  ---- rating :  1551
+userid :  ACSzlMnTlHgxtVGxD2bqm0QX9yC2  ---- rating :  1550
+userid :  jgIqdg1jekMYQNaLLj7MiVDuYHS2  ---- rating :  1550
+userid :  zQP1hvx0ufWCIkgw5bc8jPZZJdl1  ---- rating :  1550
+userid :  TCGqwMbVdjcpeGyz0QyvGpV2cHZ2  ---- rating :  1549
+userid :  u38Q9gQELpQ6Lfjub1V6rzDOioI3  ---- rating :  1548
+userid :  SoCxioziDRVWOSSHiVff8XwVshP2  ---- rating :  1547
+userid :  j3VyW1JPEzgJ4Chnd5FP5RkeRVN2  ---- rating :  1547
+userid :  D83BWupDCyOOUphjFwrYctTRHYk1  ---- rating :  1546
+userid :  NFN5yHUVIMT88YHeror5Z4p4Csg2  ---- rating :  1546
+userid :  uRCaxVoVYkfcN6X0iIEvIsUkXBn1  ---- rating :  1546
+userid :  CPqg1bEeWLMQQQlukuDjLjsq3AE3  ---- rating :  1545
+userid :  6aZErFaBsPYaCLwgnj06WS6WhSO2  ---- rating :  1541
+userid :  CY4kaEYdfReXCwZfdjSBNaKpbKw2  ---- rating :  1541
+userid :  SCEUOhPN9IQlj4fPyMXQ7vx3k6P2  ---- rating :  1541
+userid :  w8jVpzctNHSFfyxq5SBFuOuMIHG3  ---- rating :  1541
+userid :  ISN92xJRvodaEbRon49kNmzXdwY2  ---- rating :  1540
+userid :  XB0OZRr41keSm0PKJC2DpFCCYP82  ---- rating :  1540
+userid :  sBBQCWnd9wbtlXeMSlzW6R3cObq1  ---- rating :  1540
+userid :  NpPEjRGNe3WjkG0GILC0x4BpwgE2  ---- rating :  1539
+userid :  isLs3abUM2SfIvJ6cC5mdLrtQSg2  ---- rating :  1539
+userid :  ymhInaAK51RsmsJ0kk8frjfXmQl2  ---- rating :  1539
+userid :  ly1dnYTYq0aNLZOyTD5f4j6Cedu2  ---- rating :  1538
+userid :  9rF1QBI6zyTGjjAn9XbC1i3J09r2  ---- rating :  1536
+userid :  XA1mbZtJYpgea0b3IzkgpUQw4t03  ---- rating :  1536
+userid :  oT3WI5vZTxQ8zJd6MY0IolM7kQb2  ---- rating :  1536
+userid :  w6Dcoxsr89PF1tCjV4fr3QK870g2  ---- rating :  1536
+userid :  UlrfSmMVEqNazEbtFvrXDKZUOXT2  ---- rating :  1535
+userid :  Po9AAFkBJrft1euihyOEmzGB1A23  ---- rating :  1533
+userid :  UON3zE4lt2gZNFAndAMTGCREgNu1  ---- rating :  1533
+userid :  dIN3XguW2cMeLaUWQHqKlccI7g32  ---- rating :  1533
+userid :  HWOkn1QYWyQyj8POK4ZdIQ0Oh9g2  ---- rating :  1532
+userid :  fELvC0uslecdTCJNXBFb3sgF8nv2  ---- rating :  1532
+userid :  8cwLKMjgFJYBcSvj2j4ovZygKam2  ---- rating :  1531
+userid :  V8IjhqSgH7NItPIGW3oQU3ylpRv2  ---- rating :  1530
+userid :  KJ6eZ5OFNJZyKfE2qCyR44Dln2Q2  ---- rating :  1528
+userid :  2gelzILzClPKXFL15LOGkGeR0vd2  ---- rating :  1526
+userid :  K01xKpDyN4QP40a01UybUudCFKo1  ---- rating :  1526
+userid :  qXVMXTnuhDcPnZ803zgCALHxBy72  ---- rating :  1526
+userid :  SyQOV1FAjeeFeVhDmnjKRhAoQy32  ---- rating :  1525
+userid :  UAWuCIDgFLcodZW9nNshpiXEtAi2  ---- rating :  1525
+userid :  aRyCyT9U2HXVdExbEqsIl0nf7nB2  ---- rating :  1524
+userid :  wqGuomql8qdMgG26YJSLLXKlWFb2  ---- rating :  1524
+userid :  7hGHgkKZkSc0wPgZwhKTiJhPbn23  ---- rating :  1523
+userid :  roNsBMhjxRNGq9XtswZr6IzNNPB2  ---- rating :  1523
+userid :  snTwaw1PVebnkc0ExEcQ5FtSg9L2  ---- rating :  1523
+userid :  UmXTkIDgksQO0KfGUplG3ZTbTr03  ---- rating :  1522
+userid :  scluJIUsEOW6mbIpXA6PsbuZKE22  ---- rating :  1522
+userid :  zoGA4WBFMmbSQS2A22laQHbtJnG2  ---- rating :  1522
+userid :  3us7fz0Vn2OiY4KJVADfklz9EQG3  ---- rating :  1521
+userid :  SJP4oKlueEcCmQQznHEbMaeKBk42  ---- rating :  1521
+userid :  xYOh5hx3y7WZtYuqwZA8YdzxIFy1  ---- rating :  1521
+userid :  A2NFhwgYT3ODOB5tzrkpfb8HCqL2  ---- rating :  1520
+userid :  HjzsRK6YtFaRJrecFd1QyQTPhgE2  ---- rating :  1520
+userid :  XNrqX5th2Mbf6a1g6kuRaK3ZwwF2  ---- rating :  1520
+userid :  KshM4dh8TkNdbwy9LROHKXXtBii2  ---- rating :  1518
+userid :  WWJIasNBMcVhBaZKNzEdHSToaLv2  ---- rating :  1518
+userid :  qebEcQAkI3hyajwOSJ1OEOWcshu2  ---- rating :  1516
+userid :  0WNFttkZS1gv3OwDIy2CX0fIMXt1  ---- rating :  1515
+userid :  O5iD8F73IJaxoM3OQ9pFUZl86tw2  ---- rating :  1514
+userid :  gy8VEukTO2Spii91MSUo9D5IKGs1  ---- rating :  1513
+userid :  iFT52CgrCGc4RCGyoDkz4Oq5tj82  ---- rating :  1513
+userid :  UPvsGn1SwMMKKkXalJx3mWvGepC3  ---- rating :  1512
+userid :  8DdeMcMRE9RzF7bKrIlo1NkFwsU2  ---- rating :  1511
+userid :  oaTRpLXPhXSr9mCAAOYxmiiMmDn1  ---- rating :  1511
+userid :  yLiO560m4qhxaSCUSPq0KqOtByV2  ---- rating :  1511
+userid :  CCTq2vd44vQh7P7SWypQJ8F0hj33  ---- rating :  1510
+userid :  mFMjCRa4ifRbiFNEp7iZISKAwP93  ---- rating :  1510
+userid :  75hBUcZzi7QvS2VaNJtvecW5yvt1  ---- rating :  1507
+userid :  Mz0F0GAx2pc40LDsxIbatkDKSRl1  ---- rating :  1507
+userid :  r4l9FKMdcjUd10HSeXJd1jmkCsy1  ---- rating :  1507
+userid :  35bZq4i7iUZXwAwpaHU1yZwza2D2  ---- rating :  1506
+userid :  VDBavZIFumRU9YfYgrvyzXJ6cXc2  ---- rating :  1506
+userid :  uEoujkNGZyNODUhbJcL7iMfGgBY2  ---- rating :  1505
+userid :  2lZhISsXDNYk6r2vt1bgcf4GbPt2  ---- rating :  1504
+userid :  f1fiJiIbzOT8arTREd19ejXaQM33  ---- rating :  1504
+userid :  mcku5fcHBKZtyWTvlGQhIsBEZM72  ---- rating :  1504
+userid :  PKUT6gtrU3RkAUDvv3q7xTFpsDA3  ---- rating :  1503
+userid :  uAArKvrSErd2TLgFR4KDIvdXVtZ2  ---- rating :  1502
+userid :  KYYArxoOIsZz5BcplTfN4hpw3T23  ---- rating :  1501
+userid :  TR4ZaPKRMATvd1yBYmUh5QIjmeC3  ---- rating :  1501
+userid :  hrQb2pzsXQR5Afa8lh2V0PayOg62  ---- rating :  1501
+userid :  ogJuMg9LtCfdg8vYuWbjNu9paKs2  ---- rating :  1501
+userid :  0eYOir5MVfeRfWDCYX9wSCS71Xo1  ---- rating :  1500
+userid :  aJh38JBsmMY70vmabZOOVlt30mF3  ---- rating :  1500
+userid :  sStkOr33FvXNcBl6jW2rHP3asrg1  ---- rating :  1500
+userid :  1aeTGFgIFZalpZ9Uq1U3uzriUQh2  ---- rating :  1499
+userid :  UJ3cMuR2ulfCQpjCiRl4zhQtHyD2  ---- rating :  1497
+userid :  LojGMCqkhqZF5fEeqDZJy6MWWpy1  ---- rating :  1496
+userid :  pPh6AFmwc7foU9DP7FxsfadoVl93  ---- rating :  1496
+userid :  yr9vvGt7Qba41kKlCiGGPLPeD9H2  ---- rating :  1496
+userid :  2cZh8Ozy7fNsPe53rkS9pckDXxD2  ---- rating :  1494
+userid :  9oEEmiPSf2OioXnfJHhvgHZO42T2  ---- rating :  1494
+userid :  DmhI43HNHSM9wobIbVhbqXvmQPT2  ---- rating :  1494
+userid :  JiJK2GoC91UuhlFT4THg0bOI5Pr1  ---- rating :  1494
+userid :  VWPYJpLoOHRDrLlAhO06fjIF8W42  ---- rating :  1494
+userid :  nPAW0xXKakd2Cxbeu5JAky2NPwt1  ---- rating :  1493
+userid :  kEZr1WICqDejkWRAslnHNk6nfCm2  ---- rating :  1492
+userid :  xPJq921QgZXcMC7SfLxiYiPON393  ---- rating :  1491
+userid :  oRAvA5xKs6biAeVJVD570SH6FS52  ---- rating :  1490
+userid :  vTlpJxZwVdW9YUgHhR1KC2wuYYx1  ---- rating :  1490
+userid :  p2TF40LX2XTx023QpiHOWA6v8ag1  ---- rating :  1488
+userid :  Nr45ePRFoYWj6Jdmmc0N6Izvs5G3  ---- rating :  1487
+userid :  WHluodv8R3P8WGV1rdMsUguRgMz1  ---- rating :  1486
+userid :  AtmKBIPiYgMUew7fLlAsH19uQPq1  ---- rating :  1485
+userid :  dXU6rNDMCaUnKoXd8EFiMWRZDS43  ---- rating :  1484
+userid :  zxzLnLRxx4dVchW6CpGEpOydRFY2  ---- rating :  1484
+userid :  Qt3kTwniBzehwswNa4Ya2dhB6k62  ---- rating :  1483
+userid :  qRtNxXLVFGbL9GhW7BFZBwQHdng1  ---- rating :  1483
+userid :  AsgimOq7rndt5StYAIyW746BpxB3  ---- rating :  1482
+userid :  NynUCmuwWRayGz3EskEbQmOeAXu1  ---- rating :  1482
+userid :  uWZ5DfOlTJbOgbKyyWGAxCzykYg2  ---- rating :  1482
+userid :  1dqsH5bkXdRsDNogor47x1RsLPe2  ---- rating :  1481
+userid :  oJueZTaJ96Pk7PCR7ULbR7eGR4X2  ---- rating :  1481
+userid :  0XVp0KtpV5crPfxEKHAASqLmr552  ---- rating :  1480
+userid :  xgy86Kvh2KMqqNoTsC63yEQITQI2  ---- rating :  1479
+userid :  V2BiaXHToTYxDPd2hynQ7rDFtLt2  ---- rating :  1478
+userid :  X61XInnVNbfBru7Zc25t7pHKyeU2  ---- rating :  1478
+userid :  taXbu8GzlugLzxbuialvJaPwPGB2  ---- rating :  1478
+userid :  pNNZ2kyfSyYXhsoaNGAwzYhMwmt1  ---- rating :  1477
+userid :  qLWkC8jTAXdhhfwcTEauiawj2mJ3  ---- rating :  1477
+userid :  sJ5cKxBgycVrX24LwAOFPU55KL63  ---- rating :  1477
+userid :  uGZ78q1efzgbar3hDwi0406ZDEz1  ---- rating :  1477
+userid :  4IXcS47yvGMvaZR7Df1pZQmwCnB3  ---- rating :  1476
+userid :  xapVjPCjE7aymV4Z5Bf1Wjaz7jm2  ---- rating :  1476
+userid :  DEY8KnZqw9eDjZZGt2jUq7qCNES2  ---- rating :  1475
+userid :  tuPnKCrXwzNgFuIg5D4hzR4FWa33  ---- rating :  1475
+userid :  uYVUdxhJCDa4GpPys51ZRIBHy1k2  ---- rating :  1474
+userid :  uofitSp5tcNmYp0ep2vnoPt4Ryl1  ---- rating :  1474
+userid :  ATJc6TCQUbNcY94Lyf3DXGXDAce2  ---- rating :  1473
+userid :  F6BcmxWU9BOfBogESKSAAuckbBX2  ---- rating :  1472
+userid :  vUalNBIic6TnBZDXGRW8mHhBVI72  ---- rating :  1472
+userid :  84cpL2bkzxZVizFGiRrN5fALKSA2  ---- rating :  1471
+userid :  CsAfpxCB2TfMQOSXyBp2JCiNVse2  ---- rating :  1471
+userid :  HdlJmLqA9SNE0CnLw7oNJzHzLAe2  ---- rating :  1471
+userid :  6MLdjRJ3YTfdZrRM7KgV3WafO832  ---- rating :  1470
+userid :  M9UcyI5hniNHnz91VKZTeyhUWce2  ---- rating :  1469
+userid :  WpKPVloXb8c2Yl4mvLAz8VpHgQE3  ---- rating :  1469
+userid :  xikar9UAbSN9e7Ycuhqm0pRUsSb2  ---- rating :  1469
+userid :  8DF44mXhehbvzS28jZU2AHZnSNu2  ---- rating :  1468
+userid :  Ao1Q10VcD7hbaiEFhUaRK3Kyrjr2  ---- rating :  1468
+userid :  SrxEKwZhxKbQKWuZz1HHiqvMQh73  ---- rating :  1468
+userid :  j8UBTCoVW2dww30oHBksl453LQp1  ---- rating :  1468
+userid :  qk9CgpP2kHfnj1KwsAjCjb2FNeK2  ---- rating :  1468
+userid :  E3fnMVn9rlbbuJHd4Gd07m64Mpq1  ---- rating :  1467
+userid :  3Vww6rfRtTMh5r04OkxKFzhObMy2  ---- rating :  1466
+userid :  JpyPLxlHqzbWC5kHhSgnEEPeheL2  ---- rating :  1466
+userid :  bxTnkph7rFQoRMiwvweQcLkiCjQ2  ---- rating :  1466
+userid :  xlxUJ9yAJSTpNWbHNz8TBkblVd93  ---- rating :  1465
+userid :  dOSs8da0LqZxqBNV520PJkm41Vm1  ---- rating :  1464
+userid :  fq2F9sHB5vMFGgedvdUMtkurkvd2  ---- rating :  1464
+userid :  khFjTovgz6SAybe96hXLT5PVX7t1  ---- rating :  1464
+userid :  qsTZn7mp1KhxxDAlKaQrlbaCOsn2  ---- rating :  1464
+userid :  tkdRr0TSvCMCUHSu6USs2kaUEzq2  ---- rating :  1464
+userid :  N0rPKx4OFjbr3ul4CPZPgY55sBH2  ---- rating :  1462
+userid :  GNKDjJRopVgUCbntraP3EuyMDsY2  ---- rating :  1460
+userid :  uf9RxONHiYhbnIUF28eqncglCKi2  ---- rating :  1460
+userid :  KiHrrJsil5U1jgPuYQsJ6pzrNkL2  ---- rating :  1459
+userid :  dDh7OOntUYewYdFFDEEpgpcHCqy1  ---- rating :  1459
+userid :  gg5eA1cTxWeNz4AgP7ecFFGyvJx2  ---- rating :  1459
+userid :  5y8WcNt7CvchwrFNL5QF8VwsID12  ---- rating :  1458
+userid :  WyBN1Ky8Bia5xIOC05gUAczv0fm2  ---- rating :  1458
+userid :  Zl2ZuajZxldGZIv5vkeAPlWuMnk2  ---- rating :  1458
+userid :  i5Pd6VwmSdWHRt5ekhn425KaHjz1  ---- rating :  1458
+userid :  yxVeoT6wHXWMFx9n4QNsXAZK9t62  ---- rating :  1458
+userid :  oEhln0AxRzgf5Dvk8dQWpLNAdhy2  ---- rating :  1457
+userid :  cfCrbkCLWac6Sd6TaZ88bhPSqP73  ---- rating :  1456
+userid :  dBLdb4Jg8dhDbUAqpGsxqheD7yk2  ---- rating :  1456
+userid :  kruu1kjCSCg97u3jt8Q1K4zCQoa2  ---- rating :  1456
+userid :  T1bnwe01tfVYQ2cV5LoxXTKLICS2  ---- rating :  1455
+userid :  1hmJRpExAVSAri9ycKt6JaCjO6o2  ---- rating :  1454
+userid :  Bl5jAY7Sy2RK6pgYv6ocqK35Zzv2  ---- rating :  1454
+userid :  av0o2NaqvoZEjqutCqMG7QwJn513  ---- rating :  1454
+userid :  5rvs7wSJU5YLah7WmQweMi3BHmS2  ---- rating :  1453
+userid :  RpjyzivdeoYMosIUqy44wIJone73  ---- rating :  1453
+userid :  40ie2Q3OqBejaSFvnKtE12Q8DFU2  ---- rating :  1452
+userid :  8sqGvT6NgrXE6kfniZkLvcBAYLU2  ---- rating :  1452
+userid :  rE8hybEAh3UF6x4KOeNFjLRGFIh2  ---- rating :  1452
+userid :  0SgTn4WcsJMjnoBWtL340jqCRut2  ---- rating :  1451
+userid :  39OQG35ccTgefKNyEXHypt0OKNk2  ---- rating :  1451
+userid :  pw4IiYqcdkXKDsgSE9V4YVOqxoY2  ---- rating :  1451
+userid :  OoZSGeEciwaSenDWDL2GvaM1rc22  ---- rating :  1450
+userid :  enVROu97bnfigyZXkfHNrXvjFdg2  ---- rating :  1450
+userid :  yACUHfbUWEXIZtlY5DP6z0vKQvf2  ---- rating :  1450
+userid :  QZ9eCWtPk8fUCxzavx0hcyMYHje2  ---- rating :  1449
+userid :  sQ54o4PXgbc9px6fBbed6H0RY3H2  ---- rating :  1449
+userid :  ANaJR3p0kUagTiM0IeFn3epbZQX2  ---- rating :  1447
+userid :  AzikVo9ykXZys5oXLXJPb0EEtyC2  ---- rating :  1447
+userid :  nSNlqq16PJQHB0WoqRPwU1dJk2b2  ---- rating :  1447
+userid :  jcFOydD0GwTMYtnG89HIRBL3OI42  ---- rating :  1446
+userid :  oKxzdUl6tbMz2zWH7bwcS41jcJV2  ---- rating :  1446
+userid :  B96zq63BG5QfNkVwsZHdRWAPJb22  ---- rating :  1445
+userid :  CnxvKrXmMdX6qN7SltCVkA1hUet1  ---- rating :  1445
+userid :  WjsERAlCcPfMSMINgbqptNFVuKf2  ---- rating :  1445
+userid :  he7OOgXSDnY5W0ynJOxnf0zCo083  ---- rating :  1444
+userid :  o5F8roaiELOg4oS3FEbmqAG8DFt2  ---- rating :  1444
+userid :  9ZzWas2JwOPxEgLxBUnKdI7BhsG3  ---- rating :  1443
+userid :  KdFVJkcjTyOR4gvHUHtljntL6o52  ---- rating :  1443
+userid :  O4umaQq95VgRpj9FNtdrWFog4A92  ---- rating :  1443
+userid :  u2dI9ZFZEDO5R1TrV8mAkZKLW0X2  ---- rating :  1443
+userid :  H5uN5CqxuXSWtLFWQKnA1UcTUhl1  ---- rating :  1442
+userid :  0ARdrqfoG5YjnpZXnf8di7B3DA82  ---- rating :  1441
+userid :  0BmiV1bA3AfsvkOxj3dmezKYpE73  ---- rating :  1441
+userid :  RN0Uhs8JKeYtbIGLtQec5bApxZ82  ---- rating :  1441
+userid :  hC2kF2cvchYUzsYSGOjsyOEMPpq1  ---- rating :  1441
+userid :  hy3lpH54t9dQxmiEfQ3ByHJ6tCj2  ---- rating :  1441
+userid :  W1s9SQjbGoUxEj33y3ONHiJ9WMC3  ---- rating :  1439
+userid :  PmgXLQZdxDeByt4msjnl0sICcnl2  ---- rating :  1437
+userid :  eaA4O1QCKnf8kzapGVVPBjxjoTs2  ---- rating :  1437
+userid :  kdyac1l014QK5youBFJV57EjpIs2  ---- rating :  1437
+userid :  nJ5C2EbZutTW7oozMfuEJJawWeF2  ---- rating :  1437
+userid :  ineSYJD2R2Px9SSUKYsUVaw2dq93  ---- rating :  1436
+userid :  oDR3mS0qv1NsRLKksmcT4wQpmKh2  ---- rating :  1436
+userid :  1GRS2WRgsXdm5wmCOG48pengiRt1  ---- rating :  1435
+userid :  xGK88THhcgQfsOJAiLlr4PNjtc62  ---- rating :  1435
+userid :  4BfDr61Lpcf2NWtsoiK24hSn29Z2  ---- rating :  1434
+userid :  574uNqRUcHRcp48JMbDHDtnIE6H3  ---- rating :  1434
+userid :  FK6b8HJMrfXf4kEjZYytujE3ZzO2  ---- rating :  1434
+userid :  Rsk9Bn5PYjSqvgVRVT3281cpnhq2  ---- rating :  1434
+userid :  aO671cIYcBWHfCo17X8XR3ZQKvf2  ---- rating :  1434
+userid :  DawjYpek9BTlC4Bsq7uKquMX2Ex2  ---- rating :  1433
+userid :  QHYauvIiLIO5VxqZjLLNwKTcYy32  ---- rating :  1433
+userid :  wMryVJ2QayUIbt4ZsduLlned96g1  ---- rating :  1433
+userid :  KId6PgUZ5daMYviotnCx2t4ICfU2  ---- rating :  1432
+userid :  Mf40nU2mdHRz4CNjGegmaRBuQOA3  ---- rating :  1432
+userid :  QhDYUuSXjGSKXKMQ4klRfwGcH6s1  ---- rating :  1432
+userid :  5tl7ejNs89NwWygN5wx176k9Khg1  ---- rating :  1431
+userid :  7iSkOOlTw4PPqz5nmeogWY2FTcX2  ---- rating :  1431
+userid :  p2jnLtHzjdMBUx8O2kUliMkyzI83  ---- rating :  1431
+userid :  OjYmEFztt1WZZQB16Qk2vFHBium1  ---- rating :  1430
+userid :  PFQiZoxx13fv4zia6SsSCgmJWp72  ---- rating :  1430
+userid :  1MWmRlG44cfa2dXznd6uddGsuJm2  ---- rating :  1429
+userid :  tYDvhq3niuRc667gIEv0fZwLDt32  ---- rating :  1429
+userid :  wrs3gTLjVxb6zHwyTm6iKvHRq4o1  ---- rating :  1429
+userid :  3FNnhvqmkNNfINbE0F1kv3Jjcai1  ---- rating :  1428
+userid :  TOqYCdhcWjUKhv5tPnRZ5vganN52  ---- rating :  1428
+userid :  URo29oYSJ5auWIZvbEKPypSelSc2  ---- rating :  1428
+userid :  IilUeuetwoRQ0xxHpISq8BgVKJU2  ---- rating :  1427
+userid :  sj8ggn2175XpInnN76XLMdoKGIK2  ---- rating :  1427
+userid :  yCh6Xf0TsebnU0GI9ZCrCvXnoLK2  ---- rating :  1427
+userid :  zhuTMesodXSDeEvLWZODeFMOL7z1  ---- rating :  1427
+userid :  sAf4hoRP28Z3TEdy9qhgL4mUKby2  ---- rating :  1426
+userid :  0YUxQ9k4tDglHrU5cQAxkA0QPp33  ---- rating :  1425
+userid :  LNFggwr6bAOabXd3jutWQ71DKuY2  ---- rating :  1425
+userid :  dlKJFQUhg5d6kg61oj9d1EqEABC2  ---- rating :  1425
+userid :  1LUOmSi2eXhhUeqqaAfh8Q6jiBi1  ---- rating :  1424
+userid :  3NhIShkYJKSKpbVULPVqap6WAiJ2  ---- rating :  1423
+userid :  G1o0QFV0EeSOJS7W9QdYErBpXut1  ---- rating :  1423
+userid :  OT5xBJfAL5dXb5iWY83quFQN2pi2  ---- rating :  1423
+userid :  NTKPyOagHANZj8Ubhw3RVCpRmle2  ---- rating :  1422
+userid :  7RjExYdgSbZAPZ4a0IhdiJLWfB93  ---- rating :  1421
+userid :  L79ILOqPV3fqzWKjLE8NxqrTIoY2  ---- rating :  1421
+userid :  fQjeMiHQQkMFBNslmjKqXOCq14U2  ---- rating :  1421
+userid :  xML7Jv9hoFVCO9gWVxDSGGP0dzb2  ---- rating :  1420
+userid :  8e8h30J7lGg8hGRartO57aWP9JE2  ---- rating :  1419
+userid :  bWC9CqzEsjavDpSGBchfhk9DGbD3  ---- rating :  1419
+userid :  emQVKWvyDobjPvvDJm61BhlhJa12  ---- rating :  1418
+userid :  hjcPaBkXzHcWL7vMtSjunZFq4Zv1  ---- rating :  1418
+userid :  9L7NuVYIwBeajuDYD7CCHBZ4EVZ2  ---- rating :  1417
+userid :  kQh6jS3UUnbT9bNu2z2bep0jpAh1  ---- rating :  1417
+userid :  oHUKkibveFVdY1xYAIkzhEvuKry2  ---- rating :  1417
+userid :  KdVyHw8yxdQSAnLUsrOHEeFjtn83  ---- rating :  1416
+userid :  jEenZHNNcgZieO8Bgi7DJtXE5lu2  ---- rating :  1416
+userid :  pIrKj6oZfpaA4aYwj52KhidFFkr2  ---- rating :  1416
+userid :  QMPLgwwhNnVQqNqFBreAO8Njlb72  ---- rating :  1415
+userid :  g3HqoQrsheXKEssBxlBiUk4GXji1  ---- rating :  1415
+userid :  DCkqQ4EDmjT1hInWZfD7Lx0Uxxu2  ---- rating :  1414
+userid :  seyww8tQtLSugmBgKRWbF4BLpPC3  ---- rating :  1414
+userid :  DrPSCCSv5xPKwVTXUy28VW5rAgu2  ---- rating :  1413
+userid :  6J9nlBdA6WSG37pYvzoIh73qIUf2  ---- rating :  1412
+userid :  IVtufFf3nQMW343rL7TtF2sXntH3  ---- rating :  1412
+userid :  mcFaK1m8XyV6EtnWgLzjMnEAFNz2  ---- rating :  1412
+userid :  BNz1nLwG9tYTnOX36ald6J0QMlH3  ---- rating :  1411
+userid :  P92yKNTkP5g03NCDqLcYOp4RlY53  ---- rating :  1411
+userid :  GLNlgsJiKSXhLzDNpr5Zg0lT6tf1  ---- rating :  1410
+userid :  vQNQ3mpLqHX89cIkhau1IEDZ9it2  ---- rating :  1410
+userid :  Rn0c0xgQLHOvlisUIvpEIWggnf42  ---- rating :  1409
+userid :  9WEA4XsaOuT3tWS8Wm3ppwXhGHe2  ---- rating :  1408
+userid :  PnTqyPDZbZYEh2QxuPuvrBLLyDE2  ---- rating :  1408
+userid :  XGPb970FwShGkMYgyqpCmUbP9Yu2  ---- rating :  1408
+userid :  njOITi1GPfRYkdHlnC8tFD5H7Qv1  ---- rating :  1408
+userid :  lZHSYQ93R8QdOLqkS7gnnWK7JTT2  ---- rating :  1407
+userid :  6WpL9qXz9tVCnmazN6rBMyJc9Lf1  ---- rating :  1406
+userid :  F5TI0s70YiNH7kCGOjU9vRdr3I92  ---- rating :  1406
+userid :  HMLcabfJVoPkxiK9k9IqHHJGzCi1  ---- rating :  1406
+userid :  O8ep0ivkcuQslDcrp3DGD59ZXeg2  ---- rating :  1406
+userid :  p9rQZzgtOEShv5N429vfquOO9jJ2  ---- rating :  1406
+userid :  xxwQnDMauXRdLRY3eeOz9GOYpm63  ---- rating :  1406
+userid :  sMAxYNqArTh2SRLyh95JjZSu6H92  ---- rating :  1405
+userid :  FqicJ6vJSpQ7o3q5CAg28MDiMSD3  ---- rating :  1404
+userid :  YzogPS8jpFS9PwCMmUNmKkmDp212  ---- rating :  1404
+userid :  b5qrkGv63GXRgpwSSjpQ6134jen2  ---- rating :  1404
+userid :  OkyzAUOz8wNeHxJN7TlKRQKFIGq2  ---- rating :  1403
+userid :  SiU5UtO1jtbrj7Ny9qguyg4DIyA2  ---- rating :  1403
+userid :  aKNjnLLMNrQcAPaaK9Hu4U1LVLP2  ---- rating :  1403
+userid :  o9iuwGjmR4XjTEj1EAInXIzkuC73  ---- rating :  1403
+userid :  EcdBkOmFQKe2kmDcWpRIpEwKxzs2  ---- rating :  1402
+userid :  TecE9czVGtgSvVaCQPOvCmaQens1  ---- rating :  1402
+userid :  spMP3WgXaIghItYaHEkjWTh5jK22  ---- rating :  1402
+userid :  1BQh42SAlfOABhUZ40tSMrupjJR2  ---- rating :  1401
+userid :  rKvrty6017MvF7FjUBnVlMRUTxD3  ---- rating :  1401
+userid :  yHlkU7HLswRU9noGyjmXluNv9AZ2  ---- rating :  1401
+userid :  AhyLQeEkDfYJ76G7FrrPkxhVGbP2  ---- rating :  1400
+userid :  EHoopHGd0RZSs44a5LcqQOn18YH2  ---- rating :  1400
+userid :  RjGMhxONaUbKm27Pet0kRFhvemZ2  ---- rating :  1400
+userid :  GlsS5aMeQ3c7iWMPo5GLDys5KnD2  ---- rating :  1399
+userid :  MiZcpqzwZpWQTHLkvT20NEPbFbI2  ---- rating :  1399
+userid :  n59PIuIhKRTk2TZTePGzXsbIF5s2  ---- rating :  1398
+userid :  zOjPgyXMhbTYvhxzGQu3mU5Kew02  ---- rating :  1398
+userid :  hKezqLEQMIgN5Vea6w7Z4BwQcNF3  ---- rating :  1397
+userid :  w1lZt057bwMqTaYJNuHU06z3k402  ---- rating :  1397
+userid :  AmsrC1qEjxV9LUHFaJLxppgDHlf1  ---- rating :  1395
+userid :  Fd7AfhXCMtQkmKzvq3rS3qynW6A3  ---- rating :  1395
+userid :  dmLkj0APMXR0jSPEVvQ2R8G3ikL2  ---- rating :  1395
+userid :  ut2SAEE3eSODgWD75DBWtU5axUx1  ---- rating :  1395
+userid :  4mxSc1N7SuOPuMKkLaGPmZnVSUA3  ---- rating :  1394
+userid :  rDeSJNaGSpgicyGl9rgypd0ssIE2  ---- rating :  1394
+userid :  9TYOwkvUTyZnS5wqzKP1L7VBYZg2  ---- rating :  1393
+userid :  SeGYZ3Ott9Xrg69YN9l9S9wwTlt2  ---- rating :  1393
+userid :  rvLnzjzkf1hUkG9JBCZ9OHeQRIC3  ---- rating :  1392
+userid :  xvA1YfgHcrdpTMRjhJd1MfrpFDS2  ---- rating :  1392
+userid :  8e0WRe2NtmZurz9WMFlcNhB9KmR2  ---- rating :  1391
+userid :  dEmMTTJeGRfoGRoWioRMW5E0bwK2  ---- rating :  1391
+userid :  mw8wISeDIBf7NWO9lTfC4ru6txS2  ---- rating :  1391
+userid :  0FRAXXaBlWMRjeZZbIuqs9o3CzD2  ---- rating :  1390
+userid :  MH1Rya5efUfMb48GVYT9w4wojB03  ---- rating :  1390
+userid :  x8L0gKJMqIRcGW4Z6c9BcRNnkI03  ---- rating :  1390
+userid :  59UCBrmTD5adqNucPWFHaKI2CH52  ---- rating :  1389
+userid :  DBbz1t4RKjM2CeLhcoDiLkbz3jx2  ---- rating :  1389
+userid :  FSJQ5MhyCURdkOfANQW86yHxmzh1  ---- rating :  1389
+userid :  Xg2mDkoirfQi6iErfLh8s5Mlgmf2  ---- rating :  1389
+userid :  bI67fsYLj8YbxOdOGSXidyXj6Jk1  ---- rating :  1389
+userid :  nrqrMVAolcgwsmyVjCpnew8QZIx1  ---- rating :  1389
+userid :  o5Y6rV4qaAgNvK5bTZQbHSbRljm1  ---- rating :  1389
+userid :  LADqoNqHy6XDOlJnW46iRRCOLIu2  ---- rating :  1388
+userid :  ToWLzsamo4gVe5Glc9WQtCHHT5N2  ---- rating :  1388
+userid :  65weqdKduTTUWCRNubT0nXGQzgx2  ---- rating :  1387
+userid :  DA7MZdS4TYeftCZ472xBzqYHdQ82  ---- rating :  1387
+userid :  7l48uWHQWZVWkqLS5y60m4VhMu23  ---- rating :  1386
+userid :  wDTOPR55HJPo9igdPMN3oYLRj5i1  ---- rating :  1386
+userid :  OScmozPqQ9UZGz2bEdqG9cUlbiV2  ---- rating :  1385
+userid :  PPsgLi4V0cRumxM9ISHj0vCswkh1  ---- rating :  1385
+userid :  IIUAq1P4G3W5fTbzexr5JCc7bVQ2  ---- rating :  1384
+userid :  Vf1ITY383FXPcEhSIAjREaC3ZLI3  ---- rating :  1384
+userid :  9X92bFAzkePJ5CbxCDaLi7o1xp82  ---- rating :  1383
+userid :  Er89UWA9C7ZkkyDqgONta3EABqk2  ---- rating :  1383
+userid :  RONpaGhAutgwiOqIbf56WB81ETs2  ---- rating :  1383
+userid :  0ZUti7yoXucHBgayVa36gKJWpjj1  ---- rating :  1382
+userid :  tLbl7lrOtLUEPi2Z0BhO3pNoUin2  ---- rating :  1382
+userid :  wczw5eobcdNupNjIe601d3KwQEZ2  ---- rating :  1382
+userid :  9s9FfKdpnkfGlxKFstlNP1GXFKk1  ---- rating :  1381
+userid :  be8kEywdOygktAMYNpXgOCFB69m2  ---- rating :  1381
+userid :  dwGaS3uJzZbfpk22Sbfegg51R8r1  ---- rating :  1381
+userid :  6c299EywRXUqyDEiWfGWxzlYvHA2  ---- rating :  1380
+userid :  9r9djjDFWgM0hl3QuqEwtdhIsCs1  ---- rating :  1380
+userid :  akpLVWgLuoVx75DPuWnH7wyrPxs1  ---- rating :  1380
+userid :  nJka3Laepqc0ZkVWJMfasi5ZeAC2  ---- rating :  1380
+userid :  sl5NRNTnZ9bzU3f61ARAsqVLMOR2  ---- rating :  1380
+userid :  CRkZCMJEykSxZDnRczCc8ppSphz1  ---- rating :  1379
+userid :  UYghDZIvv8RBURAiZb5LXuMspzB2  ---- rating :  1379
+userid :  WRuEncqH9oX3Er9BSKqjYzNR7tS2  ---- rating :  1379
+userid :  XVqK8MYcQTYkPKtFqFTVAu8gc9v1  ---- rating :  1379
+userid :  e0Y7Q1HIAFNTINvbxQ0rlDEunyb2  ---- rating :  1379
+userid :  FYyuZUtyBRabc2NsmvJEebbvhU63  ---- rating :  1378
+userid :  KSibaD6MtROgPl13IlTevGb8Xk13  ---- rating :  1378
+userid :  RDszQ0kd8vhYf3muki7j07cdDGS2  ---- rating :  1378
+userid :  pEejKLiTjMUI8YHcaiMCMCWTcjE2  ---- rating :  1378
+userid :  TLuvHv1rKpMqgbgy1P75LmssQY42  ---- rating :  1377
+userid :  jTwlZmAIV5dQn8Kf52wGKlKoUz62  ---- rating :  1377
+userid :  t6Tol82UIjRhpdeXgnhAvWnR5Ax1  ---- rating :  1376
+userid :  QxvQ1TFbFlWmDZbkpfURlLOSM4z1  ---- rating :  1375
+userid :  LVoBpX9gx5hATQwGsw3exy4N5w63  ---- rating :  1373
+userid :  tUCE8laR5sN0oC9pQ3QTbmBcrFC3  ---- rating :  1373
+userid :  be2KUYzTg9Mxvl60IIwjAfsD82f2  ---- rating :  1372
+userid :  jr3B4UaKTcfmqLO650bm6HBIcLC2  ---- rating :  1372
+userid :  yJQeIMaYIDeF6O7ozOAYET41cd22  ---- rating :  1372
+userid :  louqE1k9cGMiqNfywVvtqAiKt6U2  ---- rating :  1371
+userid :  fTbXVWu1hqT9OpS5GlATjN39n2t1  ---- rating :  1370
+userid :  hvNYXNa040h228fyI0pRdAqcEc42  ---- rating :  1370
+userid :  hvVnvZJuCSbydUDPHMGfGxiBjok1  ---- rating :  1369
+userid :  xpQNo4dOAicA2NTpnBLBrctAx1B2  ---- rating :  1369
+userid :  0hO7PUw6WHUp6fSBTGsHqyNubei2  ---- rating :  1368
+userid :  789RUZfYE0SW4GfCWFE0mIJbzG02  ---- rating :  1368
+userid :  JY9kVRBKQmS7fcRNSldqg90rpQf2  ---- rating :  1368
+userid :  m6prTktTv4cMFlab4MERca5ek1r1  ---- rating :  1368
+userid :  6xpahg2mRFTC6kKgU3hydT3IpYW2  ---- rating :  1367
+userid :  7kUxyD1DDyTnDx3saSgEucMVG023  ---- rating :  1366
+userid :  Bqj5Bp4H3ENcfZpQAQ6qjjH60lv1  ---- rating :  1366
+userid :  WVW5WKh8VbcCalUI8ILjQJMgCC13  ---- rating :  1366
+userid :  DNGhV7fPt8SKjqih4I1N23OILyJ3  ---- rating :  1365
+userid :  NkjM4X7SXTf53FZ6TF7mV8rOQgj1  ---- rating :  1364
+userid :  lSkt4aQsDuT2UbeZXnyNTYH5fhd2  ---- rating :  1364
+userid :  snYdfMmJuTS1WlFHETMhdR24BTn2  ---- rating :  1364
+userid :  sraUD5jFc5aLfCKyPw3xpDajggb2  ---- rating :  1364
+userid :  QGTqUQ0jjwcHpwahDVb2psO9JS93  ---- rating :  1363
+userid :  hb1ccs2fZZMo3d73LRmdiFJqkJ92  ---- rating :  1363
+userid :  pfI4oN2tPjbXuHCq4CCLS9OYmQf1  ---- rating :  1363
+userid :  zzzxw4Bzx3T32AHmUE2syYxs4523  ---- rating :  1362
+userid :  G3hSOU6JyYY1IWfLxuH04d44C5j2  ---- rating :  1361
+userid :  IYV64ctK0tgOA8oJvDK1B1QJfi03  ---- rating :  1361
+userid :  MyyE991FkmXNaTFyK9knbybvzPh1  ---- rating :  1361
+userid :  UNuUiOyPnaPgCDPhAcAOk9UrEIH2  ---- rating :  1361
+userid :  o0tKfm3HgxPNNlQKCRgIaH4aIsq1  ---- rating :  1361
+userid :  p57WSgEuPgRMM7ks6vnxwZpAzuz1  ---- rating :  1360
+userid :  09vdMYk0LchkVcbMFjPby9K7sko1  ---- rating :  1359
+userid :  IXRLU2LhkYdAoWIkGXejVcsKWoG3  ---- rating :  1359
+userid :  LipNUbP4qfaolurl2blLEPFCwgt2  ---- rating :  1359
+userid :  lccB8gAzfGY4Bxl9Txpeu5NkcZI3  ---- rating :  1359
+userid :  SEvQUyesg1TsduG5pxSZBAYYefN2  ---- rating :  1358
+userid :  eGi24BStWAhuIYnLkqV0bACSasM2  ---- rating :  1358
+userid :  0tCN9YhQozLpBcP2HWc5woyUjZW2  ---- rating :  1357
+userid :  P2Al6e5SJpcC06yx2hZEmO9bIfy2  ---- rating :  1357
+userid :  RLY6Zv5cLGS78aOloOJVzUTc6yK2  ---- rating :  1357
+userid :  qccxNUSerlYiX2mGx1JE18ngCM62  ---- rating :  1357
+userid :  93cBuc14XeaUDWIN2UVIL8i2FP72  ---- rating :  1356
+userid :  7Vu0zAY6afY6nJDN9QpmMiLzhMq1  ---- rating :  1355
+userid :  XpjkvKd08uhapYN1UtqR2dO7Zww1  ---- rating :  1355
+userid :  lccmK5524LVLwlJpfFQweN01X9t1  ---- rating :  1355
+userid :  8hNk9QMhTrgqXRUbppL8tGz6yWX2  ---- rating :  1354
+userid :  cHt7clcJnhXZ2h7yTWMPXQrOD213  ---- rating :  1354
+userid :  0xly9KQlOMfbFbeLABhRhj01WZY2  ---- rating :  1353
+userid :  V9gJANsjH1dGcIBQBfXKSoPU9L23  ---- rating :  1353
+userid :  xHIlG3BKnHdUvbtebYPwnnBEWHq1  ---- rating :  1353
+userid :  oCtPEQtbFTTvl1CWAW2WPyejwxw2  ---- rating :  1352
+userid :  sp1QwVATY9Zilqf8S4oSA6TuTs83  ---- rating :  1352
+userid :  vaxRpfSKSeRxGvlPjrvmfWiIdki2  ---- rating :  1351
+userid :  2s6NMoDOPdRwV9peQxdZJECHLlO2  ---- rating :  1350
+userid :  BqzBmE7loYg7xJBoBhy77fyz5352  ---- rating :  1350
+userid :  TLtvEkPkv2gkRO70n7ZS5CGnzkM2  ---- rating :  1350
+userid :  2uEGyzn0lYa0IXkGKg4VWA2je2X2  ---- rating :  1349
+userid :  GRV7tUCNJaWlYz7ITMIjfQFFmRl1  ---- rating :  1349
+userid :  IB1uVCWYaCRlFIqlUT4ZF6SQt6e2  ---- rating :  1349
+userid :  UPg01RCuXoak7Gv2vFwHoHHuWj62  ---- rating :  1349
+userid :  04D3ldLL8Dg7z1HoZMsaYgkrNXp2  ---- rating :  1348
+userid :  Qsc3f8YyKOdvlbhJm8SHMWCRav72  ---- rating :  1348
+userid :  26AkQpyNueYtqMOAo1pu7iOb9Xt1  ---- rating :  1347
+userid :  2cZGU60wiJSA3mv3kwxNQMJweyr2  ---- rating :  1347
+userid :  4s3LQbgvVnaUw1ByDCPcmGMZbm43  ---- rating :  1347
+userid :  fQgNNqWvxyReyu4zd0JGRql08jh2  ---- rating :  1347
+userid :  h1AJXj0CyaUiEJRllKaUgdZ7rdE2  ---- rating :  1347
+userid :  twbcX1UEOrVVbQtR7lG7gkfbbCn2  ---- rating :  1346
+userid :  VLlVRKVhXSPhGohNek87BXO5iDF2  ---- rating :  1344
+userid :  eBqKLRQYfwMgGwVKBnU2DZkV9402  ---- rating :  1344
+userid :  uBwYHyCDmjeXa7K8Pdn91yQ6aBl2  ---- rating :  1344
+userid :  yDvATD1KUWPlFmMMWJJ7sYxnTqc2  ---- rating :  1344
+userid :  zdY6zA68WeS0KDcgBVgBEOVMxIE2  ---- rating :  1344
+userid :  50jJlAQTmBUKt7Wtzot2x7WayKA2  ---- rating :  1343
+userid :  zJp4ioHqmsNwvxnMjYSKqfkft1A2  ---- rating :  1343
+userid :  iWAVOyTXMEQFXBzpEdEQyGcpXiy1  ---- rating :  1342
+userid :  pncNUNoqygMXhQOiIQggwCsBGy82  ---- rating :  1341
+userid :  ny7y7f72AAceLvznpPnqjNh4SuZ2  ---- rating :  1340
+userid :  oUmB3RITV9a2ibQudEIsFGmfEwg2  ---- rating :  1340
+userid :  yntkPk4faqULtLo5qJsG3uZQEG03  ---- rating :  1340
+userid :  I6EZvvJB2dTfLrHIVs0Zds1lym02  ---- rating :  1339
+userid :  WzJvO7P7QKQWaXSc1uJMED99Cwo1  ---- rating :  1339
+userid :  6cr3GSGK2OQCrYCxj7D5t2aWt403  ---- rating :  1338
+userid :  H06jqFrOW2afCrsib5LTMWjR4hq1  ---- rating :  1337
+userid :  H71V6rTPFSTIiutddmsWVbI3R982  ---- rating :  1337
+userid :  mWHJugpORWXPgkBij5PSZIVayky2  ---- rating :  1337
+userid :  cNmwrVIl5eWm6ZEE7IpXgJ9uPJJ3  ---- rating :  1336
+userid :  cvXkwJkzylPrRDH7HjeMBf3UQ1g1  ---- rating :  1336
+userid :  xRo0He7AX5OzQaq5LwpOPVOShrK2  ---- rating :  1336
+userid :  xQSz9vM2vXbRzB4zRtHT3nudccC2  ---- rating :  1335
+userid :  9L35eS3tSbT3GM5pBgUBd3Sdnu82  ---- rating :  1333
+userid :  2iQtKPF5MrPHDL8czNnJjCzBKh22  ---- rating :  1332
+userid :  MKgLJ6wS63TTMY0UAiR9ofA262y2  ---- rating :  1332
+userid :  zprIsV4uUQMpT2pXrr1b6fgtyvx1  ---- rating :  1332
+userid :  RONZkwC3WsNbPATyWxCSmLuejxo2  ---- rating :  1331
+userid :  gfSopfUMWQSLtQrZLBB5ZeHhNCB3  ---- rating :  1331
+userid :  hHmlcReFQkV2cE02On2dyUGYa7B2  ---- rating :  1331
+userid :  CkFsoVlpPgZJJYew5MVff1459yD3  ---- rating :  1330
+userid :  FdqXQnQ1VBUsIz1vpESBffQ6nHk1  ---- rating :  1330
+userid :  HEbpDvGnFihpoKcvCwI1uchKPz32  ---- rating :  1330
+userid :  PpPdiuzvrKZrCxt8XdTtbBCdJJI3  ---- rating :  1329
+userid :  RleFuF0xQxafJ4Uee5T1yT46Wd42  ---- rating :  1328
+userid :  ig5O3ffygdf4W38FsAWzXb2BBrR2  ---- rating :  1328
+userid :  PnEmjn4cw0WQNDzpEMVxWBO1Sxv2  ---- rating :  1327
+userid :  bZqrSx9BxbYu9He8rdTFedMWia83  ---- rating :  1327
+userid :  2UZnkrxC8GdYsW0xJlNXeR5VtAi1  ---- rating :  1326
+userid :  6lWetnXVUtQosJyp4rUg0ExrWkQ2  ---- rating :  1326
+userid :  GyeRySvKRJPkvUxyrvIecpgM5lB2  ---- rating :  1326
+userid :  x6XU1kqL6yO4B3x4Ip6RP7MJiUY2  ---- rating :  1326
+userid :  3W2YZfGJlRQ8uj7MPPE8z3Bcqop1  ---- rating :  1325
+userid :  5awCThPDouSFaIrI5L0iHisrjYc2  ---- rating :  1325
+userid :  LXJUQLwDrCd788uuq5APNQoLoaa2  ---- rating :  1325
+userid :  jGFaLevFdmTtPIfrrIhZ6kMIoR92  ---- rating :  1325
+userid :  v2O9P7TXl9XwOFrcAmv4jXYOeR02  ---- rating :  1325
+userid :  K6rwhjiVOSUX0auUFzf5Fek5mwa2  ---- rating :  1324
+userid :  SPk0v9b5K7UjCLoT77cSlbVWpqD3  ---- rating :  1324
+userid :  HXfKqfXlu4S15M86pb6QKneOoPO2  ---- rating :  1323
+userid :  nhZKSNA7hsROquyn40s5UQx4KpB2  ---- rating :  1323
+userid :  EUvhe7qxygWmsrehuMO6j4Iigim2  ---- rating :  1322
+userid :  Ic5NgAp6elZdxjkk33RIpW0craE2  ---- rating :  1322
+userid :  Qu4j1n2YxCXehPO1ltZsO8oIOU93  ---- rating :  1322
+userid :  vW1KspQv5rW4mLPghbIc0SML0F92  ---- rating :  1322
+userid :  JX8PkPEKH9PIFxkgKup1bMVVMB03  ---- rating :  1320
+userid :  duF8cRhe65Vv5meMwo2dZ2cBQnC2  ---- rating :  1320
+userid :  3r3cwvV7ozUEFbLkKvAamUUOHon1  ---- rating :  1319
+userid :  gJ5eDdMt5fOT923ueRe58KUdpfJ3  ---- rating :  1318
+userid :  RKpOQj0dM4NkBtSGhEEqdiFEdMr2  ---- rating :  1317
+userid :  jjrA9Uen6TVt338rmptsS54WlV62  ---- rating :  1317
+userid :  tv7VV0UI0hhnFN64WmfoqpKHo4m1  ---- rating :  1317
+userid :  wf3VDyb7IhNISCLUPTBhQRkDc5q1  ---- rating :  1317
+userid :  LmGCMVvxdsM94MgFYQicBcZQnnW2  ---- rating :  1316
+userid :  OLAJHpJeByTBfl9HxNxmQx5I9cZ2  ---- rating :  1316
+userid :  ksCDYVJR7pPwyXkSXgzMek92m7J3  ---- rating :  1316
+userid :  mh9HciLnDLRO70iCgnYSGEOFOn83  ---- rating :  1316
+userid :  EmjrUPaTWKO5XfIcQOXLU2Bz23t2  ---- rating :  1315
+userid :  FsW1hF2dUIWHSEsF7B8lr0JXkjB3  ---- rating :  1315
+userid :  xS8XilEzLgenZ7M2aWQYmX00NHy2  ---- rating :  1315
+userid :  63gtLvvKzCONW0RxKLz0yRYGQId2  ---- rating :  1314
+userid :  9zPnj3oP7DhxxLY6QAYOqqvFa7e2  ---- rating :  1314
+userid :  B1S513coEHTT0qxbShDjiqs5Ku83  ---- rating :  1314
+userid :  5T0Vz6jRckashllw3gX89NGYtRE2  ---- rating :  1313
+userid :  Xhubmw51QgbUYuXMTCt48VJPVGx1  ---- rating :  1313
+userid :  at8IEKauYsQs9GD7vVSVOr7JIcH3  ---- rating :  1313
+userid :  XeCTbfClJoSe3WuiFxnvJurhOj13  ---- rating :  1312
+userid :  YrwKK7ZWO1U2aFA2k3tjb2FmUjT2  ---- rating :  1312
+userid :  3wdxi2Ob5CaYTj52pdhz6nvU9uV2  ---- rating :  1311
+userid :  8LWa77fDQhb5Y7YNdzetI80X6Ow2  ---- rating :  1311
+userid :  X671V9AG0ugj1mmT7dITJCrgpF83  ---- rating :  1311
+userid :  bWGFRFp5uWeuzwH8aehJSiXo4tr2  ---- rating :  1311
+userid :  JjjGr1mwGJZx9LzxZLO7Scd3hv12  ---- rating :  1310
+userid :  uWYR0fVXZtcCDkks3bsEAJyJY9v1  ---- rating :  1310
+userid :  IWV1ZTdED1MIttPnEJTWT5DKE233  ---- rating :  1309
+userid :  SON0eUZxPGNeR2QrQtfQCPSAuwy1  ---- rating :  1309
+userid :  qMfcQRIqVwceBVBWZxNOVPDCUr72  ---- rating :  1309
+userid :  hwvcG84wsJRRB8JamJ4ejwbnTuj1  ---- rating :  1308
+userid :  8rdzAUM5B9N5k8ouse6fSfCyNbq1  ---- rating :  1306
+userid :  EkAglOCXaOT1cVNwmFWSKr7mNAz1  ---- rating :  1306
+userid :  OdLRbIfys8TZEu26koKnEJcFt1C2  ---- rating :  1306
+userid :  vMxe6DHeZfSzAVvRnORKBOB1zpE3  ---- rating :  1306
+userid :  7RhYZZnbDfgTBtSW6OFIEGVSwGr2  ---- rating :  1305
+userid :  P9I3mFnbdahKHai1tREgiY9UNb92  ---- rating :  1305
+userid :  zCvsH8DNwdXcmGPYaZ1HMMcHZ262  ---- rating :  1305
+userid :  608VDQ4D99QqAE9evMTKZDuhZWj2  ---- rating :  1304
+userid :  cXBmYWkEkNVJkGqBu4Z7k9ypFlC2  ---- rating :  1304
+userid :  qV6kjXpVucO5ThK8U8sSCQyIrsI2  ---- rating :  1304
+userid :  Fy2KIwgqH1aUe77ooNzyfBfxHkc2  ---- rating :  1303
+userid :  b7vq7Pvd41M0Q6HQbM0h73zSpZx1  ---- rating :  1303
+userid :  kdNTIOSxzPeUkEBOrdfYLUc0gAm1  ---- rating :  1303
+userid :  PR9PEEHCSSXdM19iIdYqUoVPEQg2  ---- rating :  1302
+userid :  9FUNm7yWUMb8HQql3YVE6cMUXtK2  ---- rating :  1301
+userid :  JZel8qPlcFWOMrjySkEJvatEFXi1  ---- rating :  1301
+userid :  6YA3VJ30DIdfdov8oJNIAitnimF2  ---- rating :  1300
+userid :  SWVP46EAMceeLIe6Kxr3CbNJrOh1  ---- rating :  1300
+userid :  TSkw9kDrR6PlvxmgE24CTZYFzhg1  ---- rating :  1300
+userid :  fmYoYAvRnJNEPtjF2R3csFTDO8U2  ---- rating :  1300
+userid :  XhcZD79sDLQu7BMgt5k6iY8O8mS2  ---- rating :  1299
+userid :  h7d0Nn0fQjf1h9YNooh32lzjZZG2  ---- rating :  1299
+userid :  L06OTgl5pLbYjsnaHWaDJkWnK2B3  ---- rating :  1298
+userid :  EqM1DCjuwtWpOkfGSmN3Mh6BvXo1  ---- rating :  1297
+userid :  pXl7UDdpfugxsxPrg4MYX55Sm1H3  ---- rating :  1297
+userid :  03XVUqUCUaWksL3KrpygaPgfvMG2  ---- rating :  1296
+userid :  8RbH0GzJKBdR2emx67gBb56UuO03  ---- rating :  1296
+userid :  WlggkFkM9ZUS82YvslnzLATsrVD2  ---- rating :  1295
+userid :  487ML4iuddZohgHqmbkTdWIVGjg2  ---- rating :  1294
+userid :  sleF9v17y7baw5Cc5OoYTH3OlVa2  ---- rating :  1294
+userid :  EfzCkgFUPUUXVozVGWgbld9eXXd2  ---- rating :  1293
+userid :  b0MOldyTWaOfsscpIyKTj7kbeND2  ---- rating :  1293
+userid :  dHYsUlMTeLY178dSdSxVcA79fFr1  ---- rating :  1293
+userid :  dEJlLUnLq0hpkqqcrijLk4cutd22  ---- rating :  1292
+userid :  3eRyrOijYaNGPs4aNtdtqp1ZDNl1  ---- rating :  1291
+userid :  yR8tJ77B9ZPy9nZFBsROSrpXooF2  ---- rating :  1291
+userid :  117fTSyIUkZK5Sa0PT8H7LepqSC3  ---- rating :  1290
+userid :  SE9hsIjsnlYlSEZlh1lgKe4AQZJ2  ---- rating :  1290
+userid :  EHUQNOuepuTUp7edo3hxXxeGzYL2  ---- rating :  1289
+userid :  bfhjf8lsbXdpldJK1IBQZLPcaGx1  ---- rating :  1289
+userid :  ffxe9dkLE9WEyPIHtlUynXgy8Rn1  ---- rating :  1289
+userid :  Lu26AS8XQ1WDGJlFA5m7ZJGqcfG3  ---- rating :  1288
+userid :  gGNqLMKDFeVdNn9qFpmXUH6tPCI3  ---- rating :  1288
+userid :  nuGbtNTbm8hmFRfujsEWjgIR5Pt2  ---- rating :  1287
+userid :  GeItQEhNFgPZ7Zmo42uwCaZngOA2  ---- rating :  1286
+userid :  KkoJMhXbQRWdEspb4kS36CpmAo73  ---- rating :  1286
+userid :  qSD1whJhSdM53qJLZBSFXNzZVT12  ---- rating :  1286
+userid :  yh3uYylpAkV1sSV8p4ix1u8PwwB2  ---- rating :  1286
+userid :  4RUffa42NLXJXd1xAuJOgKcFr133  ---- rating :  1285
+userid :  ec3ngcqa8FU015LWqJl3Z7EkCro1  ---- rating :  1285
+userid :  tMv5nMZC6xYVdRM7Q44AgeCtlm43  ---- rating :  1285
+userid :  HaGiH2JxDxfnkln3YgK0NPUnjEv2  ---- rating :  1284
+userid :  VpI7XWaUOAOlEvXw5w0C3oUFpXO2  ---- rating :  1284
+userid :  v0px40kW4Mb2iDHy1sBN2IuACou2  ---- rating :  1283
+userid :  cPaVn4F19JZwuzhEME1vu56a7eJ2  ---- rating :  1282
+userid :  JYYusa8GrQXBh6ynmYNps6QL9712  ---- rating :  1281
+userid :  T5BioFyPSpflXL5uxtSx1D4skS92  ---- rating :  1280
+userid :  qDrhPx1eeQXdRLfiwBK5RXYI66a2  ---- rating :  1280
+userid :  rxnOVGn6Qre4tyn6imWv56VmCAJ3  ---- rating :  1280
+userid :  triNDsiNAAcSzUfYkyYzs5NXq6v2  ---- rating :  1280
+userid :  Hf4Otdcr5qMgtelw3xFIvYypWhG3  ---- rating :  1279
+userid :  gCc0w3UqQ4fKll4Gd2NVc3X7S7l1  ---- rating :  1279
+userid :  k16sR30rmIeGETpBBuHVogU112Q2  ---- rating :  1279
+userid :  pcEYwhEH2yTG5Rus1eoMdTAZCop1  ---- rating :  1279
+userid :  AbBOiVj37PSecYO1pI4v10QPslx2  ---- rating :  1278
+userid :  MWfkcNjoNseGH14QRMnGKP8rPFW2  ---- rating :  1278
+userid :  X0PSeza1pLOW1bPDXAFDM0bNVJl1  ---- rating :  1278
+userid :  WJ5LDfJBJ2QhXZawg9lqCjne7Yf2  ---- rating :  1277
+userid :  aSQJ7J4b2JSjiNofYuyhiw31IiI3  ---- rating :  1277
+userid :  ieYwy1153WftKw1R0stnZXKM4nR2  ---- rating :  1277
+userid :  LauMC4Mv0KPIGSp1Vx8x00HGbax1  ---- rating :  1276
+userid :  Nf2VE5cDS3dPSLYKdkRTeLWwIY13  ---- rating :  1275
+userid :  mHefUHOADjYy95uW6PI0gZmUA373  ---- rating :  1275
+userid :  r0EK4MVvGTRzgexL9IJ9M8Gnf462  ---- rating :  1275
+userid :  2Yz78bMhG4UY1UeB2yS4BfHinEk1  ---- rating :  1273
+userid :  pIa8cpdBDlgLm3h4dKBQbsPek7G2  ---- rating :  1273
+userid :  1IXHgNd05ogTo0vq2FJxKjTVBDt1  ---- rating :  1272
+userid :  bkQOJNZ8lxa9Ox59fngqnOGjVZt1  ---- rating :  1272
+userid :  tdg2zWXMSMRT7z4Nb3grpUESafL2  ---- rating :  1271
+userid :  DGOX1RKZq4NGY4qztictlvOrukr2  ---- rating :  1270
+userid :  InnQJDcFViSwbtsnJYPqcsqndhl1  ---- rating :  1270
+userid :  ZljW9cDj9tTPTO5FE10UGL39eW03  ---- rating :  1270
+userid :  obyDahHQ2Vfj2TBDhckOVA08XcX2  ---- rating :  1270
+userid :  uTgeidsG9xVZA3ZbfqBMJt5Lsuf2  ---- rating :  1270
+userid :  XAaBAHsAw1ggT2vZmeoliwC8qkz2  ---- rating :  1269
+userid :  Yum7v3VmI8SkpN2484yv78b3Zo62  ---- rating :  1269
+userid :  Z5EQMV7lCYhHihlnjuNTmLtkvao2  ---- rating :  1269
+userid :  lJnAaQnQLfhS1yqkafUiQQHhAMR2  ---- rating :  1268
+userid :  s4JDx9t8D5QVemrUKgTgXiMKFY53  ---- rating :  1268
+userid :  AcX7aJ8Wn1Ncf8y4o5pQSRgTKq82  ---- rating :  1267
+userid :  Cnvix2J5m3UyG4SbQcpl5FwGLNx2  ---- rating :  1267
+userid :  uuGNzx1AyGXDvs8P5f6XMIjfFww2  ---- rating :  1267
+userid :  LGCIOTOm7KOX59mhGgqbeyvM9BV2  ---- rating :  1266
+userid :  j5VjUPBD0lWswDBQwkvSC44CvAG3  ---- rating :  1266
+userid :  8OKkKWO3LigHxDaMYxYJp9uijds1  ---- rating :  1265
+userid :  Hsy1irNpKIMPythdypELKh5s9er2  ---- rating :  1265
+userid :  ebb7hWCiUSOaGF7rsxaxDe3TmSL2  ---- rating :  1265
+userid :  sQMLw3JHKyXTLGEZRXqKxGxNQ843  ---- rating :  1265
+userid :  8m5UDFGSJEfXfDPHGwJjWeWUGK02  ---- rating :  1264
+userid :  ITWeN0w9QeQ5M2w4BCvjoVuI0Ht2  ---- rating :  1264
+userid :  b7OYdjJatwTAfsOjRmYnZUU6qF82  ---- rating :  1264
+userid :  TfpiEFDXaWea8ghhMqAGiUYvCh62  ---- rating :  1263
+userid :  3usu2QbGOodB6nBQa0lQX3yi3qO2  ---- rating :  1262
+userid :  6J2M8MROl0MTnpRYdm6kgRF9ctU2  ---- rating :  1262
+userid :  CCDvxDj5HvVDtxXY26PevdSGFfH2  ---- rating :  1261
+userid :  JVmo9c1I7qNNwNTQyiHDKpK8qU82  ---- rating :  1261
+userid :  b6JQn60bW8bARXmjyyBJQNRAPf33  ---- rating :  1261
+userid :  5h7JEqKG1lZff6QF1tcQ8EybztM2  ---- rating :  1260
+userid :  AU356LIn71RjPtfFy8TGfErWZlx2  ---- rating :  1260
+userid :  m9RgVP36YgfXZ0LR7nHVp7p3ecX2  ---- rating :  1258
+userid :  7yhLnfAqN9fTFH6t56JdBOxIaAp1  ---- rating :  1257
+userid :  FyhDxgIVMnUNTLW5jTaIvcorNea2  ---- rating :  1257
+userid :  K3Xf9i2LTGgNAO7xafifsozFYmF2  ---- rating :  1257
+userid :  YVSOh5FVrsa8AIRB9HCvuKLniE03  ---- rating :  1257
+userid :  o7b5auN64iUbDtzcYdQK5LTwytx2  ---- rating :  1257
+userid :  Elegx01CwqQ26xmINTzMeUalQiO2  ---- rating :  1256
+userid :  Y1ys856JFWewe1g7dyb98P0HxOt2  ---- rating :  1256
+userid :  YqhVji4oAHWGsRk1YNHSLzEfnth1  ---- rating :  1256
+userid :  ebjCUeCZNMNJD4ZReJA6ssc3K5i2  ---- rating :  1256
+userid :  Qcb6TclREnaD89927R4KMQdcyMC2  ---- rating :  1255
+userid :  zl4XpAL3ryfWoyOAoiRjf3RJvUU2  ---- rating :  1255
+userid :  1vp18JRVP1aoHxajLAmXSxV6jjW2  ---- rating :  1254
+userid :  dXQgEYn21cX4lTkyM2nKMVr7wi53  ---- rating :  1254
+userid :  UydlyTpKu2NLCakey09JwSUVJbF2  ---- rating :  1253
+userid :  srGa2SZsCYZZxaprst0TV2306SV2  ---- rating :  1253
+userid :  vaGn3Q4fQBaiyZTetdQdUrZoWhE3  ---- rating :  1253
+userid :  8pZxsWQxotdhlH0oQRL9SHBk3Qg2  ---- rating :  1252
+userid :  Ddh6ipRgT2XyMz00z4KeyEkv9kx2  ---- rating :  1252
+userid :  HtkIJw2PbWMZ5FKiwe7bPB5X9HV2  ---- rating :  1252
+userid :  PwZTia75FSZBG2F5x8fGNR2kGtb2  ---- rating :  1251
+userid :  sCMG2N533Sbi8t648quadurM9bc2  ---- rating :  1251
+userid :  fSWPaZKIjfPHwmSN1t222nsWO3K3  ---- rating :  1250
+userid :  2uiMEE8DiPhv6Zgx6VXYCq3nakN2  ---- rating :  1249
+userid :  PmrPPVayRHfce4MasnPGmWQxu432  ---- rating :  1249
+userid :  yL6mmnBwNWQDZTUeOSaiowTh3h82  ---- rating :  1249
+userid :  B5H8IZoJTRQXQ1tLYiUs71A0bkB3  ---- rating :  1247
+userid :  nEJ7ybGgnCVSWGUjU3v4nXOqSKt1  ---- rating :  1247
+userid :  Es3pqMNptXSpfXQzmEBR9hk9jN72  ---- rating :  1246
+userid :  L2G8oi4G4ocFFrsQGXqzi7Hgy2n2  ---- rating :  1246
+userid :  YCqHBYVnYbQBrPrIpkirCXCnldL2  ---- rating :  1246
+userid :  YmhKmbVy6oTznofFNrtF1XC8Ssj2  ---- rating :  1246
+userid :  WJGggH0Kk5Q8OgJQepoMWfOux5N2  ---- rating :  1245
+userid :  7ECxZe4NjNZkEZH6MQDv39H4tFA3  ---- rating :  1244
+userid :  Gqbilb9d5kNXfr0O7PNbUrux6ox1  ---- rating :  1244
+userid :  OaYxAwY5NufAWg0aKbAXBPellcy1  ---- rating :  1244
+userid :  cBQsoe7i4OUeQNBRH5oaRxX9vbd2  ---- rating :  1243
+userid :  VG69eBfAyTdggWEN84kmujuem5i1  ---- rating :  1242
+userid :  xJaENi5So5cjbaHCsZGrMR6fHwZ2  ---- rating :  1241
+userid :  JvkCA53SlYOtXAdRu1JI4iS06Nz2  ---- rating :  1240
+userid :  PRKNC0CgGvXnGoKBoxLu3tRuggJ2  ---- rating :  1240
+userid :  lCJFjV3RF5cIIQKmZbmAhd9rc3B2  ---- rating :  1240
+userid :  PzCZSXF3jUZUVUokv9r8LN6tadI3  ---- rating :  1239
+userid :  vTHMZjnRmYcyZBlvoOUyN10V5do1  ---- rating :  1239
+userid :  0Tex6V9nmjYeJitJppqJpbFlKQv2  ---- rating :  1238
+userid :  uGNz8e6oUITWU0iQC79CbSx1UBn1  ---- rating :  1238
+userid :  WGsEAN8cCbWspojJWZKaiXB8cbR2  ---- rating :  1237
+userid :  uE4ZKwKWvZVPbH4i6b1rcvfHhik1  ---- rating :  1237
+userid :  6jv355MxoXPH9joiIUEqOQpcczj1  ---- rating :  1236
+userid :  8RM2dVGbqDfMoKfg2VbGFjuiGie2  ---- rating :  1236
+userid :  oNXZI0ZkPIc4NcmFnIHyfSFctRE3  ---- rating :  1236
+userid :  bzQ3uicMiqbNunZQW8ZGxTFuXZs2  ---- rating :  1235
+userid :  sn2mkt2JLrOjPK5ZG0gbVLDggmR2  ---- rating :  1235
+userid :  K53zquMnmkgOR1ECCWKpkEojdh52  ---- rating :  1234
+userid :  l5m568JDrDelcRCykqERH22OaJ43  ---- rating :  1234
+userid :  me5DZKbcHaZoF1U6o0ZMtFNrwYp1  ---- rating :  1234
+userid :  gizelDqeDEMHbE172zTjVjsysgO2  ---- rating :  1231
+userid :  NkKmR8RLNAX5gvb3IbiD8reyG8E2  ---- rating :  1230
+userid :  sof4QDpIMWgxzFyCen3SyU9ZvC42  ---- rating :  1229
+userid :  g99t30gjT1bl8o8XDogBMiLq0f02  ---- rating :  1228
+userid :  hHvlbYjYBHVEPsx7w0qeXkni56p1  ---- rating :  1228
+userid :  5erCcHV7QuOglrCAa2gxc1zdEe03  ---- rating :  1227
+userid :  B1g3o8VHFERbgTcwgvXh4KGseFI2  ---- rating :  1227
+userid :  HPmprDeFaLQlh5nY8IqFoNI2tMC3  ---- rating :  1227
+userid :  Ubz5l9E79KhGTemGWMgAAFh0p282  ---- rating :  1227
+userid :  mLJZPd6OZ9etWTzET1FfwbqN0TH2  ---- rating :  1227
+userid :  6bjVEvHyJoStltUEubUyYkwsJRC2  ---- rating :  1226
+userid :  yahQi6gSeHasvC3AUiS51E0MeIi1  ---- rating :  1226
+userid :  U5W01ET56uPFwLcg6AFWpPZzFyy2  ---- rating :  1225
+userid :  Y14hPXywgvUQ03LqqYNBHc4eFzx1  ---- rating :  1224
+userid :  IT8vSdFvzshdIEb5tA9YP1Orx2F2  ---- rating :  1223
+userid :  fjviiOqYliX6UtBzlR310YHgCfQ2  ---- rating :  1223
+userid :  yw9Fq0bS9uTaIz2XhlbipJ8haZE2  ---- rating :  1223
+userid :  HjAypqkZOeY6TPaute7xf2TWom02  ---- rating :  1222
+userid :  MPieibPp2ANoHDQuJsBvWLr0Nf63  ---- rating :  1222
+userid :  f3vi10Bw4bdlSAzZsifbfSNn8VJ2  ---- rating :  1222
+userid :  R9VFSN0QlNTFC4rdrCLi1i2wOEq2  ---- rating :  1221
+userid :  Cuc54fILHqeC58R6dhFsTOzunBu2  ---- rating :  1220
+userid :  KbklBCQI92gQjHCKeMNPV1Fr5LB2  ---- rating :  1220
+userid :  j7rZfwSvcEWRHBIFWl5o5ybFdfn2  ---- rating :  1220
+userid :  rnolfGhmurSUvEnUEUYfFESYE7C2  ---- rating :  1220
+userid :  Jda2LYUiBXdyk1BfzIwxsOkKHFm1  ---- rating :  1219
+userid :  cMVyiBGq9uYvGMX92V55fsFsPm22  ---- rating :  1217
+userid :  kgckC82musZDIAGEtdf2X2tRVme2  ---- rating :  1217
+userid :  mQXrsBQMt6cl6Ye6TimciylHNEh1  ---- rating :  1217
+userid :  24L5HUqHM5XpeYNNim6pSnE8Za13  ---- rating :  1216
+userid :  OZjl9Er2rETKmCg9qxRFix9v3jW2  ---- rating :  1216
+userid :  iB0SDdCVOXYVfSnycMKlbB0cM9R2  ---- rating :  1216
+userid :  o3WchFx05aQYqIqKGPFDJ67jiig2  ---- rating :  1216
+userid :  2pOhwyuL6VUElysxe9rXoSoo5ZI2  ---- rating :  1215
+userid :  DDQhCvoWOsOavFPWmllFJiLMW2x2  ---- rating :  1215
+userid :  eU39t8CFVWXPjn0iW2HLnTHZRFz1  ---- rating :  1215
+userid :  JEpq5lTf9yeTyjP5tMtRKI4Gxtp1  ---- rating :  1214
+userid :  IMzKymtBHThrATkYGqDG81NRcho2  ---- rating :  1213
+userid :  moApW9uBRGh3nFSFelHHwt9Mj0A3  ---- rating :  1213
+userid :  zCizPDmTDlRteOnkQoYgFPmiUrX2  ---- rating :  1213
+userid :  1sVGyTfIfAVJhYLqw0lXV7TUlDN2  ---- rating :  1212
+userid :  8qAjwEZ0WrS0SMwASKTzNWrrO3a2  ---- rating :  1212
+userid :  hqwCFVV5J0Y806G9VYd9olM2Qog2  ---- rating :  1212
+userid :  nX66Zi3x7fM3EdrjgMid3SoMdnw1  ---- rating :  1211
+userid :  tvjgnAEvhvT0Sfwjy61nFARXDVn1  ---- rating :  1211
+userid :  ZBGZ2LWASQQHmW2Ny478v8hDtt43  ---- rating :  1210
+userid :  yL40vE98h7Uhtxxzvlg6eggK8WN2  ---- rating :  1210
+userid :  1HTTKKjir5RkMcvACbAaRCq3Zm23  ---- rating :  1209
+userid :  4t39fjsBfgfPRSZvH5QFY9sM7FD3  ---- rating :  1208
+userid :  4xrhtcsqz8S3oSwdzLYLGHwnKlg2  ---- rating :  1208
+userid :  Jxw4BQXl2RU0TQXZSjw4Bqp0tp23  ---- rating :  1207
+userid :  NdmfSVWg9pckhx55BBKMAEu716x2  ---- rating :  1207
+userid :  FgdpNk99AvWdj1hiRwxbYTLCyJr1  ---- rating :  1206
+userid :  J5XLY9qixAW6qEZAKL98QYShwP92  ---- rating :  1206
+userid :  VjyS7DF3ywbekfszekGqSv2PoR32  ---- rating :  1206
+userid :  juWt6rMIdeNAUak7tITTAEQumDG3  ---- rating :  1205
+userid :  tN8uQJHMjVeki0dt5iO8dCDB3yP2  ---- rating :  1205
+userid :  ZXWhD9T32xXK4DcSTMsB7rMvJgI3  ---- rating :  1204
+userid :  aZxNVxQtj7UTK5qGdYzJlWgQ8X12  ---- rating :  1204
+userid :  M1On87xjYRNKsDEVpuoBomiyI0H2  ---- rating :  1203
+userid :  VCyg8RhgbHZ7ajoBM517moZndXT2  ---- rating :  1203
+userid :  WNmYVKtC4tTBT5XL6Sg1C00GD0J3  ---- rating :  1203
+userid :  cLfQDuQWU8T8yyLha0MIcy0ETng1  ---- rating :  1203
+userid :  9Lcd1IuNg1QhX8SAWeNoD1WYMBy2  ---- rating :  1202
+userid :  ei2EUHo3LOX4832pjrqTWWNrfRJ2  ---- rating :  1202
+userid :  m0cxT03LKkbJDKI64u1QW3jLxE92  ---- rating :  1202
+userid :  r1lkuLudPPf2G4cHw3OkrtB7cNh2  ---- rating :  1202
+userid :  RJHGX9ARziPljqD18Tu5YhbRjO82  ---- rating :  1201
+userid :  bUdqWF79bgRmDVTa1PEL4KoMb4Q2  ---- rating :  1201
+userid :  p6DEuwQnPJMkN6TfKropWqynOGn1  ---- rating :  1201
+userid :  JwY1Azk8X2ZpB2iI2jKnKEBmmXe2  ---- rating :  1200
+userid :  KPKdQ6WtBJWuNvKCnF67kcTlOJJ3  ---- rating :  1200
+userid :  txMrpm1smeOpUh3DzA5Q9cZmq2K3  ---- rating :  1200
+userid :  9QhpkJpU9kURrmzZw5dhQNp87Am1  ---- rating :  1199
+userid :  SHiw04xFyyUt5RJQOS9LZkDUq613  ---- rating :  1199
+userid :  vM5FdlKFQsSTbrch8PPWPBV9X473  ---- rating :  1199
+userid :  9Wi0iT100qWAH9K7S9eCYTR87gC2  ---- rating :  1198
+userid :  YAk6BQaZZvZFBQyWzoIom5fROeZ2  ---- rating :  1198
+userid :  wGISSbdzxOgAotsUvTns014SLYM2  ---- rating :  1198
+userid :  zIKEmWhYnxZY1W0jduW23Ju7N6c2  ---- rating :  1198
+userid :  ORs7IWC0KTZhRTp0wOSPhCvWk6G2  ---- rating :  1197
+userid :  YmVHUZbU49ROrLx8CyFU6juIkvG3  ---- rating :  1197
+userid :  kBwyuwBo9LVDzuh5drvtILJ4nyv1  ---- rating :  1197
+userid :  0YV17ija8SbUYVmWf0l3PXQPUH13  ---- rating :  1196
+userid :  kpbPVeAXthQaYAXQeMaXDNgF31q2  ---- rating :  1196
+userid :  nkIkTQ0lKPRrSOB2J323WjXDkMI2  ---- rating :  1196
+userid :  qlJhd3XJDsOuFRbCk6eWbZQHhJU2  ---- rating :  1196
+userid :  Q4zYPKdkZbgwMfSzrlALQbWy60I3  ---- rating :  1195
+userid :  ehdrkskcRQhTLmL3sNvqVjyJFL42  ---- rating :  1195
+userid :  7p2UiHW6AlPz26AmLmGzbMATDyC2  ---- rating :  1194
+userid :  TygyZQ1lVsPrBMMmDJD7SCisOhc2  ---- rating :  1194
+userid :  KNyM89gYxBR1J35jdaQoLE7d9d03  ---- rating :  1193
+userid :  OryGKOTVVuX1PltrG81DSxF7TjA2  ---- rating :  1193
+userid :  MpiWOZADxtaKM4IGineDoNb2GQ12  ---- rating :  1191
+userid :  hHV2Dl9ussUMTHVoztORNYuGtDe2  ---- rating :  1191
+userid :  lRHymqAiOoTLBDO6YQDG9NsvHc53  ---- rating :  1191
+userid :  vkiC1zpdOkW59Zzir756tcEesnv1  ---- rating :  1191
+userid :  9zqfTDsBFyOGfu04pkHZ9TlKcVS2  ---- rating :  1190
+userid :  CEv8yCYixxTvjlLSiDRXWGMr9C52  ---- rating :  1190
+userid :  hqLAdQH390WITLlkbsPdVkECZnJ2  ---- rating :  1190
+userid :  in1Sd2U6Nfhxbcu48MK4XBM6A882  ---- rating :  1190
+userid :  JNrweSJuOuh2YcVgIRfPvwvmmME3  ---- rating :  1189
+userid :  MIE95oRPx1S6f5vQokmhr7Cq97v2  ---- rating :  1189
+userid :  Rs5akKZM5sdeNV8zfoQ5ZkOjknp2  ---- rating :  1189
+userid :  W9NK7j9hqtNLLlqVzfatVb8cKxA2  ---- rating :  1188
+userid :  h1qO5sNAWpdWvzQRTIbXCAJzSx32  ---- rating :  1188
+userid :  ps1ls8PgkidFRGJdjfCpboFCPJu1  ---- rating :  1187
+userid :  wVi0n926VqNS2jIZbymGUFsRzxi1  ---- rating :  1187
+userid :  iq5bdxrg0hd7L5KnLd0Kyz7XUg83  ---- rating :  1186
+userid :  nLX8yTfcsedtfUJWkFOQtjb7bg22  ---- rating :  1186
+userid :  7klkWVDgULQrWKbVOU0KKxKYrRG2  ---- rating :  1185
+userid :  EolwgjbYJ9So3T1yvKmiyE45dxp1  ---- rating :  1185
+userid :  J4secSUN0oRMVUfQV8kKypGuRxv1  ---- rating :  1184
+userid :  j9GnK8qvO7ZhTqpU43QIHhMdRGJ3  ---- rating :  1184
+userid :  odQg2M93peeAPYrnuGcIO4kHbjE3  ---- rating :  1184
+userid :  yHK8S31q05RrmZYbybuBjxAz0Bg1  ---- rating :  1184
+userid :  HItMwP6UeVReQleqY4iOdk0oMar2  ---- rating :  1183
+userid :  ZZm1U0vUJZWFGKcsCFdHpDYhKox1  ---- rating :  1183
+userid :  yb8VbG7FqWNwZC4LylI0wgzJF5m1  ---- rating :  1183
+userid :  9UB6aaW3N1hIkcuk27FulBzFI4j2  ---- rating :  1182
+userid :  FSAonZ3RGycN3qV2sUdhWOJnbuv2  ---- rating :  1182
+userid :  I20KCKZm5DVGZ5VajktRsxfBS142  ---- rating :  1181
+userid :  bigq8AsHzDPY5PjRApGsFajfXdz1  ---- rating :  1181
+userid :  2PTHytSLEVOQFwWo4wkcnVGAv0Q2  ---- rating :  1180
+userid :  Kci6MxukoMZhPVEpW7iwbXr89223  ---- rating :  1180
+userid :  NThq8YxuAPawjtJNhfONZCWJkUG2  ---- rating :  1180
+userid :  O3JfeZIp1qcXryEV8glz72goO183  ---- rating :  1180
+userid :  UbD0kbTs80TOAWOkpDkjXhTqXyg1  ---- rating :  1180
+userid :  IFwRi0tdw9ZoHaufZPNN6j4mnCJ3  ---- rating :  1179
+userid :  k7MUNjGikoVSq9XJmRFpe4c3EI23  ---- rating :  1179
+userid :  2dGgqM1BR4hkW4BZwMvoi8QihhP2  ---- rating :  1178
+userid :  W8LteQm6SGXay5LYDTePR2c7FO23  ---- rating :  1178
+userid :  AZIcxBux3jWT7WzkADaVMSuuHZq1  ---- rating :  1176
+userid :  QLADhiBD2hWSR5kKIIHLJjRK7bz1  ---- rating :  1176
+userid :  bcRzA6S4XoU7GlsPxCMbfCx213F2  ---- rating :  1176
+userid :  G557Dg0jWwVt9aqtLxvvzhBEFd52  ---- rating :  1175
+userid :  4KlfJEiLMaVgjObBiReJBnAyyWi1  ---- rating :  1173
+userid :  R3lQdCmetcTXVqIVBlkDpgzNsF03  ---- rating :  1173
+userid :  TDMbbXNmd8XmDRN6THG4Zvewvew2  ---- rating :  1172
+userid :  o6bC7IgxNmWRHdrSZAKyvuZOhMv1  ---- rating :  1172
+userid :  0wY3VtVZ2UZJ8JAtS3mLiuU1NyN2  ---- rating :  1171
+userid :  6tFfKKVrRMflAnNRHr8yamFmFA53  ---- rating :  1171
+userid :  nJ2LqRUIgrgFZWzZXedUMP8D1sG2  ---- rating :  1171
+userid :  93OQEBw5rwfIpuZgslMvAJ8WJ0x1  ---- rating :  1170
+userid :  jivMqMklxfMUFt6acu7FSpcQ3GG2  ---- rating :  1170
+userid :  pJ97IUr8mkersPFO5WKA7jNhvIZ2  ---- rating :  1170
+userid :  109UY1Fp4fQybhEgQ7itXfydyAf2  ---- rating :  1168
+userid :  2KVmmHCD4DNuEwFLhYibLzlHHj72  ---- rating :  1168
+userid :  PtKQKw7yAiYbbbYs7WYAsLC4VRX2  ---- rating :  1168
+userid :  6zyQfgrLHRM81EQQAODprY3I65C3  ---- rating :  1167
+userid :  TxSOZ4CETHQth2k4odlXT69IVz83  ---- rating :  1167
+userid :  Hquz9GKFQjM8KFT4VDWw43Qvh7x2  ---- rating :  1166
+userid :  JjhNpHugcOZuiXN8RGuD282XjIk1  ---- rating :  1166
+userid :  ujiXIxFtrOXLHYKzh47huqhjMZ93  ---- rating :  1165
+userid :  Rvb2e6G8bHPGnZXY32xRmuxxclU2  ---- rating :  1164
+userid :  SNRmmSQFDBdr8eq2Mvmz9LSL83G2  ---- rating :  1163
+userid :  o3rG6RNCy9RIwXgqsLV0nRvbE2x2  ---- rating :  1163
+userid :  vJtwjXmgndXuVBXEP6dkPwHZfXo1  ---- rating :  1163
+userid :  YUcCJHQDb2VnmE3z0mqnPn6P8i43  ---- rating :  1162
+userid :  My8LNzGpa1OVkoU1Ufl2y8pNrUY2  ---- rating :  1161
+userid :  XexP9CSu07MwDhRAjGjKdAhLsEL2  ---- rating :  1161
+userid :  CIgkOqKayPhonl0aPXLqKz1qNs93  ---- rating :  1160
+userid :  IW0G0njDNiSvXlfasG8ns5MCLmi2  ---- rating :  1160
+userid :  IXA81vQZzCPPvxQoglBwyftAcAH3  ---- rating :  1160
+userid :  RTqwArC9yahR5YBOOYfBOvU2wkj2  ---- rating :  1160
+userid :  bcIaJL9seng9UbVmmddv9UCfXt12  ---- rating :  1160
+userid :  w9yAieQYw8g9jZZ05QqHCHtHTgN2  ---- rating :  1160
+userid :  9wTd3GdWTyPcUUYCsKOXWF1khE13  ---- rating :  1159
+userid :  DlWpR8aa7Xfpk54CtXf55uJuPEJ3  ---- rating :  1159
+userid :  PH6wIXlKtyWa4lFZ8Fx4oHddjfN2  ---- rating :  1159
+userid :  EiknN2IRHYPaI0Ag3VphnVHA7Tm2  ---- rating :  1158
+userid :  PsmX2fHQFmO6D7w8jOLjKJVnQDl1  ---- rating :  1158
+userid :  xqdS7ZbOXuc8tt4Mp38QARIuEYH3  ---- rating :  1157
+userid :  NLZsgVbtNrNJYWyhqhQunNEHJeq1  ---- rating :  1156
+userid :  aTvvJOSSnhQmjVGH2ylwF5lEpbi2  ---- rating :  1156
+userid :  gT8nZXx1JhX4YoQzULXZ8ZpnS713  ---- rating :  1156
+userid :  iOmAydHXEjRb7vIavFyakLTy29U2  ---- rating :  1155
+userid :  GXJM7DF8H5QLOpPKTgYf4GfdRxD2  ---- rating :  1154
+userid :  LIHXgL2PqyQYGb3uytnC4jmGbGX2  ---- rating :  1154
+userid :  Xzmidg2MLbVP3jUlwm7BDPvVkhJ3  ---- rating :  1154
+userid :  l3nY3syXBQZ63spgzCQMTtkzkqt2  ---- rating :  1154
+userid :  o0ElfTEiqnXymUmhZRPaa3akftL2  ---- rating :  1154
+userid :  ngKiUgW5oOUF0wU1i47zOJrEdkC2  ---- rating :  1153
+userid :  BLexfgVooKgoMowLVymuBxhqZKP2  ---- rating :  1152
+userid :  KDcE7tTW9GUUmXMQhC5H0LdP2U23  ---- rating :  1152
+userid :  LMQk6Lry0xcmMRnI7kkzFFSYipb2  ---- rating :  1152
+userid :  tBNk1efDEZZrOoxB2hhn9w4Zu2F2  ---- rating :  1152
+userid :  WZnIA6srPOQtyN17udbltedn8oF3  ---- rating :  1151
+userid :  V45Opk9bazYNerK6Pdk9ULz8ggg1  ---- rating :  1149
+userid :  cN2m4g553MWcyPPLfoprfLSIwPx1  ---- rating :  1148
+userid :  CG19irQwGZev3h9vzko3sbrzATH3  ---- rating :  1147
+userid :  ZOJGUsJ2nrTM8eyH1DydnE9D6q02  ---- rating :  1147
+userid :  8FpYtgNa38bSbmCTSxsY4e7EWke2  ---- rating :  1146
+userid :  CbDfT7PxKlepFYU11u35bCqYVJj1  ---- rating :  1146
+userid :  EUfa8mZ8TOhzEghfaJGYtrEJCh92  ---- rating :  1146
+userid :  UmcNCHWHc7bWNrW3zCvg9wQaoAZ2  ---- rating :  1146
+userid :  dhhg4IOCc2SQDDdAPQRIgauwsL22  ---- rating :  1146
+userid :  lY10h0FlVwbXpa0Q9U7nxuS1wEw1  ---- rating :  1146
+userid :  lumhEKdj9oYPjrOJBmKs03hr8cE2  ---- rating :  1146
+userid :  8Iy09xw9bHVkLME8qJVYfbjyX6o2  ---- rating :  1145
+userid :  PGovPSTCLXcAf0ACARzkcV3vCMo2  ---- rating :  1145
+userid :  cwh63AYBXSY2K98QkJ9U6QrsZ062  ---- rating :  1144
+userid :  1X5UE3jltAhanG2wPdV4yao4v8G3  ---- rating :  1143
+userid :  b7L5YVb74jPZrNhVSR5ThmM98hx2  ---- rating :  1143
+userid :  6Sdi50mZGKflAnI3VgLknhZPWbW2  ---- rating :  1142
+userid :  6oIkRzxc3zehmRQQNzxOPM5Tn6i2  ---- rating :  1142
+userid :  WtmcNmkJVYTR0ltq3X1GXWFMAx93  ---- rating :  1142
+userid :  YlC624X2FUXIVOcIN2YD7KAkBk42  ---- rating :  1140
+userid :  X9GT6OZzvscSrqJuEBROIgt0Cll2  ---- rating :  1139
+userid :  5AVGRuvIxTWdjgtuoirHwa54vcf1  ---- rating :  1138
+userid :  6gAsbkZbSUZ7lUbMEpyr4qgmTGw2  ---- rating :  1138
+userid :  KajOzAxW92fEUkgI31RcxPepTFi1  ---- rating :  1138
+userid :  LhIyuMoiBOZbD22l8BhqKxK81mf2  ---- rating :  1138
+userid :  aVHvUrUGckXEe7FEZ9SHeL8Biv82  ---- rating :  1138
+userid :  vhhQCZtB6mZrpt3ErhkLruRF7wq1  ---- rating :  1138
+userid :  ydn8GWCGWdc8DPimpx7CD75RMrq1  ---- rating :  1138
+userid :  zJHBihFKe3NFrz8XPJbtDkuKO7f2  ---- rating :  1138
+userid :  Ztjpl3RTBlW1fxixqrQq3B2arkA2  ---- rating :  1137
+userid :  2uVKHuroS0WOcdnRct81tV5hOi93  ---- rating :  1136
+userid :  mDp45sfrLIcL8ezvlO8K0z0Ow1E3  ---- rating :  1136
+userid :  mLMZb26cVHR9uWhI8Pfo0rsxTjO2  ---- rating :  1135
+userid :  1HujQOUcMmeicX6U6RMWTtlPQ3I2  ---- rating :  1134
+userid :  Quvdo8ctTcXUTq8fRz9d98BdMI72  ---- rating :  1133
+userid :  3NqgWTdrC8VGgfFpx86Ojc5ZgAb2  ---- rating :  1132
+userid :  DQywwNquxnZTSGvxexbJpGbY71c2  ---- rating :  1132
+userid :  bZZWmFtcGucsnGQs3Zj6KwjlON92  ---- rating :  1132
+userid :  pvavL2BfWaaCvcBIL5xnuWAslEy1  ---- rating :  1132
+userid :  76V0nuWObTfsTZlB0nFgMRqRmOq1  ---- rating :  1130
+userid :  V8U1L1KrCdb9G5RDwS2gC1TXfwu2  ---- rating :  1130
+userid :  oM0KqTCT8MSPhNXWicOVTSNRap42  ---- rating :  1130
+userid :  uVh6jXjOQMakPlBLQhuleJ92BW93  ---- rating :  1130
+userid :  Kn0wwu4WqfaeIixrEHH1bYPhiJQ2  ---- rating :  1129
+userid :  VuNDdy9edUdIfzavBuFV5JqjDat1  ---- rating :  1129
+userid :  YDwQhhTU6PTmlUt37wHTPDfQsGA3  ---- rating :  1129
+userid :  hfUw0bPqitNu0wrLXTZDPwGPdmZ2  ---- rating :  1129
+userid :  yp6mOCY6qFR5jBpXP2ypzi2hStf2  ---- rating :  1128
+userid :  owGu8BL6ffXKPyvZOnxNyjp4bpu2  ---- rating :  1127
+userid :  CmAuCauWdIQlgRx8Ej1eUt2DSkf2  ---- rating :  1126
+userid :  EFOQEAhomFP5IwUr63POgLcVKyb2  ---- rating :  1125
+userid :  F5RiDNVQsLbI9euqVB7jyfoL98J2  ---- rating :  1125
+userid :  QAx7Yg8yKsYJja7xlx0Af0nK3s52  ---- rating :  1124
+userid :  cBYYJEiFgOXbqSUyd6wCz2G7RQB2  ---- rating :  1124
+userid :  i9wGyUQ8gmZ8VgO8JhltF5OsuHu1  ---- rating :  1124
+userid :  tJja2Qp7YHZs93rIGURSctlUwiC2  ---- rating :  1124
+userid :  2Y4VMN1uTDUOk35amaX7kchi9sv2  ---- rating :  1123
+userid :  My7JGrNoFUfinZvN4YUUOLj7eya2  ---- rating :  1123
+userid :  HnNA81SNYrRXkF4El1m3isTt8Jm2  ---- rating :  1121
+userid :  XzUfBGWlNuR4KuzgFV8MCHiG6GF2  ---- rating :  1121
+userid :  9d5qg9BS7dbUMh8fcdtzFm3jGYj2  ---- rating :  1120
+userid :  8WR7LQSC3dVn9FtEslMab2s0w0D2  ---- rating :  1118
+userid :  AcWAUh570cb7QUKLWnzxr8XVuD33  ---- rating :  1117
+userid :  2UeUoHEcEjMJYfOL0mdyXlJrFnb2  ---- rating :  1116
+userid :  7l7LgatbI1hBqecMvx9MLTAcWIv1  ---- rating :  1116
+userid :  Jnn5p1d1XmdlI3uwfPxgskfyAVG3  ---- rating :  1116
+userid :  3BURVlP8FZfaAsjUtar5hu2UsKE2  ---- rating :  1115
+userid :  9NkE7V31M5ap9U9LDVMmKjmQZn83  ---- rating :  1115
+userid :  O6biZXx8ZgW92u7Nz9AQs5jUsZG2  ---- rating :  1115
+userid :  RJjKdHd0aYMfTVYKKeZwwjvkmJt2  ---- rating :  1115
+userid :  aHmqqsDAkrdAZALAPs1xlzDWFSg2  ---- rating :  1115
+userid :  rLYPqId0jHTOhsq6LLnAmEdCJFr2  ---- rating :  1115
+userid :  3ADsAkxxjLe3DTqUmmn2AZmBuEo1  ---- rating :  1114
+userid :  WUwEASylFAYgxxnlMzuSADE3IPg2  ---- rating :  1114
+userid :  Kbg31yv0QNfPWDvZDMTI1ACUdw82  ---- rating :  1113
+userid :  2EcLKLJ3dyWfLOusFHgEFydg1qC2  ---- rating :  1112
+userid :  AE5RiIcQqHQKPzYTEf4c1RxaKEz1  ---- rating :  1112
+userid :  ATw2XTzInTWM5THRQ2PPusC7VEw1  ---- rating :  1112
+userid :  VZCTC2wMNVaBkPKERc2vMfAOgkw2  ---- rating :  1112
+userid :  lk4ynYNUd4SJkswiJ4S72U67YoA3  ---- rating :  1112
+userid :  qaNwZmutR5SP3qefSssJRSWYolk1  ---- rating :  1112
+userid :  CwPgtPwHJCZabArNGGtvILUxUg02  ---- rating :  1111
+userid :  YIW2yfiWF4QAXYeBe6c2BZvjX3h1  ---- rating :  1111
+userid :  FIU4qvjHPvdKQk8pVoaV2Si93kn1  ---- rating :  1110
+userid :  3Tc9zk31yMNVIM3cnMHQ8S1y9Gk2  ---- rating :  1109
+userid :  4hgMCVBfb8RUr38VUiROyNNBiK93  ---- rating :  1107
+userid :  D2Dq2KdGUWgUOak3knQ6FpdiBpM2  ---- rating :  1107
+userid :  g870gQRdttZV4bmWDMQPu4wuIqr1  ---- rating :  1107
+userid :  C1eCaFiXEWcUKeHa8MqiqJ6Jfwq2  ---- rating :  1106
+userid :  L9iLsbkAIXZH5pPcCni6jhPXk1e2  ---- rating :  1106
+userid :  Z4DAp4gLt4Qs7dkaQIwu9a4n4Ak1  ---- rating :  1105
+userid :  hbFoJft5xkWnknsP5y9rL4Lrbdu2  ---- rating :  1105
+userid :  rQuwUfiDWJhzWrCeFfN7MBcQPEl2  ---- rating :  1105
+userid :  9R3TzCHIdAQWP1ljDyleOxQL4dq1  ---- rating :  1102
+userid :  KakKzcIb73PDLAGFcLBgpud2cW93  ---- rating :  1102
+userid :  TG1xHJiA9ISnvBv3iqo7fpNpUdK2  ---- rating :  1102
+userid :  ZAH4tJhNyWRvcY1T9gsCfSN1inU2  ---- rating :  1102
+userid :  NT2bcCtOfsaotcMfT6xG6b7XE3r1  ---- rating :  1101
+userid :  bJ7phrvAwXY8DCgyziV1e6utJUp2  ---- rating :  1101
+userid :  FchhiscmhDTlZrEYfd5kgetGfJm1  ---- rating :  1100
+userid :  IOOzWqzryKOVyZSaK3FEreZ7F5R2  ---- rating :  1099
+userid :  Xp91WJdayTQlHs38xXkbpVR7KmG3  ---- rating :  1099
+userid :  Dq45nAxwfbc4dqRGMafPf54R6xE3  ---- rating :  1098
+userid :  iE8aH6QOzSV5X14AbV9kbFaeysi1  ---- rating :  1097
+userid :  njwF8yPnxfWLaZGxBEyGav7WVul2  ---- rating :  1097
+userid :  eqipdqaLYuN6KmxfSDT7AkwAaIo1  ---- rating :  1094
+userid :  vU9zpdcROkQmFn86SQsAsbeFKof1  ---- rating :  1094
+userid :  nzWt74k0PRRaZEx58u8LyPsL5xW2  ---- rating :  1091
+userid :  eyhUWmBXOfTnzZ5Fkv3lE5sFb4a2  ---- rating :  1090
+userid :  RwW1UrkZDCUhMX4GKoySLplT9Of2  ---- rating :  1089
+userid :  6fURpvKNwMMCbZNyAshV7mSLRTD3  ---- rating :  1088
+userid :  KAL4gdGV8xSKYy1xoW8zzc6lCSH3  ---- rating :  1088
+userid :  9TjhxofbVjTAdlM6Nc5dUmVuZOW2  ---- rating :  1087
+userid :  lFK89pNCmGbq55cgIYgFU5BZtDg2  ---- rating :  1087
+userid :  0lPK57agfrNhc1EFs9u4zYdBR7y1  ---- rating :  1086
+userid :  1bCQieq7BeX7raorrkxGfjEA2X73  ---- rating :  1086
+userid :  3pqTKdYsVWbt5LxxPu5pTs6OV5v2  ---- rating :  1086
+userid :  7IASxJ045bPxetdKIFR26lVYaCc2  ---- rating :  1086
+userid :  99YMwyE6eBdiU9mhF2ATVbuzzLn2  ---- rating :  1086
+userid :  9OgTVyAO17ZlLMxtFdTIvKAjGzh1  ---- rating :  1086
+userid :  A9YdQAsvBFZoqIRicuQQUnLPQVd2  ---- rating :  1086
+userid :  ALswijDcMteSEtT1X3iPMJWKxIB2  ---- rating :  1086
+userid :  JkEdqT5kPZTTPzV3Ohe039m3aaK2  ---- rating :  1086
+userid :  KVgoPIUyg1RstRW9n3LRZFMopXL2  ---- rating :  1086
+userid :  LT2BLvuFJyNLo3pDJTLLm5rSWQK2  ---- rating :  1086
+userid :  MnbCFyFg1jQN09QSQXB468UWQcG2  ---- rating :  1086
+userid :  V1eWORmCkkWWL2khhEoRgg8umfE3  ---- rating :  1086
+userid :  VfJjD0WgcQh1imrYlyfSzPKA02l1  ---- rating :  1086
+userid :  ZX3M02CkNhNOTrLm68HkG1rFmlG2  ---- rating :  1086
+userid :  aXPdF1TfbGNLONhhgmME3DoDPeo2  ---- rating :  1086
+userid :  am6OS9A14KX9lTYt4RULdpvnejs2  ---- rating :  1086
+userid :  cegQ4lkCBZaMIYrZJ0401SHu4D72  ---- rating :  1086
+userid :  d0HYAVs1M3ODDk2IKAwCguwyaqE2  ---- rating :  1086
+userid :  d4yIVQSvdEahjiNuCSZG6UL5VbJ3  ---- rating :  1086
+userid :  hdOWhnoljKe5dLwM4wTn7wAVxrB3  ---- rating :  1086
+userid :  lWxG8nKTxBZ2S4j3ODSHxyNZHPC2  ---- rating :  1086
+userid :  layZ6jupgVXpHHZTLuiM5HPwjbf2  ---- rating :  1086
+userid :  miENteJuj2SJFCgjYFIpUW4bMIx2  ---- rating :  1086
+userid :  pPLD0rtmiHbgZ1kb5X0J7wAJCy72  ---- rating :  1086
+userid :  sRkB2GBDe9QArS3ZcdZJcp4eYWI3  ---- rating :  1086
+userid :  tKPW9WXgEmT8BaP0837Rb2Y3VbS2  ---- rating :  1086
+userid :  vnPyaXVuo8W75JFLSwDXhzGFP322  ---- rating :  1086
+userid :  zcwL7M2pGDhwVR4g3ZOPrmzX7Ss1  ---- rating :  1086
+userid :  ujjRSXartnSAOXk3bSbaAjKTn8T2  ---- rating :  1085
+userid :  xXPUjzQuafbQq1rCzu9S7ThcQ3d2  ---- rating :  1085
+userid :  5THwyb7yiYXUfR2y435Hl2HeObR2  ---- rating :  1084
+userid :  8XWQfGldsFTG5v24Ezf05OkoUb73  ---- rating :  1084
+userid :  ZVpO5yTfirfElJhnhhcYShyQ2VW2  ---- rating :  1083
+userid :  Swd7Vhpnu2TiVXHFMNSdQroIRHl1  ---- rating :  1082
+userid :  HQKMEOH4SFdf0Zjn2S6ZevyYpLR2  ---- rating :  1081
+userid :  eBkGYmQdYhcORil6h4jfm3LTd3I3  ---- rating :  1081
+userid :  MVD5OashhVVXcf7vK0F4BBPDGvJ3  ---- rating :  1080
+userid :  VcW5oooAL7fLhIlTe3DQ1NteQ833  ---- rating :  1080
+userid :  0UBO8ccRWTXU07CT6jSBrlxhy5v2  ---- rating :  1079
+userid :  QYPxSslRmER6HqxmQZrcAWVI0Nm2  ---- rating :  1079
+userid :  i61Y2oa1PyY8XVIpXuhDXkeyZc62  ---- rating :  1079
+userid :  oWAO98RHKddgT0GNHy5hPd2GbsK2  ---- rating :  1079
+userid :  MkrWywy7hTOyzRtFm0MP4guCjVr1  ---- rating :  1078
+userid :  qZdgedZLA7RTDbha76Br9DjeK6A3  ---- rating :  1077
+userid :  X6zmlBM4biSYi418kDaZ7orXS4w2  ---- rating :  1075
+userid :  G30pfbcO3eVf9u0eqmigYXLsgZ12  ---- rating :  1073
+userid :  fIicg5OjCOdm24FDRCIhPmqO9Lu2  ---- rating :  1073
+userid :  nNwvAgS9KbO5mhuXFPcCb1nYgmm1  ---- rating :  1073
+userid :  FvJBAxFcw9c6b9tmCs8SZikHehS2  ---- rating :  1071
+userid :  2qxVdkTvNSVhU92M8rxizKLDjsj1  ---- rating :  1068
+userid :  xCmHLtvjsQM2uT4AiWhcK6cyuSK2  ---- rating :  1068
+userid :  HSrBNfa5u8NHdm2T7h9RQyxTRr13  ---- rating :  1067
+userid :  JAbNl6B9eSd5PoSZWcmSFHYuHsm2  ---- rating :  1067
+userid :  QDLowxezLVWsftHJQpQJEC3vzAq2  ---- rating :  1067
+userid :  Tnqaee3BmBY3UuDh78PqBM667Hg2  ---- rating :  1067
+userid :  c08Wu4uY2bOvYSHCPTT6YLvN27v2  ---- rating :  1067
+userid :  jah9464QJrfKAKgqyAI4DvHOhiy2  ---- rating :  1067
+userid :  y158vgw6McQPX7kckqGjxObTTCt1  ---- rating :  1067
+userid :  z611w7f3xQToksPqcHrk260A8Fh1  ---- rating :  1067
+userid :  F60hvHWf7oNSxL1E1H6FwcjhcPh2  ---- rating :  1065
+userid :  gv0Uzy0twqZ8OFy6BSYTQHA9GLK2  ---- rating :  1065
+userid :  G7ckiGwpVCTw8DywL8ZSMOB0Imc2  ---- rating :  1063
+userid :  aXKCicwxAARTBs166ZfJzleKie62  ---- rating :  1061
+userid :  CRxw66N05HStiW7ceIht70WEoc03  ---- rating :  1060
+userid :  UprZ7TYYAoe4HLBHxC8B6GfKIgm2  ---- rating :  1060
+userid :  V26lwhZnhHaZa81893kc9cFsZdJ3  ---- rating :  1059
+userid :  VyqYv52AtYWrKMj4GrKErdQoaWC2  ---- rating :  1059
+userid :  uuey48Ku9XgMJ9nFZ5g22iRvLMQ2  ---- rating :  1054
+userid :  nTcFTsVtgSSbSej1mvwzhgS5Yjf1  ---- rating :  1053
+userid :  oPh07fb88sgXyp69eyHjJVN0Mp82  ---- rating :  1053
+userid :  fQJVS8fYqDSTAr1RVlzRcZLZdqB3  ---- rating :  1052
+userid :  HtRmA0UDPXh5yeiRN0P6DHJF8St2  ---- rating :  1051
+userid :  AbJtdBJNM9bnlYcqHmA3Q9yqYHZ2  ---- rating :  1049
+userid :  I0RXr9v0J3XvWsilp4Fe5AZCK0J2  ---- rating :  1049
+userid :  sG2eVMXqZ6Nkiu2zX2Bn10JZmzD2  ---- rating :  1049
+userid :  fWhoKbT8uGYIIK8Al01fRxwzusF2  ---- rating :  1048
+userid :  kBAKA28hKpRBN5pjuZiKb1LF5DY2  ---- rating :  1048
+userid :  6KouuQXzCKfbobHz9sms1EBpEzS2  ---- rating :  1047
+userid :  0p6pHaJiXhSzAmyqqDqeunaUOIO2  ---- rating :  1046
+userid :  gjtmZZhL99WOPeUB8afVLN3uUEG3  ---- rating :  1046
+userid :  F0Lk2g89fFOD1GadBsKlbwJGdAy2  ---- rating :  1045
+userid :  b8fqx8wiQpVXJgr5D7YB85Hj4TF2  ---- rating :  1045
+userid :  duvqtNLLlVWmFbVd7HTGWtgnk6j2  ---- rating :  1045
+userid :  qOkX7VgUXjV2skStS1yzN1Sp2A23  ---- rating :  1045
+userid :  BJpYRsOaljVuw9oqz9FG6H10aJe2  ---- rating :  1044
+userid :  ESRPGJB8AWTKC4jJ1lNxOjiIXH23  ---- rating :  1044
+userid :  In3reBZQ69Q420i8tnfcw4tsOeB2  ---- rating :  1044
+userid :  QBShTD3mTLQYFdOo7SKenXPSaZO2  ---- rating :  1044
+userid :  j8qqhBjMYFfRUsRaMtIntvjCliF2  ---- rating :  1044
+userid :  Ui7Mh0QDQ3Nbod77Gw314BJgsM72  ---- rating :  1043
+userid :  a46scPy5Ipb079Fkpjpo4dvrm9H3  ---- rating :  1043
+userid :  bh5MPcs8PlO9jOsy5IhcHSIPFLP2  ---- rating :  1043
+userid :  lxG7P4cPrLOcPsxejzbu2uxb7tM2  ---- rating :  1043
+userid :  mEHMUFgAvHRVgI8Ut4gh8k6R9B23  ---- rating :  1043
+userid :  ZPUluLMJKrZKKUgIjqXSIUTadNJ3  ---- rating :  1042
+userid :  Zvq880oO13QswgF5RVg6QZZdQr32  ---- rating :  1042
+userid :  EVq3u9AZAMY3L4izBn83VR7VY9l2  ---- rating :  1041
+userid :  bo3BubUYlpRjYG98jSXeNchcTEz2  ---- rating :  1041
+userid :  rwVsASXmLBfvbYRlhuLLPgRuYPq1  ---- rating :  1041
+userid :  s7Yo83JmLeW9zC7BDCJcCKjFsUB3  ---- rating :  1039
+userid :  4eQ0UIsHLiRf3oxH6eVvxgcF2xg1  ---- rating :  1038
+userid :  nCrBl1FLbzWEVHsoReJpgqJzfrF2  ---- rating :  1038
+userid :  uXnc0GUFoMcQVcBghQAvpQpjidt2  ---- rating :  1038
+userid :  UQdHoGc8Hhaxs7OKNV8A4M8KqGx2  ---- rating :  1037
+userid :  OlWtXmCcqYhxJ7YcsIFJt3yHcm02  ---- rating :  1036
+userid :  W1tM8LYNWEh5JlqnLkFjTVDm1pp2  ---- rating :  1036
+userid :  dWVjpzuCbUSqZIqpgf8YoRWRtGc2  ---- rating :  1033
+userid :  dxX5Of0dfMUt8ernj3b4SNOrUmt1  ---- rating :  1033
+userid :  oCxWBcilVsYhTHdadPhg86B4rYq2  ---- rating :  1033
+userid :  aHhULOAQ5bPMOkNfhzC0AcSFBzi2  ---- rating :  1032
+userid :  87AqdfRTuiON3WVrbllpzHJCKcI3  ---- rating :  1031
+userid :  DYg7NKZpN4OOvQY43C8aMJlnAGA2  ---- rating :  1031
+userid :  Uc0UetCuxSUmwORLRh1xy8L2HNm2  ---- rating :  1031
+userid :  gP78Od91NfeYjqfn6sYDEM6kCDF3  ---- rating :  1031
+userid :  tZGvKqVt24aADgxaDF8XGf7130l2  ---- rating :  1031
+userid :  frKy6AtJg0WfABhfri9cyTM6ved2  ---- rating :  1030
+userid :  bTqMkcmttGSTPhVeje1bmUoKI522  ---- rating :  1029
+userid :  vsHmR6W4jZY9xkpIDoVcOKvpumE3  ---- rating :  1029
+userid :  IkkpXpSTyzdZG9pgFp2tPSEG3eZ2  ---- rating :  1028
+userid :  VGZziLNtGfVfzKJbW5mC7FL7i5F2  ---- rating :  1028
+userid :  eFBZ1YwFQpd3T57bsg6b4XA0Gx53  ---- rating :  1028
+userid :  NTDNgaPlafMoRC2EAE6OTqOmjJu1  ---- rating :  1026
+userid :  iLZ8RBQOdTaJ20OofflHqgDOSOz1  ---- rating :  1025
+userid :  VaMymmoFHQbULGzN61As7iWluI32  ---- rating :  1023
+userid :  b5k5Npn8ROOVVshZAQYUdCrxPE02  ---- rating :  1023
+userid :  LMnfLSQsWDTMKpscW1DtEJg8Rsk1  ---- rating :  1022
+userid :  ADXOl1vdzOY44ysSwn71UsMyCsl1  ---- rating :  1021
+userid :  hclSMatnsZhsKo8B9smhisSQXB12  ---- rating :  1021
+userid :  pqvVsexTpqZU7PohhivWxOo3n7v1  ---- rating :  1021
+userid :  KweuM9l5U5QypoRg8yViwajXyqU2  ---- rating :  1020
+userid :  Egzxttc577Soj6zByWpQO7xwvB93  ---- rating :  1019
+userid :  Xv2nRRnzOXgGkU7xl3jynYdhAa32  ---- rating :  1019
+userid :  yUXZBBsbzCRdwShhWOFhgN4lODz2  ---- rating :  1018
+userid :  kWSM52HFRxUq8xmfArQ314tB3Uv1  ---- rating :  1017
+userid :  ZmOCwlpiO2YKkuEMmdxKVGz63pP2  ---- rating :  1015
+userid :  OBjUXjd7LReFcnppuWVLaHOhV5U2  ---- rating :  1014
+userid :  dnH26GIultVuHNXqtm6fa9HaYID3  ---- rating :  1014
+userid :  gL6FnCVr57P9K1IWE12qaeLPCzQ2  ---- rating :  1014
+userid :  5bKDtDyNyTUfiX6e8ZYttOvUSzW2  ---- rating :  1012
+userid :  BUTNsTjs2qU0O3CmfstGuwjPijx2  ---- rating :  1011
+userid :  O7zmEiNDBdZzNaWyl1vX0eDdrYv2  ---- rating :  1011
+userid :  A66d9ACioweMG1gRc7n4YRgDAfL2  ---- rating :  1010
+userid :  CBwwBOkWq7VLwEX7aBePt646JSg2  ---- rating :  1010
+userid :  KOaihBV2SFf6o2hbtNb5ffV3hlN2  ---- rating :  1010
+userid :  k7mWI79DQCN28w5Oto78y5WvVEw1  ---- rating :  1009
+userid :  Xm76VvCkgzdJsqVsXnHwidfPLa03  ---- rating :  1008
+userid :  zuvYIdyyjsgXV7mVgZ98nvzEsp03  ---- rating :  1008
+userid :  yUdGLWYVdkVLizlF04ioWOMOdWi2  ---- rating :  1006
+userid :  NhGwOUlG83RSAF8nIj5KfK52wkx2  ---- rating :  1005
+userid :  XJZjoTmvQGX32jY9jrkHnKfdvFN2  ---- rating :  1005
+userid :  A6EwoSXcjxfnYbtcbWlIKS1Movr2  ---- rating :  1004
+userid :  mNGwUTpG4sV3cbUKIp56LJcPgKL2  ---- rating :  1003
+userid :  0NX2tfkwxwZRZVdVJfXAV5BCYq72  ---- rating :  1001
+userid :  6BbQMzrCP5dRLucyM51EBgl9G0h2  ---- rating :  1001
+userid :  BxFJIBEnRRdhbLfQwSjC7UStIWr1  ---- rating :  1001
+userid :  JWF9C9xR6QhaGw0TRe22OupiAIc2  ---- rating :  1001
+userid :  YXtgw97gtjewMxkIN692ywgHHps2  ---- rating :  1001
+userid :  koFIvnga5CeEU95FwMmAWM0L3fb2  ---- rating :  1000
+userid :  6hzcQuTiCpYzqSGzDXuMcZSQyI43  ---- rating :  997
+userid :  7lr5Ea9GGUVSrVevMeEHgm7mz683  ---- rating :  997
+userid :  FAt88gtJoBdGCyNPbn4ayMxV57r1  ---- rating :  997
+userid :  HK0qNzE3qyR0bhYgYlWj2GcbMk03  ---- rating :  997
+userid :  aK5a6lABiLarM766Y8XQpKZoTU23  ---- rating :  997
+userid :  uPTT7dIRD7RL4ioBpEtRFter0of1  ---- rating :  997
+userid :  vxocjsDZmxWlCVL8qUeSHxeI9mk1  ---- rating :  997
+userid :  xVE0Hpl79JcBBFtMECNj9ZjAjQp1  ---- rating :  997
+userid :  5vid2V2Rqtd5HHYTQS6aQNBzVrB3  ---- rating :  994
+userid :  WxBGXrA5DibesSKGgSmWLTSvVTX2  ---- rating :  994
+userid :  QboyoW1gXXQMA1u7zM1ldw04Zu33  ---- rating :  993
+userid :  j3HjnzDWAQgYBiBWN2q4m3Mny4T2  ---- rating :  993
+userid :  rgYV14Ne0xXTYGVrtEjPIT3RdOw2  ---- rating :  993
+userid :  hTTlVNB5scN27Ua4UadqdN3LmWq2  ---- rating :  992
+userid :  BXfOi98qIVa2pNSIxBYNFxPijzs1  ---- rating :  991
+userid :  1ZSrb7p5LaMIRL82Db6Im9o5B472  ---- rating :  990
+userid :  4HouWx1oPpWPQVwAxVcNd4VnntA2  ---- rating :  990
+userid :  RZjrkwgScOdpNC4YzEpNZaklME52  ---- rating :  989
+userid :  op7BRnCnYtWvSEGDaR4Lxqxp8ur1  ---- rating :  989
+userid :  rnoQ3SopVkSeA8p6CATZPhGCgM93  ---- rating :  989
+userid :  uikcIRGGjgV6dWO0RrTogPBkeh83  ---- rating :  989
+userid :  ljJNNBzU55RVd7buJIRmUofPacg2  ---- rating :  988
+userid :  0dfEdbl1sWdq8sFzK664UfMczMq1  ---- rating :  987
+userid :  M1aXZznMKXeKia0Bl94AsSZr2qn1  ---- rating :  987
+userid :  cqHfc3hF61XpFlVu2tLG11u2Pv73  ---- rating :  987
+userid :  CCngmo8AescsESTaakIGfXXwHvF2  ---- rating :  984
+userid :  baYqbehwU4Zr7NquINVcUNRO4vW2  ---- rating :  984
+userid :  1Wf78JvjE9Q4jlCl3PXM2r2FANd2  ---- rating :  981
+userid :  JWbK4V0QX4b943an7xCH3Htqxm23  ---- rating :  981
+userid :  PtrNmXNVsYSBIoyNPATRVZylIsx1  ---- rating :  981
+userid :  gqfc7MZn1SgjWGvVrqMb6QZ1bL03  ---- rating :  981
+userid :  kSh8tLzaGzWDg0z1DYRGBo1A41x2  ---- rating :  981
+userid :  ohFgvJU8YBR6AFzfg95HiFQDPgG2  ---- rating :  981
+userid :  9L78JJe6VbXEJ0TvNSLcIBTIWJj2  ---- rating :  980
+userid :  HyLCWjY5nAO6GoLOmUUt005mMrQ2  ---- rating :  980
+userid :  yZvGQQBoHdUN2S9IZdWblga8K112  ---- rating :  980
+userid :  lB3zzxMM9sWMepjxQGtsRN39Q9y2  ---- rating :  978
+userid :  fYx47LtPcfUQ0JpFDr8nIK6osYW2  ---- rating :  975
+userid :  woOPhLRarGehmSmLEK6dO7eR8wo1  ---- rating :  975
+userid :  zMzYjJ1YcPM2ZOAo62blPbCjy4r2  ---- rating :  975
+userid :  zrnDTPOvDjc6Hcx7GHNkcsEYcsU2  ---- rating :  975
+userid :  Pd2MT8zmzAQO2owAcfTwGoHhFVp2  ---- rating :  973
+userid :  hK4YMMGBOPeb2ESl9fGVKLAIHBb2  ---- rating :  972
+userid :  3agTKoqFJiSMzNTxpmUsPHNTRxG2  ---- rating :  970
+userid :  DFyB7UpUpeM5VZW1KwqBaS4BAKG2  ---- rating :  970
+userid :  JfZGU4QpJkMRr4Abp9af8bURTnF3  ---- rating :  970
+userid :  YglKRZyRWJN77SNW9iAIc5MgdFm1  ---- rating :  970
+userid :  gYh0tDT6VnVh657KlnCktCUVwD53  ---- rating :  970
+userid :  p7auPTycd1YmfgOWKcrWPr8jOrc2  ---- rating :  970
+userid :  xDBjrk6y1xRO6DLJQDHeadJVigw1  ---- rating :  969
+userid :  yjYWonjijIaT2095JSAhYG4M4CG3  ---- rating :  969
+userid :  i14EbR1dxxfpgLrKioVRWpX57nq1  ---- rating :  967
+userid :  s4EKQVAwuXWWDmcUSGtD9a58sYh2  ---- rating :  967
+userid :  PhiG2Se3smXR09ZJbxbqAetTfIX2  ---- rating :  966
+userid :  0IW07slmUchqofqYMLrduB29UFi1  ---- rating :  962
+userid :  3NaIg55YtsOtAGncwxfwSybGGgb2  ---- rating :  962
+userid :  6EndjebokUhfIWjws8M59XbHqxd2  ---- rating :  962
+userid :  72oZJ6phJwYQZXgip9vutdVByzf1  ---- rating :  962
+userid :  CraFP2Jn2OTU6dzVdfpKhSIBmMV2  ---- rating :  962
+userid :  GY29KxOTz8h8pOQ0icH5Ozdovyk2  ---- rating :  962
+userid :  GwpKmww64QaXvpPskoz3p9T0lWV2  ---- rating :  962
+userid :  HEKu0F6mJMh9VgM1ZYKfJUuX2ax1  ---- rating :  962
+userid :  TM2LKMcGNofzf1LDEjb1xxs171i1  ---- rating :  962
+userid :  TTFtefsy6EhfZd7O4yA7dgZlQfu2  ---- rating :  962
+userid :  XnX1omFyRMbSONJhFwps41wa0EK2  ---- rating :  962
+userid :  YdHxw0QwLZb0ELNZYYZ3iy3JDz42  ---- rating :  962
+userid :  Z8f9dSaWlsUs8RwjVARrk2rMo4D2  ---- rating :  962
+userid :  ZSFhaWevECUlwdeCTTTzASa8sg62  ---- rating :  962
+userid :  ZTMyOIvrUod77R5dBDWe8dZlnWN2  ---- rating :  962
+userid :  ZqcnQKz094ToTL6pciYtOStBkyr1  ---- rating :  962
+userid :  ZsrRNjtn7kT0ZfwctqZOrEfI6YI3  ---- rating :  962
+userid :  a5A236oV4nepwKir4RBC7fH5pMg2  ---- rating :  962
+userid :  biGux7HqLlOuW2F7zJDF3S51GIm2  ---- rating :  962
+userid :  inYeKezOheeFKaQ5jf9au5AB6i13  ---- rating :  962
+userid :  it83gv4gXZPVLacfjd47EpGBHdJ2  ---- rating :  962
+userid :  kORCuS2XvObocDYtj2QzuwUM83q2  ---- rating :  962
+userid :  lHNrM3OwCvZpiGF93xvVl3v8Jgw1  ---- rating :  962
+userid :  pHlV5hj1ejOMqXNtFmTCGBM7bU02  ---- rating :  962
+userid :  rfpoxTCeY9ZES79hxC34hv1BSky1  ---- rating :  962
+userid :  rgVxEzPN11QP1OF6Vdu1rqvAMVs2  ---- rating :  962
+userid :  vtmtkPP5xjWJ9UhqzT2D94bO5oP2  ---- rating :  962
+userid :  BHacTszP7IVgfOWRQVMS66ZrgTA2  ---- rating :  958
+userid :  YDJAFIUUBJc3knclIaRCerOtzGS2  ---- rating :  958
+userid :  aWEKv3ItZ7SyPwpE0K5b1Sofh5F3  ---- rating :  958
+userid :  llTr8And0ufEolOo6vryoCYewLE2  ---- rating :  958
+userid :  LI85yshWvzPxBPz1xBqyuBhSrf63  ---- rating :  956
+userid :  z9AdGyJpJySEP2cRifhMdsqxJ2s1  ---- rating :  953
+userid :  fv8XrFvqvaUhA5JgFIDndT9tiAF2  ---- rating :  952
+userid :  7HbmcALfGeSJYSptbHxijyP1Umh2  ---- rating :  951
+userid :  v5IyfhYvdgVpZgupzTuvcGvONcV2  ---- rating :  950
+userid :  SpkT5XRV2fMsa1wpctqyHJR67Uh2  ---- rating :  947
+userid :  ZYr3BCT2wIOtzw0fUEOVGqCmL0r2  ---- rating :  947
+userid :  01oiengrDwgtPowfSs8Nw6JozPG3  ---- rating :  946
+userid :  1RFSx0rqIDeTUOjWmdNaRAmtW8L2  ---- rating :  946
+userid :  AcQCN8kJcMU2WoUm0rzXcfUsJ4D2  ---- rating :  946
+userid :  YBRxKBJsV6QfkvU06EyDMIbjaXd2  ---- rating :  946
+userid :  YdJUj71hYXanc1vb7ryBryqyZNY2  ---- rating :  946
+userid :  f8p8cIV9Dechyw8wMexkklPyyZs1  ---- rating :  946
+userid :  OaJDKhHAXaREhWbTQ90p9oeqLZ93  ---- rating :  942
+userid :  WWuRlXHLlJc3SJTkfmhYYAGos422  ---- rating :  942
+userid :  YmRoCwAZM1PAfg4nZSKRkXLIbNV2  ---- rating :  942
+userid :  fv6M0xRXGAgd0hGcdoMR9CV7RhI2  ---- rating :  942
+userid :  ifqpX27zzaZwUfJ6Xck5V7m47DY2  ---- rating :  942
+userid :  pJXuldZF1xZuY4SgSzfofHqCLZA2  ---- rating :  942
+userid :  DgkRz0eEM1ZmbQg36Szm3cwzDMu1  ---- rating :  941
+userid :  6D1BKaJC6ZZlIWwltQ7TZ5Sozpg1  ---- rating :  936
+userid :  PV5YzX42DaMaaGFaaw27LJGuLXq2  ---- rating :  936
+userid :  svXPpbTfq0Z483hckoMEMPH3CQA2  ---- rating :  936
+userid :  9RvWyVUo58brbpGiERBKcf9M7Br1  ---- rating :  933
+userid :  9d7sdNV2O1MgQ6r8uzz83ip8BHu2  ---- rating :  932
+userid :  XKr6TczL16SWeYQMgzrAAUVHCO82  ---- rating :  932
+userid :  2m9Kwnf3hSTQGmvxPIsEw7RXftr2  ---- rating :  929
+userid :  5FkN655E4xTETMu4N1eb3DhakK92  ---- rating :  929
+userid :  GAA4Dgi7CuQvJVRlaJ84RG4Rw1y1  ---- rating :  929
+userid :  Gi92TsCcabO6QeposXQxNGkDwnV2  ---- rating :  929
+userid :  gjgJYA9d6vfObTZtfo9NfakybRC2  ---- rating :  929
+userid :  nnUT2ocZCoabTMPFiNFaZdMCH4z1  ---- rating :  929
+userid :  qKyS0BNw90cMoRdSYEOTlucHQ8y2  ---- rating :  928
+userid :  QRpeBO4m0OhHyNA7UHvDcLSg9x72  ---- rating :  926
+userid :  62sYXcb3LfhMkg2ug3SfWzHfoRF3  ---- rating :  924
+userid :  2i6BAb5F0Ze1F8eNv2KGKG0hbif1  ---- rating :  922
+userid :  Fdw3PviShVfZsww5ub1ur6gl4CB2  ---- rating :  922
+userid :  UAexw599mNgR5I0S8MTnLl8S8da2  ---- rating :  922
+userid :  IqdU6hWXqvekKe0yLLAcVw88BAm2  ---- rating :  921
+userid :  82x7laJpPeONMPgx0niMJwJurFs2  ---- rating :  919
+userid :  F3VNpMFrp0fFFWP8Vz1SntUJ2Mv2  ---- rating :  919
+userid :  Ja1ONTOGgvb5xkBCAlIw2jkDP902  ---- rating :  919
+userid :  MId31ye7CoMAkQV6jNsSD9ZbP1v1  ---- rating :  919
+userid :  QwcbxQVuB4Xwo3R0s3GfrmiqKKl1  ---- rating :  919
+userid :  W9eRTcDlfnOf91jDST4vzwEH6bk2  ---- rating :  919
+userid :  hzzBimGB6zOYm7YXnOC6Ie1z4Xj1  ---- rating :  919
+userid :  me23Jqjl4ehwIMpdzK8Jmmd1x2T2  ---- rating :  919
+userid :  nkn8xuEVj2VHJo2FE75Qx29NAhy1  ---- rating :  919
+userid :  r1ZqnHvcJIXMieA6JHIWpm5MZ6d2  ---- rating :  919
+userid :  tOInFj8NnyNSymBxmybRPQ4aatS2  ---- rating :  919
+userid :  Xr5PVgvjVVMxOjaziZ83Yi0tOl53  ---- rating :  918
+userid :  Z7aaXzEuyrVa71f1qDsM3Bd5NVz2  ---- rating :  918
+userid :  MrHuWKrKtbWAGqCp8UNhrq5mTrm1  ---- rating :  916
+userid :  Bh3o7yBur3a6LpJedc5PLWzsJYA3  ---- rating :  915
+userid :  GxWGMIkDyJSnmwIRKYvDoxVo4G03  ---- rating :  914
+userid :  DWHtwRK53Se6WcpkWPWVnsQVQkL2  ---- rating :  912
+userid :  gMIQEMJqgkcp99dAinYjvgs6K3o2  ---- rating :  912
+userid :  k5oVxEMYXUg8iHpwAPtHEtbWidX2  ---- rating :  912
+userid :  xvKSMLdUGDZHqbkoiC95lcz5sRH3  ---- rating :  912
+userid :  i5R1BF9xa0a0XKnOGsOFMNI9PBf1  ---- rating :  908
+userid :  CT8CPHEcN9RVjJXqdioso6a4LBu2  ---- rating :  907
+userid :  U4QrOkvFrfNENovF6vaPr3QNZbp2  ---- rating :  907
+userid :  YJMOZKknKgfjWJ106P76jaeyEUK2  ---- rating :  907
+userid :  fR0SRWTdnNQJjQRLGfh270bO4zI2  ---- rating :  907
+userid :  i8p4Z206LtY5HWvBBrxe8eA5pOl1  ---- rating :  907
+userid :  m3SlF7pGFbexHEHphLSEvz0kfi32  ---- rating :  907
+userid :  4TUsFjl0F2TByToCcDeLlT5k8ys1  ---- rating :  904
+userid :  d3rDHEwwv4f1zoaZVcC0g1RG6bX2  ---- rating :  903
+userid :  cGT9l2R43WfMweCasHTyyXjSHkj2  ---- rating :  900
+userid :  eQHKQ7rTJlhkBefX6bWSAoIWBvH2  ---- rating :  900
+userid :  k4hcpat1z8f1bcHCjpBIv2cjk1y2  ---- rating :  900
+userid :  k7QBAebhqJPZHnbenZE5jJFLgBF2  ---- rating :  900
+userid :  uQXuKtZuoFUIK5iPtjWq5ViIOnd2  ---- rating :  900
+userid :  Sk4acDcoWkPrsc6OQ7XRVxIV2QK2  ---- rating :  896
+userid :  oWQLSXzzlIa1BtFnBt4Hg3FCCEZ2  ---- rating :  895
+userid :  s9sxYxjkppbTPYE4igb4xiWP1dO2  ---- rating :  895
+userid :  79DI0kCa1cUZsHEFVKjBDUOdRwJ3  ---- rating :  887
+userid :  PdpD6nfSR9WCF7xZerWlCycBeXk2  ---- rating :  887
+userid :  Y5pLRkXK90VbjPVQ48vHDlmTBYB3  ---- rating :  887
+userid :  tiFTCcJcrTgCXurX4HJKeSC6ezD3  ---- rating :  887
+userid :  3J6qjUJ2hER8zybmIgDUY59q3bt2  ---- rating :  882
+userid :  PXMcdO4TstfSGqqqdsO7eqmbqJv1  ---- rating :  882
+userid :  N5DarvgeaCg7twn1C6dfSoVY8n73  ---- rating :  880
+userid :  T6GNcS6Ia5QUQwTgHQn0YWxlU1Y2  ---- rating :  878
+userid :  Z2syuLtOlOMndZE2Tk6WNWWqcBM2  ---- rating :  877
+userid :  FZpY7eMolPQB1u2LNux3y3Lv6d12  ---- rating :  876
+userid :  yWU8UkzarTS4PnaCMB3vsnMpC7a2  ---- rating :  876
+userid :  F5uBEAVg91Oyr2UEGLvfBK4X3J52  ---- rating :  873
+userid :  OEp81haUeOWFEbVpIeOBvDBURwt1  ---- rating :  872
+userid :  d9K40L7m73ZGNvKLqlkL7A2dC613  ---- rating :  868
+userid :  2za7AOdILRbzMClLj2a4Wjb0tGh2  ---- rating :  867
+userid :  U8THKbCS26UAdsfGcwx3zNCURDt1  ---- rating :  867
+userid :  UvNmVRQ6daSWRkkByft42dFkLUO2  ---- rating :  867
+userid :  YFdlJyxAWegWG7P77AGfT9RoPKL2  ---- rating :  867
+userid :  ivAUQ0zJGFOcJP1EtNVZ4jvR4ww1  ---- rating :  863
+userid :  GdBk4881RZPJIPek9KHi6sjNirG2  ---- rating :  861
+userid :  IBGVqmWSGSWnW21CNCOWFXNPCYs2  ---- rating :  861
+userid :  tHRpMXi5lYNcn3Nj5dcdKBBTAOp1  ---- rating :  861
+userid :  uhO5v56VDXOuopC7TKt2jcefHD42  ---- rating :  861
+userid :  unj92u3wxVOQ3CbVZF8zhIiqTAq1  ---- rating :  858
+userid :  5LHWu4EsNDPqRMRLLBseAoqdjww1  ---- rating :  857
+userid :  26TymdisqbheUs4dYQQs8qzXgXb2  ---- rating :  854
+userid :  XtjguCftvCXTR27EkiWlYRUSUtG3  ---- rating :  854
+userid :  BYM5QbRKPnU1DiDU3I2Zjfelotn1  ---- rating :  853
+userid :  RO81jqmrAUTP9QZ7IXEORsdkD212  ---- rating :  853
+userid :  FoA1jilnmSZLoOHpTkkDYFfZuTF2  ---- rating :  849
+userid :  nJgfUF9uE8VIGj1GcvUfpvhtNyp1  ---- rating :  847
+userid :  xhClHSK6ipZNOj84Sq5VkJhFXwI3  ---- rating :  844
+userid :  UQJ5jWIWXZfCKuQ35dg4yvWBRxY2  ---- rating :  842
+userid :  hQ0rXDuqleXUWu4ANHi85cSwwSQ2  ---- rating :  842
+userid :  Qp7W9BdmPJYqwVdm4VvUQuIzcKF2  ---- rating :  840
+userid :  WvmQNkdaA4OhemWOy6mFtAksrhQ2  ---- rating :  839
+userid :  IkAfCq28cCdUIkjRidQzgVNQmEG3  ---- rating :  838
+userid :  BjjTYnFpH7af9d0Yycay4sNnI182  ---- rating :  835
+userid :  zy48feogA9c6gZZx2TaNjVO0nSt1  ---- rating :  832
+userid :  VdXaHJPlBPhGOUdMClNuXrdVTk53  ---- rating :  830
+userid :  ZfrEYbcpvjYiSA7Z7YvEDmrUQb02  ---- rating :  830
+userid :  ubFEc6egFbaKG8FniUzq3HwuA952  ---- rating :  828
+userid :  F80PuPh8FmQPrmjTEMdraE0VAt43  ---- rating :  827
+userid :  Jw7LgJxlE6cDudCuC7WW29U66Hg1  ---- rating :  825
+userid :  VU3v7LTxiXdloIXFXc8SrrUiOnM2  ---- rating :  824
+userid :  nTksflePLvbffWjhCYp1RUPvb6w1  ---- rating :  824
+userid :  wDAjelq8zvhPZpWGkGtYMY3W6Ty2  ---- rating :  821
+userid :  gY7wXQfVGcTz5521fonA2J1Z6yU2  ---- rating :  820
+userid :  hErs41TxU9cuUOevLvBSurphPLZ2  ---- rating :  820
+userid :  DoPI53GR9mfoMGpdYoBnnUML1Ac2  ---- rating :  817
+userid :  Jt9zg32PRIbz5UgDPh4NEh7gQCx2  ---- rating :  816
+userid :  o7iVHxjiQUXSV3BUdDYIUaaouzz2  ---- rating :  814
+userid :  gYV7lVgNFxeHSr8Q3k0Te737hVu2  ---- rating :  812
+userid :  jmYfJnyuexgBiBI9MD3O9jt5kUt1  ---- rating :  812
+userid :  tbS3u127anXqlNA6Fkhf4pzCyUn2  ---- rating :  812
+userid :  9sY5QUauMhfUKy2xGPvhO2TWjvj1  ---- rating :  811
+userid :  UMhk7L9OdQPKxYcgRX1P1mNljZJ2  ---- rating :  810
+userid :  FqqvlxTcF5fIUFzRCBkupv0vs6h1  ---- rating :  808
+userid :  VH2Lxy3VyTVYDKLSQ8aFoJPT95V2  ---- rating :  806
+userid :  fEFyvMtkoWbSKChuf65MQGZ85ex2  ---- rating :  806
+userid :  19DCNhX1orNeZ1tx4loFKFwHBqU2  ---- rating :  803
+userid :  ZrcmHlTzCoSL7fuU9WEds1UJr9q2  ---- rating :  801
+userid :  Q3GkceJTLCfDfdqCVdNJZY65L872  ---- rating :  800
+userid :  5386BnNBUcWhDZZnSw3K9BBh9og1  ---- rating :  797
+userid :  WWXFAKUY4ISuLYyZcVlN30UpgfF2  ---- rating :  797
+userid :  YGSYvSHCnCbs7CbHwDdqhpfojnF3  ---- rating :  797
+userid :  JMh57TnEXSXe5r0clcyD5dr9PGB3  ---- rating :  793
+userid :  uKWfblevvzM14yOJq1EMsp0nIFJ3  ---- rating :  793
+userid :  vhdS5AUNMcfnhPArKvPjlq3EGPm2  ---- rating :  793
+userid :  SqcbiICuJmgBdJsiAWmVnfKxlKJ3  ---- rating :  792
+userid :  g9tA6JPfG3Rjbei7qXeOOTfr9yd2  ---- rating :  791
+userid :  1WDCDhjVTHXKjM0j2JnpwSZIEFm2  ---- rating :  788
+userid :  iFmBSovk4hT3tBliWwtUEn6ylqo2  ---- rating :  787
+userid :  aUNrsHubT4WiUryd3lcfOtwzY6q2  ---- rating :  785
+userid :  428V3zA1TRRLTz314EUXXio9C8g2  ---- rating :  784
+userid :  6Jl3SYVdeLfCVnn3KRInVIdzu8v1  ---- rating :  784
+userid :  71TR7AytxtXkQf8nFKbjpTAM0ZJ2  ---- rating :  784
+userid :  9x5dgiRZkSPBMAnsGLzoKVM3pqY2  ---- rating :  784
+userid :  AM2nHBXQM4frMCjPjAuMnPb189F2  ---- rating :  784
+userid :  CRBnwDca1LaIURZ606KXAddVCv32  ---- rating :  784
+userid :  JgwTOdZnpLgts6eknDf1Wa3xTz22  ---- rating :  784
+userid :  Ll1RSNqh7MM9djhxrKEIAgBzl3m2  ---- rating :  784
+userid :  RcvvWQq7HKdkOmCtVj3I4tJqWiI2  ---- rating :  784
+userid :  SPgplDx91CcjQHVGCWic992SWpb2  ---- rating :  784
+userid :  aCtgkIW5tcQMnR1ibt23jscGUFB3  ---- rating :  784
+userid :  amAxJQvLTiOEmuln6Z5YxFNMnjD2  ---- rating :  784
+userid :  iAgqx5MqQ0d9tFYecyPtRfcoWHq2  ---- rating :  784
+userid :  jgnFW3YLT1THeL0QN9gyfQ7bCW42  ---- rating :  784
+userid :  lNlLiI22g0bZr7k3CU4ittmxSyI2  ---- rating :  784
+userid :  meiEiDQnRTakU2rmswQBcbOUlxy2  ---- rating :  784
+userid :  npg2Wy2kvdhQQFZt7JqemB4gXaT2  ---- rating :  784
+userid :  pFqua3vMY3fEoTXtEdKe3EehxWN2  ---- rating :  784
+userid :  pXX8jag2FsYrVALFKPwIPCpSzR13  ---- rating :  784
+userid :  qAFPyVzbLYUzkGN0H4ZFpsNshsF3  ---- rating :  784
+userid :  qKy5VPdNFuhHuKlDt8Gm5qCwDyt1  ---- rating :  784
+userid :  qw4SKlwMbLV30gVeQcG4aH3sIhf1  ---- rating :  784
+userid :  vlDPbV5yuXWLX3MHSu2zKT5Xpg32  ---- rating :  784
+userid :  zvJqJHbtwOc1pChWGFIpp5dP3R82  ---- rating :  784
+userid :  xkGB9XobYOhWL6cXwgLVImJatYF3  ---- rating :  782
+userid :  0DKxZ6CBB6MmcmcebvGi0Nv0S2v2  ---- rating :  779
+userid :  FglnnZpIYvekZS0NO1iikaqLUj63  ---- rating :  773
+userid :  T7JrXHZu7vdNT7ArFLNEfv2Rvxf1  ---- rating :  767
+userid :  cBFZMJXcVAetgyx8BfE8sbHaZQn2  ---- rating :  767
+userid :  EkD16hykvKT55fLtFGxmK1Mr1Ew2  ---- rating :  763
+userid :  YolxPOJVuMTsE0ffbETDAbESdun1  ---- rating :  763
+userid :  rRYJ5Ar33HVEskcwPeLOO1vyb602  ---- rating :  763
+userid :  yD2mWd214laCvDIZOY7bn1VYXfC2  ---- rating :  763
+userid :  cr6RtXOiDvcxr0GmNyqxPmySI9f2  ---- rating :  761
+userid :  6sZybPaXWcRcdZc1Eesyv2JcVtA3  ---- rating :  756
+userid :  6g4plvK9RzQ5FTmghNjoAtDwnSH3  ---- rating :  750
+userid :  jIwgJwJbD2NGT8Dy60j08sw5WrE3  ---- rating :  750
+userid :  B2gx6VHUGGeUcTqnCVTdiaKwW0B2  ---- rating :  744
+userid :  COQnwzswiFSy8B9iPcmcAxMiGnw1  ---- rating :  744
+userid :  ogH2l4oBfXMCqFotxZSKLIwujXh2  ---- rating :  742
+userid :  eTrJbUWXZdQw3lWKeYBrQ1gvQuH3  ---- rating :  739
+userid :  MyGif6mGBvbZQLwS7dte5d3ZHez2  ---- rating :  732
+userid :  jDaLSLz6WPQPGoLYdTQK9dpx5Cf2  ---- rating :  731
+userid :  6dSJ4PrfKueiO1FwtjUVeSNaxAw2  ---- rating :  725
+userid :  x1f65hGDioRTKyI1e7tGPvYM3a92  ---- rating :  725
+userid :  Uqw6QFbyA8V2v68Krn9dVWVADqZ2  ---- rating :  719
+userid :  7PxoJNX1UCPaT3msFfXtBwuT0zo2  ---- rating :  718
+userid :  GtYXGcGuygTPz6kPtfXwAX4a6742  ---- rating :  712
+userid :  aqxuJOn6Udhh4AJEin7MoQjMVhI2  ---- rating :  705
+userid :  00y3HYzFPxNlrXj4jqoqmt0b6Lx2  ---- rating :  704
+userid :  37GP8P69QBfH8zRO29rqWP4Uif22  ---- rating :  704
+userid :  4FTfVrze6wNXsNWgcaUOocXNSyd2  ---- rating :  704
+userid :  9H19YJJYoEg1O52Ypy2kdPyBnCi1  ---- rating :  704
+userid :  MdXCkB7EMnMJtuFvC1oWLZMUv9P2  ---- rating :  704
+userid :  PyGCddNz2RPH9vAmAzT88LGHin93  ---- rating :  704
+userid :  WzLcepU2ByS2UaRLXYif53ZThE43  ---- rating :  704
+userid :  XJWlpYPMNIZBeRk004dmHraPxXW2  ---- rating :  704
+userid :  Z87gzQUoKqgdDanhV7xXcbl8xZr2  ---- rating :  704
+userid :  jCnMBAMThnY4RpmappI7fELNdQz2  ---- rating :  704
+userid :  jk8yaIZAbmgfIHLtGuzbVDqSA4L2  ---- rating :  704
+userid :  luXRu4wGSUVCQGs0rCOJJcGlPWE2  ---- rating :  704
+userid :  vA20BGjdcCdH55O8U4GfRzDuVhu1  ---- rating :  704
+userid :  xpc5hvce8fgh94fquWjTfSMk2bv1  ---- rating :  704
+userid :  Eb4FaSjBOPP5JMQh8KteiXKepsp2  ---- rating :  697
+userid :  ETQVyGYZ4lczVOzOic00DX2ZVkG2  ---- rating :  696
+userid :  EyBBl4vHOcXgPMxkJEMpWad2wio2  ---- rating :  687
+userid :  UD48RTnRAQZq1jo42gdsrTd53vt1  ---- rating :  687
+userid :  AMHZ8SwbeJPlyT8L4UWI9Mjigb52  ---- rating :  682
+userid :  WDmsflJ7Kac6fYAfDUfh5fL76r02  ---- rating :  680
+userid :  98RvCGN67sTxkkFcKYCkvYWddId2  ---- rating :  669
+userid :  PPSQuoVUkONTaFo5MHNOQRMw2kx2  ---- rating :  664
+userid :  XI5ZslziK9bpmoYjmU0PdoOBkKc2  ---- rating :  664
+userid :  A6SmctCJL5Uv6V3Yht0OkKY7RH43  ---- rating :  663
+userid :  1bIrGpp3QHSiRzfeSpaVoR6x7Ux1  ---- rating :  661
+userid :  PDULU4g322h6C18UMbj9saOqn1x1  ---- rating :  658
+userid :  Qa7uMT1rOtaj1joPm2Wim1EHa4B3  ---- rating :  653
+userid :  UT1ZAY1cj0ZHNhaBSEFhO6IGN4g1  ---- rating :  652
+userid :  FqGsBd34USRDt4gJA7P2FdDsIwl1  ---- rating :  651
+userid :  4Ht7dDsZjsfQHznPUGCXBlsVoCX2  ---- rating :  647
+userid :  6EU8kD4kNGViuIFcHeh2MshugyE3  ---- rating :  643
+userid :  V6nOOvjVXebr05DZMHIJC4HX48w2  ---- rating :  641
+userid :  tUqQHMndyRW4IZmi6OT3zawWoM32  ---- rating :  641
+userid :  8XOi6P3Hp4ckRQP0VUy7cojrpA03  ---- rating :  640
+userid :  M84jqE3XtCg4TlnjUVW6vgG2F0b2  ---- rating :  634
+userid :  2jQP8KjJfMNV4mFLYPgp1d8iRfH3  ---- rating :  630
+userid :  6WhVaFFgqqYjmLgmPeCAQak4XPt2  ---- rating :  628
+userid :  JA4uqL39GGOXP8XYQzwRjx3JaL52  ---- rating :  628
+userid :  nGfo00DfC5Xy8pZGWi9v7cm5vbJ3  ---- rating :  621
+userid :  VBgFCyo9Nggs2olKjkeJcg4T6Dy1  ---- rating :  616
+userid :  imhhH0Oi7UXWA0tfXXMwjdn8a8p2  ---- rating :  614
+userid :  dNyQuwcGADPYDZp8brr7nNy2zlT2  ---- rating :  612
+userid :  fX4rYDWjmMTfWk2e7hfhgDN3Gs73  ---- rating :  612
+userid :  n8uyMOXiR5UvmmoWKIi3JT83DMj2  ---- rating :  612
+userid :  pxAWV7OtaOebGlaxEOxPmTdI1563  ---- rating :  612
+userid :  3FxMnjHvOcfq1qkbDMvFhMz500h1  ---- rating :  607
+userid :  TKp9PGflE5f1uionLmRXbvfifwe2  ---- rating :  600
+userid :  pSJsODUsz0PjCkyuWpvRkP1ahGi1  ---- rating :  599
+userid :  hJnWVdumzFaJtQBAf0H435KRMdn2  ---- rating :  592
+userid :  D7YrR0DhRUY31sGZdyiacZdtCuR2  ---- rating :  584
+userid :  u8RYCVJcI4XPep7ybGYeoP6kaTh2  ---- rating :  576
+userid :  kuZoT7Fz5HUmWe8N58AiGhPo2Z93  ---- rating :  574
+userid :  dColLZgcZ2gtxctE2LWtBXKjsDC3  ---- rating :  567
+userid :  CVHrjjCyPMY9W5j7DkrHTVFTrV63  ---- rating :  557
+userid :  e5yhCXCQ8ROLVm6tKgVdXDeZdUm1  ---- rating :  548
+userid :  DSGNJL2YvXPjMMj0XthiJu6ZvQ92  ---- rating :  541
+userid :  MiBeNmrgZLaPOtwlu0z5EMdcALT2  ---- rating :  539
+userid :  sgGMQsXWhhdHx9lYfRjOrzz6Eek2  ---- rating :  538
+userid :  D2X7rlKQHTSg1QZQPCXAP5HloO22  ---- rating :  532
+userid :  89XuvvpbPgY5RCvkbL1E4hPJRWo1  ---- rating :  527
+userid :  NhjcJEr8uWfsqCGj5nqJntJiuQN2  ---- rating :  519
+userid :  Tkw2IlYc43YsGMLFuyvsyH9Zw6i1  ---- rating :  519
+userid :  ZFWB5Or5bsaK25s7FMW6UyQwQJ32  ---- rating :  501
+userid :  PtTidb2O7FYKh8UyUL1McFfONGI2  ---- rating :  496
+userid :  MKtf00wykMgHZ7j3pJIEbrLWIij2  ---- rating :  487
+userid :  4v0VpyOvn1Rp7bDAO6PXpOIh9Ww1  ---- rating :  482
+userid :  ByHwKADWPPToRUSh9ASdIDOmZKH3  ---- rating :  482
+userid :  BHg8o5AtvTXTa2zPL8C9UeVWEF02  ---- rating :  471
+userid :  zsTihYo3FIaSJEY2Ve8LT7YKpK22  ---- rating :  462
+userid :  bkPBtWiAKqdAEFDZ516nP5EwkJo2  ---- rating :  452
+userid :  V8aFYzx8nbZqjbK7GT7Sp2Apac52  ---- rating :  441
+userid :  QRhiBnVgoqQseOoqi8048IiXv5g2  ---- rating :  434
+userid :  z4F0dmVLJZaVHFQ2TgGELYXKJ5A3  ---- rating :  433
+userid :  jq1wwgeQ8JRAtLjVFRDMnWKdjPj1  ---- rating :  426
+userid :  pHJULMEhdZNQ0ywHFOvuZeBPCdY2  ---- rating :  405
+userid :  4tW7b7spf6agQPsTiU3F63UVc3f1  ---- rating :  389
+userid :  oRP8QQ1HNXdveXYqcNAO9u2WLR83  ---- rating :  380
+userid :  AOXb2YqGVgT1WkqM1dWsht8Zov42  ---- rating :  360
+userid :  xTtTVvPkEEXSwitLd2LtRIo8D753  ---- rating :  360
+userid :  6jGT1SqG0IPknWecRsX3i7F4hfy2  ---- rating :  353
+userid :  k0qvjGNWfJgfTiQRWjkYYR5DMQM2  ---- rating :  321
+userid :  fLRVm9y6B3g4yOIUFNZmg0HGEec2  ---- rating :  282
+userid :  54wlzJDpMVMTcOIrRvriDDCbhx93  ---- rating :  281
+userid :  br4Awd90BLes59Ai4dp1Yz1t7S92  ---- rating :  230
+userid :  Q6s6jvsLUKOLzpt2i5qU9xxEVgD2  ---- rating :  203
+userid :  undefined  ---- rating :  undefined
+[Medals Emptied]
+[MEDAL] userid :  Erq8sPQmkVdjbvAcPFgZrLNO3X03  ---- group :  top5
+[MEDAL] userid :  cpT4WdytyoUy3EdCI7DKyhaI8A73  ---- group :  top5
+[MEDAL] userid :  hwoALi6h56eIp0mxO3jZBlVif8v1  ---- group :  top5
+[MEDAL] userid :  4EjD0VpnSaN6nQ1mCgYc34hP4zI2  ---- group :  top5
+[MEDAL] userid :  7s0bpWKAUNgnzPs6OiYNRRVFFPX2  ---- group :  top5
+[MEDAL] userid :  H5KDz42LHHUHMJ4aAVx9BSYvPBh2  ---- group :  top5
+[MEDAL] userid :  5oZIjrSuBfWYD8OmK5IUw6MhUgU2  ---- group :  top5
+[MEDAL] userid :  PTVYlSiC3wYT8e6PMa3ypq5Tutr2  ---- group :  top5
+[MEDAL] userid :  ZtjIHEUMVxQhBZE05CyOc5T2i8q1  ---- group :  top5
+[MEDAL] userid :  fGmwfOvJMLeBDMOQAeZ7GqgCqxj2  ---- group :  top5
+[MEDAL] userid :  zpXV7qlSLEhsPbiZAqEXEiAAe1l1  ---- group :  top5
+[MEDAL] userid :  btrfHGSYzEhXVpfHv01m1AUXgFb2  ---- group :  top5
+[MEDAL] userid :  b7Mo4K6dE6NpzDvmbzKoLDzshOy1  ---- group :  top5
+[MEDAL] userid :  tDxVv0FS5MOYcljWevBsNJbOIsg2  ---- group :  top5
+[MEDAL] userid :  BsigiqEEWRQNj6NOrGk0acjUBbf1  ---- group :  top5
+[MEDAL] userid :  A935wqYr0VdG0pCMl54gTMwfrlx1  ---- group :  top5
+[MEDAL] userid :  1DX1XJ3tiRRpwc6KQO88HXbJ0YA2  ---- group :  top5
+[MEDAL] userid :  JsjNzoroDQTbH9W042l8xZ478kB2  ---- group :  top5
+[MEDAL] userid :  snzLmFjrgNXYG7sLJv8XXywaQdh1  ---- group :  top5
+[MEDAL] userid :  ob9gIKRPsLe47fbU5ON6qe3ipkN2  ---- group :  top5
+[MEDAL] userid :  riLU2ku7YJUtrWytdE0Xx0QaAzI2  ---- group :  top5
+[MEDAL] userid :  WFnmy4NZ0dQjc6oo2pMJTa0Xow82  ---- group :  top5
+[MEDAL] userid :  tx1KNADnqyb01UT1vFvFI8D1jU12  ---- group :  top5
+[MEDAL] userid :  dxAvT1VJ50MMCTZ3usmoufkja2D3  ---- group :  top5
+[MEDAL] userid :  3VcvD9s0YPULXogJN5eW9Yxjm922  ---- group :  top5
+[MEDAL] userid :  gO9u5Mx1QeTk9k0AUKDLA83tcSJ2  ---- group :  top5
+[MEDAL] userid :  eSE66xB0QCOVTaRvBffRNhaOVwz2  ---- group :  top5
+[MEDAL] userid :  i7l3jyuQCoYm1nnCHdrzwqwpAxE3  ---- group :  top5
+[MEDAL] userid :  6ITD57lxQScfU3oUs1yVug3P7ep2  ---- group :  top5
+[MEDAL] userid :  s0fsiQTE9oUGKerZZNd0GVHmWZ52  ---- group :  top5
+[MEDAL] userid :  anlF7C6ozMNbjFdPxuzRP9zBVAS2  ---- group :  top5
+[MEDAL] userid :  isxXteIeYlO2UNZBXVFLliI3BXI3  ---- group :  top5
+[MEDAL] userid :  SMUb0CasLKZSIYl6HjzuQWhU6t62  ---- group :  top5
+[MEDAL] userid :  SYIwmpQWDxNOe7gZvtkjy32V7ir1  ---- group :  top5
+[MEDAL] userid :  CmbwAQoypfYrPc12wuuD72qVlFH2  ---- group :  top5
+[MEDAL] userid :  8RYcy1YJLCTTBPwxcvRyE8v9uCB2  ---- group :  top5
+[MEDAL] userid :  VDwHTKLU60h4lvyzaKCaN0Y6yF42  ---- group :  top5
+[MEDAL] userid :  LI69W0sPQ2Wk9Jn11rHCHwSjQJ32  ---- group :  top5
+[MEDAL] userid :  4GXviBxBbzdWCdeGYgPfWp15AlD3  ---- group :  top5
+[MEDAL] userid :  sNPEIwTUHQg8wF3Cb1Trs99o3Ir2  ---- group :  top5
+[MEDAL] userid :  VY0Nc2UZk9WN6CinBbZVwsr4xMY2  ---- group :  top5
+[MEDAL] userid :  IoFLyLUdAgUBTEG0yz9ASlW33zm2  ---- group :  top5
+[MEDAL] userid :  FDvQQ9oiEBWc5sPAKEXBGI6Fls02  ---- group :  top5
+[MEDAL] userid :  wZdEoGtxoFWBZzvIgaaoH1rFvgx1  ---- group :  top5
+[MEDAL] userid :  Ejj8nEKstfY6SXMUiwjZSEMHRu12  ---- group :  top5
+[MEDAL] userid :  H9NBnb0fdIRQQFrzkQp3vut7zBz1  ---- group :  top5
+[MEDAL] userid :  yGjxqEubKqecgo0TN5vCy7Ds5qK2  ---- group :  top5
+[MEDAL] userid :  Rew912pGdaUbeE54Wgg3X04k1NN2  ---- group :  top5
+[MEDAL] userid :  SIjRv2f1b8NCT9qmL73gqWAWCye2  ---- group :  top5
+[MEDAL] userid :  XaQ1qvOuAoYSwNy9HU90K8rYqRy2  ---- group :  top5
+[MEDAL] userid :  RP6RgcZfVMMkSwpX8VIOswJXE1w2  ---- group :  top5
+[MEDAL] userid :  dhSns9sExjbOE4XkURyDrKO80tV2  ---- group :  top5
+[MEDAL] userid :  NNfQUG4i5SafzYvuQqY4c1iWMOy2  ---- group :  top5
+[MEDAL] userid :  bI6JxP9NvKOl9OKjqzhowbDk6gA3  ---- group :  top5
+[MEDAL] userid :  51CBSJ6LJxRhylRdkMqBDKLOnwe2  ---- group :  top5
+[MEDAL] userid :  IA3x1vGKi2YUHYEu1hvHwfIKNXG3  ---- group :  top5
+[MEDAL] userid :  ZyYAIRHvl5PB9RdiHbf1luiwBNw1  ---- group :  top5
+[MEDAL] userid :  GRnOubzLd2QOwibUcXQOoO075802  ---- group :  top5
+[MEDAL] userid :  KyjyR4D0JbdL6g53LZgm6r8RoVm2  ---- group :  top5
+[MEDAL] userid :  t5m0gaOVd2O5tBYbLLKaweJZ59L2  ---- group :  top5
+[MEDAL] userid :  BiUckXATFRNGqpkbO4YRJsK7L2h2  ---- group :  top5
+[MEDAL] userid :  3Uw2je9lGwSpPySHm5qQSLZJxuq1  ---- group :  top5
+[MEDAL] userid :  dFXyQDfd10U1RobeopisH47MZfu1  ---- group :  top5
+[MEDAL] userid :  FucTbFzJjLSSmvgH65teBF7Hot73  ---- group :  top5
+[MEDAL] userid :  tWvm6xC5BHV1gkUMQQXYwk25nvW2  ---- group :  top5
+[MEDAL] userid :  FhUV3gmdHEXOJB1yffA3FWBMj7y1  ---- group :  top5
+[MEDAL] userid :  TPRFgogTFhXRgA060eRGNzSY2nd2  ---- group :  top5
+[MEDAL] userid :  a2AYMVL7SGXbLYg7WuGfCu8C0Nw2  ---- group :  top5
+[MEDAL] userid :  UotsJCHHQtXlVTCJuVd31gElIds1  ---- group :  top5
+[MEDAL] userid :  czJtWePRk6MJNaTNbOH2nvjyEug1  ---- group :  top5
+[MEDAL] userid :  wEMeg2yjK3N8b5J3BWoUqiqso4z2  ---- group :  top5
+[MEDAL] userid :  PnyvfVu9CkYErPVlHd9x8lK0iLt2  ---- group :  top5
+[MEDAL] userid :  44Zvb1ghWTUYNhDvShEQrkI12N53  ---- group :  top5
+[MEDAL] userid :  TasYPmOeMnOdzs9e54MML3vcurh1  ---- group :  top5
+[MEDAL] userid :  f5jJYGlTXrbRR0CuBUOGdxU5mR53  ---- group :  top5
+[MEDAL] userid :  BGMBjwffcGWfuNZYFDWAU64JTi33  ---- group :  top5
+[MEDAL] userid :  ctog09cVfCQ0qlb23zgwptXAK3J2  ---- group :  top5
+[MEDAL] userid :  v280tCCVFUQt8mi9BxwXpw7mQFZ2  ---- group :  top5
+[MEDAL] userid :  YiANVA3DWkcQz7lSzAqMkymRvl02  ---- group :  top5
+[MEDAL] userid :  FuaqZt1n5Ab9a2WidTiYEmirCE63  ---- group :  top5
+[MEDAL] userid :  RaKSfo2xSKcOAzJNeTmSLMOJoM13  ---- group :  top5
+[MEDAL] userid :  MbVEHm6gYshDmUgYNWHQSVapR4y2  ---- group :  top5
+[MEDAL] userid :  VGDtI59bvtUrNLE6PlXYPYOklaH3  ---- group :  top5
+[MEDAL] userid :  uxneCLNnUfMY2E8D3SfF2iaxOUU2  ---- group :  top5
+[MEDAL] userid :  z4zr5bbFL0WNBJjVqf2q28GM1SZ2  ---- group :  top5
+[MEDAL] userid :  wnMHkxNcsjfcoXNBxWgQcQ7Zkn12  ---- group :  top5
+[MEDAL] userid :  ebWdR7JSWIPJsSIV1sTmsJs22h12  ---- group :  top5
+[MEDAL] userid :  IcajDeAGefep1zPQoONQ0yOaOEq2  ---- group :  top5
+[MEDAL] userid :  WSXzUJXeuLOynsWtViWGtZ14tzz2  ---- group :  top25
+[MEDAL] userid :  NMFxIodHpiQ41OY0XU91fWkpLzu1  ---- group :  top25
+[MEDAL] userid :  aPE7ywyIW9Zedw8QYIr5coXwD1y1  ---- group :  top25
+[MEDAL] userid :  gLFfbPz7icRrpbq7ElBbNbjYVAs2  ---- group :  top25
+[MEDAL] userid :  TtYlpuc5SggSiSqyI2P2kztRV2y1  ---- group :  top25
+[MEDAL] userid :  3EUgI014weXAfPezAh40mUtbq5z1  ---- group :  top25
+[MEDAL] userid :  IyOvgI24f8NR5lEuJ5jkGcv3dWU2  ---- group :  top25
+[MEDAL] userid :  VT9lMJnNcXV2SPj16CGaQV277Pt1  ---- group :  top25
+[MEDAL] userid :  tlWL669oCYUEyLNEXie3fPoQBes2  ---- group :  top25
+[MEDAL] userid :  EmW14FUO81ZoAsckNsmtGFtA6LH2  ---- group :  top25
+[MEDAL] userid :  SyeP93HRFlfOE341IfiVsUWDCoB2  ---- group :  top25
+[MEDAL] userid :  umca2SZYEiMxqDiNbPisF7DO5Oj1  ---- group :  top25
+[MEDAL] userid :  pda5qWWCVPbuJzZ0gJnVZvwTI0K2  ---- group :  top25
+[MEDAL] userid :  DCLmW08eFlOeCzLPbBcqicxnqKj2  ---- group :  top25
+[MEDAL] userid :  7vFeOPORfqNUac3CZlGuGi0jeTq2  ---- group :  top25
+[MEDAL] userid :  OHiBr1ilNOR9xFnjwsygmCEn0lh2  ---- group :  top25
+[MEDAL] userid :  f1QJ6cNfqwV08ae4xCLj26IjWeF2  ---- group :  top25
+[MEDAL] userid :  uWBoni7TQZb7Tyk3bdvlhuVb38f1  ---- group :  top25
+[MEDAL] userid :  w6zob1pY6fTHhRujngMUipKpFAz1  ---- group :  top25
+[MEDAL] userid :  9jS0avN9J6URsffiZUnkwOI99AN2  ---- group :  top25
+[MEDAL] userid :  hqAKjPR3pkPOUJPZNm24qrO38hO2  ---- group :  top25
+[MEDAL] userid :  6UpIwRoG89QQkQ2CpGtRhZ9NoNm1  ---- group :  top25
+[MEDAL] userid :  L9AuM9aQ9KUtx7Qow0GcgPfsUi43  ---- group :  top25
+[MEDAL] userid :  ppC331Vo2GYDmmJCMMcUQ0nSuqG3  ---- group :  top25
+[MEDAL] userid :  urjlSdiSbyV2ai3neVXVaUPn9iA3  ---- group :  top25
+[MEDAL] userid :  HVsiQhrEkUfreGWfjcLo7VfFZMv1  ---- group :  top25
+[MEDAL] userid :  w2eUU77m5rX0wNRzQm3mGNU9ROq1  ---- group :  top25
+[MEDAL] userid :  x7U9ETkjt9YdPh9sxkWa1UwjyvE2  ---- group :  top25
+[MEDAL] userid :  zmGZlq9uzveM4lmT5ZGpHWyF2i22  ---- group :  top25
+[MEDAL] userid :  QeK9GtS5eiM4cWd35tBz4EI2HBB2  ---- group :  top25
+[MEDAL] userid :  0b0C22Fd7Sbft4A9CyWcxpqgqhj2  ---- group :  top25
+[MEDAL] userid :  2HKgeCB9VeggXYzqNMbKFrSRuWl1  ---- group :  top25
+[MEDAL] userid :  b8UkYKfWb7WDj9MEQzbpeTDNYIL2  ---- group :  top25
+[MEDAL] userid :  uw8itTaeOLbt5ZEfvloPo3696dF2  ---- group :  top25
+[MEDAL] userid :  6QFcSqXGBeOKJRmscPEyPqeZZPF3  ---- group :  top25
+[MEDAL] userid :  cy8e51zA3XafuHad4BDPSMYzYsH2  ---- group :  top25
+[MEDAL] userid :  hGIp2G8U8zZ4O6IK5O97y6IEUKy2  ---- group :  top25
+[MEDAL] userid :  hWHcIOnisSeJO9WK47saSf1uMgw1  ---- group :  top25
+[MEDAL] userid :  0GYQpuWe6zXKEgLWTG7So4eRx8U2  ---- group :  top25
+[MEDAL] userid :  fg2q3zfFkeaFxUfje3Bi6eeef753  ---- group :  top25
+[MEDAL] userid :  ynRVxjtFuqQu8uvVFRAeQu2Je9g1  ---- group :  top25
+[MEDAL] userid :  OOH6Li6ltoUe47UUsWHtm26Kad63  ---- group :  top25
+[MEDAL] userid :  K0sNABU5oQcI5D0h4AMgaVk6jOG2  ---- group :  top25
+[MEDAL] userid :  ey5fcytT2qgCK513uAXh5Gqoi5z2  ---- group :  top25
+[MEDAL] userid :  c92xwlJgThRGsuRCxG0EKv5Rjd53  ---- group :  top25
+[MEDAL] userid :  hBUBAXk837UDId7Y6NeUfqaQgdn1  ---- group :  top25
+[MEDAL] userid :  odRLfjr1CIOJD1sjb6asHBH82Jk2  ---- group :  top25
+[MEDAL] userid :  HO9E2etDZOZCTOuvuAzHTIRIK5D2  ---- group :  top25
+[MEDAL] userid :  dbhFPsOiV0Xvu9P7pNLpn3fMPuw2  ---- group :  top25
+[MEDAL] userid :  4THCh7yQu8SIkvlTdSicHl4Qzqk1  ---- group :  top25
+[MEDAL] userid :  MvHV0luVKXZQSJ6rmNZtZILfptf2  ---- group :  top25
+[MEDAL] userid :  MauIK0t39xVYmLKqhHm6wwMTKFH2  ---- group :  top25
+[MEDAL] userid :  ZQOLC0SE12NFWa9L5HrisfR0URG3  ---- group :  top25
+[MEDAL] userid :  mStP4255LNhrIYnGmP2ZGnrJqgF2  ---- group :  top25
+[MEDAL] userid :  4vmDJlBV60cYH1L7vM4L1NF3zgJ2  ---- group :  top25
+[MEDAL] userid :  B7WjIj6rSnfbh13I2Rg9UmKAmNP2  ---- group :  top25
+[MEDAL] userid :  tbmnns9J9yZyLwlYKUm7RR823go1  ---- group :  top25
+[MEDAL] userid :  hfZLo1QUwnZuIkjyy6Agvp2WUdj2  ---- group :  top25
+[MEDAL] userid :  jM6GXiH8YDUYFpeaYtaKKlA3sdn1  ---- group :  top25
+[MEDAL] userid :  4JCIUfaDQ5c5Td0SDoxhKkrnCqp1  ---- group :  top25
+[MEDAL] userid :  E4bEwfBbXrYTrQQBm8GdMTmEPTG3  ---- group :  top25
+[MEDAL] userid :  jDQX1D3vU5csAJhIYBGVERe6DeB2  ---- group :  top25
+[MEDAL] userid :  PbgbRCgH2PV3YXJQ3qJvwBDmbL52  ---- group :  top25
+[MEDAL] userid :  bWUtuY0nwAhGpywroBsVu6sKgYS2  ---- group :  top25
+[MEDAL] userid :  YwxANYGDEjMOiTJx72bsBShitJF3  ---- group :  top25
+[MEDAL] userid :  XkPVBVvi3vT58VsIblWvRd5HRrn2  ---- group :  top25
+[MEDAL] userid :  b8p8FsH3gDhMIBZd0o6gLTbi2Ln1  ---- group :  top25
+[MEDAL] userid :  xteO4xDsKUUn2THt6RGibjO4FI32  ---- group :  top25
+[MEDAL] userid :  PjY8jNHQBCa2qdvfPm9D4IOy2dy1  ---- group :  top25
+[MEDAL] userid :  FlUNu9IG22QauQCQGSGvC4zDtzp1  ---- group :  top25
+[MEDAL] userid :  VexxWvI6sIMQgLsfvAmvuTHDe3h1  ---- group :  top25
+[MEDAL] userid :  pFD4znm3iBUg24IoyN8h5glN0KV2  ---- group :  top25
+[MEDAL] userid :  L1LrnduoWjSA4OF90MgC13fEHAg2  ---- group :  top25
+[MEDAL] userid :  gPvUxi4KarbpM3ogaT1rCqFvovU2  ---- group :  top25
+[MEDAL] userid :  LuFDGZBKSVM0StPIfgF5udq27Pp2  ---- group :  top25
+[MEDAL] userid :  9va6EszWR1RoSaL2CEPOTkRDAVt2  ---- group :  top25
+[MEDAL] userid :  RYVM93e7WZalipaGPBcvN9qi87h1  ---- group :  top25
+[MEDAL] userid :  RsSmYuFPhCVqpvc9KL6s3ocNzY02  ---- group :  top25
+[MEDAL] userid :  pcZu5wPJLLezZs7XrNqV9tvMcAk1  ---- group :  top25
+[MEDAL] userid :  3s0fiOGi6sfTIX7OUJgK3rFTn263  ---- group :  top25
+[MEDAL] userid :  R5wCIZDXEthGrwPPhqLHDpu26hE2  ---- group :  top25
+[MEDAL] userid :  Sx51AhPLywRmgD59FCaYFLYVc5s2  ---- group :  top25
+[MEDAL] userid :  0xLFxJNBC3e7qxfW7hJI5gBaJMy2  ---- group :  top25
+[MEDAL] userid :  ug3jDSnjvlXi905fBq5tnjzW0513  ---- group :  top25
+[MEDAL] userid :  2vgqgm1xakPxOWSLCdprNvuRzsn1  ---- group :  top25
+[MEDAL] userid :  BDMRYVWQKnQ4swuT1CA7OxD4Uun2  ---- group :  top25
+[MEDAL] userid :  SbIPzmqvB0PnCoPMV4odeRJCIYk2  ---- group :  top25
+[MEDAL] userid :  hrY5xtwCHdNaCwiXpU5PT4Mq4Tz2  ---- group :  top25
+[MEDAL] userid :  e1l24YhnLSTUUDeEk9ks6gcCFUo2  ---- group :  top25
+[MEDAL] userid :  oNt78llgJTUqsNTCbJ3TELF2Yoz1  ---- group :  top25
+[MEDAL] userid :  7i5dGUSniscvNbvYXN0hgwa4CaE3  ---- group :  top25
+[MEDAL] userid :  w8NN5Pf5uZVVl4NM1kg96wjrUc62  ---- group :  top25
+[MEDAL] userid :  n5eCGyejIVSrXkHi8s7YtTXr4hZ2  ---- group :  top25
+[MEDAL] userid :  flMFPhl6imfG9YNFMgzisnxlS3E2  ---- group :  top25
+[MEDAL] userid :  UuVnftd25pUl3xWqzTFPIvXt0Jl1  ---- group :  top25
+[MEDAL] userid :  wkwv5vguvESWTTyKDElJWJufj6r1  ---- group :  top25
+[MEDAL] userid :  2SNiBJzwURTAwcyBB27MAthkF3e2  ---- group :  top25
+[MEDAL] userid :  HPuLUCTfzeM5n4FhL15UK8bW49l1  ---- group :  top25
+[MEDAL] userid :  ZDGxArV4yZY40cYKgsiv0q7dpht2  ---- group :  top25
+[MEDAL] userid :  BWOwfgmIi5QllcusTyppm7ADKpy1  ---- group :  top25
+[MEDAL] userid :  IcSvFX6VUugsF5Qd5FsGZus0BW43  ---- group :  top25
+[MEDAL] userid :  OtVu6Dpwk7ZgyW3hwsC1O8emKYk1  ---- group :  top25
+[MEDAL] userid :  JHyxwCojnQTnUriUiRtSWPBDquk2  ---- group :  top25
+[MEDAL] userid :  tcZHEoqcfKUbuGSS9BK0TZQ4AIP2  ---- group :  top25
+[MEDAL] userid :  hKt6LreMILMhrLOZv6voOj1i1iB2  ---- group :  top25
+[MEDAL] userid :  ynIznjHMwZSTJwXPy3GfRD1Kru23  ---- group :  top25
+[MEDAL] userid :  QZvZWGhT4TemZF8asQyi2IJ9J9B3  ---- group :  top25
+[MEDAL] userid :  IvJ23YJmBiearYNuk3n9pilzyCc2  ---- group :  top25
+[MEDAL] userid :  QcxijD3sYBhMjKDZTNIuW8ZfbBF3  ---- group :  top25
+[MEDAL] userid :  YsXUIoZO9INndVEs5w6IqG3truJ2  ---- group :  top25
+[MEDAL] userid :  En59To2XyFQzQdAKRxD5IbSxYC23  ---- group :  top25
+[MEDAL] userid :  qUHJKqSbkHN2XFDuY8IbiAHCq1u2  ---- group :  top25
+[MEDAL] userid :  unnc7uZTJdSm2XjDArrFaO9vMuk1  ---- group :  top25
+[MEDAL] userid :  JJuKlffjWEYb8SdzG8v2UfueTxs1  ---- group :  top25
+[MEDAL] userid :  gK3ZA4TIp2NbpwDXEhHKveH3aYd2  ---- group :  top25
+[MEDAL] userid :  j2mvkRKofbdRxfVMT5rLvE2NKPX2  ---- group :  top25
+[MEDAL] userid :  kYKvsvcRS4XeUCK3oQ1fSutphvu1  ---- group :  top25
+[MEDAL] userid :  CIhG7lydpdaK3LIvc941nT7favx1  ---- group :  top25
+[MEDAL] userid :  9tIU123G2VhpqNoK0d0PhtDu7kA3  ---- group :  top25
+[MEDAL] userid :  g8T23bC3HqNhxraT44U4QlL12v02  ---- group :  top25
+[MEDAL] userid :  hzprAL1XHocwkX1Li9lSZSb86le2  ---- group :  top25
+[MEDAL] userid :  UP65fhZyqETQWJm8vRjE7NtDKql2  ---- group :  top25
+[MEDAL] userid :  VIuiT8uAAuVbzxVLcgeTWsp47o33  ---- group :  top25
+[MEDAL] userid :  jTJU43zEryPZIL0p3rRv5G2KL652  ---- group :  top25
+[MEDAL] userid :  vd0rvNclOnbZ4HUddKngkbl6Cd03  ---- group :  top25
+[MEDAL] userid :  8udlhT2qVsN1UAMbqgVSZIwr2d23  ---- group :  top25
+[MEDAL] userid :  A2DRFMBHoJeQg8qEx6VaOWMQKrN2  ---- group :  top25
+[MEDAL] userid :  1OGQrofhIoViyNFG9BsB4QOOA8u1  ---- group :  top25
+[MEDAL] userid :  kQiEPRXFFPVsd5tGAwLuryVpeZJ2  ---- group :  top25
+[MEDAL] userid :  RfmeCSeuKZSW1JFvkxWg9VIZaaU2  ---- group :  top25
+[MEDAL] userid :  UBkVIocn2YbOql1p93dN8jtlr4z1  ---- group :  top25
+[MEDAL] userid :  4ezGS7zoyycMZH4amoMm919pc0C3  ---- group :  top25
+[MEDAL] userid :  0o9ReCyP7nTq6vnrSR9xJE3aStA3  ---- group :  top25
+[MEDAL] userid :  Dc0wUTT9kASpfCrfkVUHIqYjEDM2  ---- group :  top25
+[MEDAL] userid :  SLHghoSf9CPblOKmRBxRz5QgDsn1  ---- group :  top25
+[MEDAL] userid :  DG6g0jPlL5QZaqeWk7lgUu5acnJ2  ---- group :  top25
+[MEDAL] userid :  7vkAPbdayTSL1Ubx7EU1uOahvaL2  ---- group :  top25
+[MEDAL] userid :  VPKXJFdW39PsVbAlLXjHA6nCpH02  ---- group :  top25
+[MEDAL] userid :  wuMzwyAgmia6OQDhSPiKbHOcY7s1  ---- group :  top25
+[MEDAL] userid :  Gh20huiz32batkdTVTKvt10cwtz1  ---- group :  top25
+[MEDAL] userid :  X2PkDFD32kOl6cBUfOfhIBfNVPI3  ---- group :  top25
+[MEDAL] userid :  qE6S5kwDE2fsHSV696zVRq7Ctm02  ---- group :  top25
+[MEDAL] userid :  OmdfxGOASVWXIhcqKdZG3XybwfK2  ---- group :  top25
+[MEDAL] userid :  vniqk2q4mSNMzsNpRx7M7kGxtWz1  ---- group :  top25
+[MEDAL] userid :  QLcWniowbeScihO4GXONlW3h3Jk2  ---- group :  top25
+[MEDAL] userid :  ZUQ1zMt1nhRiha4g0sPymyu0K6J3  ---- group :  top25
+[MEDAL] userid :  HNZOfdKE66gjzzQzikTlsxiEhQG2  ---- group :  top25
+[MEDAL] userid :  yKfmtr32BpaQWOhmfgjThDlEDS93  ---- group :  top25
+[MEDAL] userid :  BLLWqsaLJ2ae9rL5Tf2mxgKXN862  ---- group :  top25
+[MEDAL] userid :  Cv2RldTjd9chX73f6wZOf5W1JoS2  ---- group :  top25
+[MEDAL] userid :  v0AXfCRY1sbXlKUfnLeYyvDifDi2  ---- group :  top25
+[MEDAL] userid :  GimDeS5sUEUocAQNlZcmaZAWrzL2  ---- group :  top25
+[MEDAL] userid :  fAbtQwPG19Q1eM3XGwp52FlpaC43  ---- group :  top25
+[MEDAL] userid :  7DVkwRWTXDbsomRsaMYrgJVW8kr2  ---- group :  top25
+[MEDAL] userid :  ByA9JC4VRqN9mUq6HP9oFij2IC72  ---- group :  top25
+[MEDAL] userid :  vbZvhxdsWuOqXhUXg6SW09UBk3q1  ---- group :  top25
+[MEDAL] userid :  GcHUz79F6eXhRRBx1aROc3AqPui1  ---- group :  top25
+[MEDAL] userid :  ht8hhjeuA1cLQlK8FUgWyQBa2kR2  ---- group :  top25
+[MEDAL] userid :  0SzvDA6oYseaf5pWQ7LkHpVV9lB2  ---- group :  top25
+[MEDAL] userid :  1gN07LdIBxUVHN7es82iMezB2Kr2  ---- group :  top25
+[MEDAL] userid :  s8SbivICljfcOKPnbfZW0N9VQya2  ---- group :  top25
+[MEDAL] userid :  obLcCELsHpN47axjYbg3BdGYsyo1  ---- group :  top25
+[MEDAL] userid :  ACSzlMnTlHgxtVGxD2bqm0QX9yC2  ---- group :  top25
+[MEDAL] userid :  jgIqdg1jekMYQNaLLj7MiVDuYHS2  ---- group :  top25
+[MEDAL] userid :  zQP1hvx0ufWCIkgw5bc8jPZZJdl1  ---- group :  top25
+[MEDAL] userid :  TCGqwMbVdjcpeGyz0QyvGpV2cHZ2  ---- group :  top25
+[MEDAL] userid :  u38Q9gQELpQ6Lfjub1V6rzDOioI3  ---- group :  top25
+[MEDAL] userid :  SoCxioziDRVWOSSHiVff8XwVshP2  ---- group :  top25
+[MEDAL] userid :  j3VyW1JPEzgJ4Chnd5FP5RkeRVN2  ---- group :  top25
+[MEDAL] userid :  D83BWupDCyOOUphjFwrYctTRHYk1  ---- group :  top25
+[MEDAL] userid :  NFN5yHUVIMT88YHeror5Z4p4Csg2  ---- group :  top25
+[MEDAL] userid :  uRCaxVoVYkfcN6X0iIEvIsUkXBn1  ---- group :  top25
+[MEDAL] userid :  CPqg1bEeWLMQQQlukuDjLjsq3AE3  ---- group :  top25
+[MEDAL] userid :  6aZErFaBsPYaCLwgnj06WS6WhSO2  ---- group :  top25
+[MEDAL] userid :  CY4kaEYdfReXCwZfdjSBNaKpbKw2  ---- group :  top25
+[MEDAL] userid :  SCEUOhPN9IQlj4fPyMXQ7vx3k6P2  ---- group :  top25
+[MEDAL] userid :  w8jVpzctNHSFfyxq5SBFuOuMIHG3  ---- group :  top25
+[MEDAL] userid :  ISN92xJRvodaEbRon49kNmzXdwY2  ---- group :  top25
+[MEDAL] userid :  XB0OZRr41keSm0PKJC2DpFCCYP82  ---- group :  top25
+[MEDAL] userid :  sBBQCWnd9wbtlXeMSlzW6R3cObq1  ---- group :  top25
+[MEDAL] userid :  NpPEjRGNe3WjkG0GILC0x4BpwgE2  ---- group :  top25
+[MEDAL] userid :  isLs3abUM2SfIvJ6cC5mdLrtQSg2  ---- group :  top25
+[MEDAL] userid :  ymhInaAK51RsmsJ0kk8frjfXmQl2  ---- group :  top25
+[MEDAL] userid :  ly1dnYTYq0aNLZOyTD5f4j6Cedu2  ---- group :  top25
+[MEDAL] userid :  9rF1QBI6zyTGjjAn9XbC1i3J09r2  ---- group :  top25
+[MEDAL] userid :  XA1mbZtJYpgea0b3IzkgpUQw4t03  ---- group :  top25
+[MEDAL] userid :  oT3WI5vZTxQ8zJd6MY0IolM7kQb2  ---- group :  top25
+[MEDAL] userid :  w6Dcoxsr89PF1tCjV4fr3QK870g2  ---- group :  top25
+[MEDAL] userid :  UlrfSmMVEqNazEbtFvrXDKZUOXT2  ---- group :  top25
+[MEDAL] userid :  Po9AAFkBJrft1euihyOEmzGB1A23  ---- group :  top25
+[MEDAL] userid :  UON3zE4lt2gZNFAndAMTGCREgNu1  ---- group :  top25
+[MEDAL] userid :  dIN3XguW2cMeLaUWQHqKlccI7g32  ---- group :  top25
+[MEDAL] userid :  HWOkn1QYWyQyj8POK4ZdIQ0Oh9g2  ---- group :  top25
+[MEDAL] userid :  fELvC0uslecdTCJNXBFb3sgF8nv2  ---- group :  top25
+[MEDAL] userid :  8cwLKMjgFJYBcSvj2j4ovZygKam2  ---- group :  top25
+[MEDAL] userid :  V8IjhqSgH7NItPIGW3oQU3ylpRv2  ---- group :  top25
+[MEDAL] userid :  KJ6eZ5OFNJZyKfE2qCyR44Dln2Q2  ---- group :  top25
+[MEDAL] userid :  2gelzILzClPKXFL15LOGkGeR0vd2  ---- group :  top25
+[MEDAL] userid :  K01xKpDyN4QP40a01UybUudCFKo1  ---- group :  top25
+[MEDAL] userid :  qXVMXTnuhDcPnZ803zgCALHxBy72  ---- group :  top25
+[MEDAL] userid :  SyQOV1FAjeeFeVhDmnjKRhAoQy32  ---- group :  top25
+[MEDAL] userid :  UAWuCIDgFLcodZW9nNshpiXEtAi2  ---- group :  top25
+[MEDAL] userid :  aRyCyT9U2HXVdExbEqsIl0nf7nB2  ---- group :  top25
+[MEDAL] userid :  wqGuomql8qdMgG26YJSLLXKlWFb2  ---- group :  top25
+[MEDAL] userid :  7hGHgkKZkSc0wPgZwhKTiJhPbn23  ---- group :  top25
+[MEDAL] userid :  roNsBMhjxRNGq9XtswZr6IzNNPB2  ---- group :  top25
+[MEDAL] userid :  snTwaw1PVebnkc0ExEcQ5FtSg9L2  ---- group :  top25
+[MEDAL] userid :  UmXTkIDgksQO0KfGUplG3ZTbTr03  ---- group :  top25
+[MEDAL] userid :  scluJIUsEOW6mbIpXA6PsbuZKE22  ---- group :  top25
+[MEDAL] userid :  zoGA4WBFMmbSQS2A22laQHbtJnG2  ---- group :  top25
+[MEDAL] userid :  3us7fz0Vn2OiY4KJVADfklz9EQG3  ---- group :  top25
+[MEDAL] userid :  SJP4oKlueEcCmQQznHEbMaeKBk42  ---- group :  top25
+[MEDAL] userid :  xYOh5hx3y7WZtYuqwZA8YdzxIFy1  ---- group :  top25
+[MEDAL] userid :  A2NFhwgYT3ODOB5tzrkpfb8HCqL2  ---- group :  top25
+[MEDAL] userid :  HjzsRK6YtFaRJrecFd1QyQTPhgE2  ---- group :  top25
+[MEDAL] userid :  XNrqX5th2Mbf6a1g6kuRaK3ZwwF2  ---- group :  top25
+[MEDAL] userid :  KshM4dh8TkNdbwy9LROHKXXtBii2  ---- group :  top25
+[MEDAL] userid :  WWJIasNBMcVhBaZKNzEdHSToaLv2  ---- group :  top25
+[MEDAL] userid :  qebEcQAkI3hyajwOSJ1OEOWcshu2  ---- group :  top25
+[MEDAL] userid :  0WNFttkZS1gv3OwDIy2CX0fIMXt1  ---- group :  top25
+[MEDAL] userid :  O5iD8F73IJaxoM3OQ9pFUZl86tw2  ---- group :  top25
+[MEDAL] userid :  gy8VEukTO2Spii91MSUo9D5IKGs1  ---- group :  top25
+[MEDAL] userid :  iFT52CgrCGc4RCGyoDkz4Oq5tj82  ---- group :  top25
+[MEDAL] userid :  UPvsGn1SwMMKKkXalJx3mWvGepC3  ---- group :  top25
+[MEDAL] userid :  8DdeMcMRE9RzF7bKrIlo1NkFwsU2  ---- group :  top25
+[MEDAL] userid :  oaTRpLXPhXSr9mCAAOYxmiiMmDn1  ---- group :  top25
+[MEDAL] userid :  yLiO560m4qhxaSCUSPq0KqOtByV2  ---- group :  top25
+[MEDAL] userid :  CCTq2vd44vQh7P7SWypQJ8F0hj33  ---- group :  top25
+[MEDAL] userid :  mFMjCRa4ifRbiFNEp7iZISKAwP93  ---- group :  top25
+[MEDAL] userid :  75hBUcZzi7QvS2VaNJtvecW5yvt1  ---- group :  top25
+[MEDAL] userid :  Mz0F0GAx2pc40LDsxIbatkDKSRl1  ---- group :  top25
+[MEDAL] userid :  r4l9FKMdcjUd10HSeXJd1jmkCsy1  ---- group :  top25
+[MEDAL] userid :  35bZq4i7iUZXwAwpaHU1yZwza2D2  ---- group :  top25
+[MEDAL] userid :  VDBavZIFumRU9YfYgrvyzXJ6cXc2  ---- group :  top25
+[MEDAL] userid :  uEoujkNGZyNODUhbJcL7iMfGgBY2  ---- group :  top25
+[MEDAL] userid :  2lZhISsXDNYk6r2vt1bgcf4GbPt2  ---- group :  top25
+[MEDAL] userid :  f1fiJiIbzOT8arTREd19ejXaQM33  ---- group :  top25
+[MEDAL] userid :  mcku5fcHBKZtyWTvlGQhIsBEZM72  ---- group :  top25
+[MEDAL] userid :  PKUT6gtrU3RkAUDvv3q7xTFpsDA3  ---- group :  top25
+[MEDAL] userid :  uAArKvrSErd2TLgFR4KDIvdXVtZ2  ---- group :  top25
+[MEDAL] userid :  KYYArxoOIsZz5BcplTfN4hpw3T23  ---- group :  top25
+[MEDAL] userid :  TR4ZaPKRMATvd1yBYmUh5QIjmeC3  ---- group :  top25
+[MEDAL] userid :  hrQb2pzsXQR5Afa8lh2V0PayOg62  ---- group :  top25
+[MEDAL] userid :  ogJuMg9LtCfdg8vYuWbjNu9paKs2  ---- group :  top25
+[MEDAL] userid :  0eYOir5MVfeRfWDCYX9wSCS71Xo1  ---- group :  top25
+[MEDAL] userid :  aJh38JBsmMY70vmabZOOVlt30mF3  ---- group :  top25
+[MEDAL] userid :  sStkOr33FvXNcBl6jW2rHP3asrg1  ---- group :  top25
+[MEDAL] userid :  1aeTGFgIFZalpZ9Uq1U3uzriUQh2  ---- group :  top25
+[MEDAL] userid :  UJ3cMuR2ulfCQpjCiRl4zhQtHyD2  ---- group :  top25
+[MEDAL] userid :  LojGMCqkhqZF5fEeqDZJy6MWWpy1  ---- group :  top25
+[MEDAL] userid :  pPh6AFmwc7foU9DP7FxsfadoVl93  ---- group :  top25
+[MEDAL] userid :  yr9vvGt7Qba41kKlCiGGPLPeD9H2  ---- group :  top25
+[MEDAL] userid :  2cZh8Ozy7fNsPe53rkS9pckDXxD2  ---- group :  top25
+[MEDAL] userid :  9oEEmiPSf2OioXnfJHhvgHZO42T2  ---- group :  top25
+[MEDAL] userid :  DmhI43HNHSM9wobIbVhbqXvmQPT2  ---- group :  top25
+[MEDAL] userid :  JiJK2GoC91UuhlFT4THg0bOI5Pr1  ---- group :  top25
+[MEDAL] userid :  VWPYJpLoOHRDrLlAhO06fjIF8W42  ---- group :  top25
+[MEDAL] userid :  nPAW0xXKakd2Cxbeu5JAky2NPwt1  ---- group :  top25
+[MEDAL] userid :  kEZr1WICqDejkWRAslnHNk6nfCm2  ---- group :  top25
+[MEDAL] userid :  xPJq921QgZXcMC7SfLxiYiPON393  ---- group :  top25
+[MEDAL] userid :  oRAvA5xKs6biAeVJVD570SH6FS52  ---- group :  top25
+[MEDAL] userid :  vTlpJxZwVdW9YUgHhR1KC2wuYYx1  ---- group :  top25
+[MEDAL] userid :  p2TF40LX2XTx023QpiHOWA6v8ag1  ---- group :  top25
+[MEDAL] userid :  Nr45ePRFoYWj6Jdmmc0N6Izvs5G3  ---- group :  top25
+[MEDAL] userid :  WHluodv8R3P8WGV1rdMsUguRgMz1  ---- group :  top25
+[MEDAL] userid :  AtmKBIPiYgMUew7fLlAsH19uQPq1  ---- group :  top25
+[MEDAL] userid :  dXU6rNDMCaUnKoXd8EFiMWRZDS43  ---- group :  top25
+[MEDAL] userid :  zxzLnLRxx4dVchW6CpGEpOydRFY2  ---- group :  top25
+[MEDAL] userid :  Qt3kTwniBzehwswNa4Ya2dhB6k62  ---- group :  top25
+[MEDAL] userid :  qRtNxXLVFGbL9GhW7BFZBwQHdng1  ---- group :  top25
+[MEDAL] userid :  AsgimOq7rndt5StYAIyW746BpxB3  ---- group :  top25
+[MEDAL] userid :  NynUCmuwWRayGz3EskEbQmOeAXu1  ---- group :  top25
+[MEDAL] userid :  uWZ5DfOlTJbOgbKyyWGAxCzykYg2  ---- group :  top25
+[MEDAL] userid :  1dqsH5bkXdRsDNogor47x1RsLPe2  ---- group :  top25
+[MEDAL] userid :  oJueZTaJ96Pk7PCR7ULbR7eGR4X2  ---- group :  top25
+[MEDAL] userid :  0XVp0KtpV5crPfxEKHAASqLmr552  ---- group :  top25
+[MEDAL] userid :  xgy86Kvh2KMqqNoTsC63yEQITQI2  ---- group :  top25
+[MEDAL] userid :  V2BiaXHToTYxDPd2hynQ7rDFtLt2  ---- group :  top25
+[MEDAL] userid :  X61XInnVNbfBru7Zc25t7pHKyeU2  ---- group :  top25
+[MEDAL] userid :  taXbu8GzlugLzxbuialvJaPwPGB2  ---- group :  top25
+[MEDAL] userid :  pNNZ2kyfSyYXhsoaNGAwzYhMwmt1  ---- group :  top25
+[MEDAL] userid :  qLWkC8jTAXdhhfwcTEauiawj2mJ3  ---- group :  top25
+[MEDAL] userid :  sJ5cKxBgycVrX24LwAOFPU55KL63  ---- group :  top25
+[MEDAL] userid :  uGZ78q1efzgbar3hDwi0406ZDEz1  ---- group :  top25
+[MEDAL] userid :  4IXcS47yvGMvaZR7Df1pZQmwCnB3  ---- group :  top25
+[MEDAL] userid :  xapVjPCjE7aymV4Z5Bf1Wjaz7jm2  ---- group :  top25
+[MEDAL] userid :  DEY8KnZqw9eDjZZGt2jUq7qCNES2  ---- group :  top25
+[MEDAL] userid :  tuPnKCrXwzNgFuIg5D4hzR4FWa33  ---- group :  top25
+[MEDAL] userid :  uYVUdxhJCDa4GpPys51ZRIBHy1k2  ---- group :  top25
+[MEDAL] userid :  uofitSp5tcNmYp0ep2vnoPt4Ryl1  ---- group :  top25
+[MEDAL] userid :  ATJc6TCQUbNcY94Lyf3DXGXDAce2  ---- group :  top25
+[MEDAL] userid :  F6BcmxWU9BOfBogESKSAAuckbBX2  ---- group :  top25
+[MEDAL] userid :  vUalNBIic6TnBZDXGRW8mHhBVI72  ---- group :  top25
+[MEDAL] userid :  84cpL2bkzxZVizFGiRrN5fALKSA2  ---- group :  top25
+[MEDAL] userid :  CsAfpxCB2TfMQOSXyBp2JCiNVse2  ---- group :  top25
+[MEDAL] userid :  HdlJmLqA9SNE0CnLw7oNJzHzLAe2  ---- group :  top25
+[MEDAL] userid :  6MLdjRJ3YTfdZrRM7KgV3WafO832  ---- group :  top25
+[MEDAL] userid :  M9UcyI5hniNHnz91VKZTeyhUWce2  ---- group :  top25
+[MEDAL] userid :  WpKPVloXb8c2Yl4mvLAz8VpHgQE3  ---- group :  top25
+[MEDAL] userid :  xikar9UAbSN9e7Ycuhqm0pRUsSb2  ---- group :  top25
+[MEDAL] userid :  8DF44mXhehbvzS28jZU2AHZnSNu2  ---- group :  top25
+[MEDAL] userid :  Ao1Q10VcD7hbaiEFhUaRK3Kyrjr2  ---- group :  top25
+[MEDAL] userid :  SrxEKwZhxKbQKWuZz1HHiqvMQh73  ---- group :  top25
+[MEDAL] userid :  j8UBTCoVW2dww30oHBksl453LQp1  ---- group :  top25
+[MEDAL] userid :  qk9CgpP2kHfnj1KwsAjCjb2FNeK2  ---- group :  top25
+[MEDAL] userid :  E3fnMVn9rlbbuJHd4Gd07m64Mpq1  ---- group :  top25
+[MEDAL] userid :  3Vww6rfRtTMh5r04OkxKFzhObMy2  ---- group :  top25
+[MEDAL] userid :  JpyPLxlHqzbWC5kHhSgnEEPeheL2  ---- group :  top25
+[MEDAL] userid :  bxTnkph7rFQoRMiwvweQcLkiCjQ2  ---- group :  top25
+[MEDAL] userid :  xlxUJ9yAJSTpNWbHNz8TBkblVd93  ---- group :  top25
+[MEDAL] userid :  dOSs8da0LqZxqBNV520PJkm41Vm1  ---- group :  top25
+[MEDAL] userid :  fq2F9sHB5vMFGgedvdUMtkurkvd2  ---- group :  top25
+[MEDAL] userid :  khFjTovgz6SAybe96hXLT5PVX7t1  ---- group :  top25
+[MEDAL] userid :  qsTZn7mp1KhxxDAlKaQrlbaCOsn2  ---- group :  top25
+[MEDAL] userid :  tkdRr0TSvCMCUHSu6USs2kaUEzq2  ---- group :  top25
+[MEDAL] userid :  N0rPKx4OFjbr3ul4CPZPgY55sBH2  ---- group :  top25
+[MEDAL] userid :  GNKDjJRopVgUCbntraP3EuyMDsY2  ---- group :  top25
+[MEDAL] userid :  uf9RxONHiYhbnIUF28eqncglCKi2  ---- group :  top25
+[MEDAL] userid :  KiHrrJsil5U1jgPuYQsJ6pzrNkL2  ---- group :  top25
+[MEDAL] userid :  dDh7OOntUYewYdFFDEEpgpcHCqy1  ---- group :  top25
+[MEDAL] userid :  gg5eA1cTxWeNz4AgP7ecFFGyvJx2  ---- group :  top25
+[MEDAL] userid :  5y8WcNt7CvchwrFNL5QF8VwsID12  ---- group :  top25
+[MEDAL] userid :  WyBN1Ky8Bia5xIOC05gUAczv0fm2  ---- group :  top25
+[MEDAL] userid :  Zl2ZuajZxldGZIv5vkeAPlWuMnk2  ---- group :  top25
+[MEDAL] userid :  i5Pd6VwmSdWHRt5ekhn425KaHjz1  ---- group :  top25
+[MEDAL] userid :  yxVeoT6wHXWMFx9n4QNsXAZK9t62  ---- group :  top25
+[MEDAL] userid :  oEhln0AxRzgf5Dvk8dQWpLNAdhy2  ---- group :  top25
+[MEDAL] userid :  cfCrbkCLWac6Sd6TaZ88bhPSqP73  ---- group :  top25
+[MEDAL] userid :  dBLdb4Jg8dhDbUAqpGsxqheD7yk2  ---- group :  top25
+[MEDAL] userid :  kruu1kjCSCg97u3jt8Q1K4zCQoa2  ---- group :  top25
+[MEDAL] userid :  T1bnwe01tfVYQ2cV5LoxXTKLICS2  ---- group :  top25
+[MEDAL] userid :  1hmJRpExAVSAri9ycKt6JaCjO6o2  ---- group :  top25
+[MEDAL] userid :  Bl5jAY7Sy2RK6pgYv6ocqK35Zzv2  ---- group :  top25
+[MEDAL] userid :  av0o2NaqvoZEjqutCqMG7QwJn513  ---- group :  top25
+[MEDAL] userid :  5rvs7wSJU5YLah7WmQweMi3BHmS2  ---- group :  top25
+[MEDAL] userid :  RpjyzivdeoYMosIUqy44wIJone73  ---- group :  top25
+[MEDAL] userid :  40ie2Q3OqBejaSFvnKtE12Q8DFU2  ---- group :  top25
+[MEDAL] userid :  8sqGvT6NgrXE6kfniZkLvcBAYLU2  ---- group :  top25
+[MEDAL] userid :  rE8hybEAh3UF6x4KOeNFjLRGFIh2  ---- group :  top25
+[MEDAL] userid :  0SgTn4WcsJMjnoBWtL340jqCRut2  ---- group :  top25
+[MEDAL] userid :  39OQG35ccTgefKNyEXHypt0OKNk2  ---- group :  top25
+[MEDAL] userid :  pw4IiYqcdkXKDsgSE9V4YVOqxoY2  ---- group :  top25
+[MEDAL] userid :  OoZSGeEciwaSenDWDL2GvaM1rc22  ---- group :  top25
+[MEDAL] userid :  enVROu97bnfigyZXkfHNrXvjFdg2  ---- group :  top25
+[MEDAL] userid :  yACUHfbUWEXIZtlY5DP6z0vKQvf2  ---- group :  top25
+[MEDAL] userid :  QZ9eCWtPk8fUCxzavx0hcyMYHje2  ---- group :  top25
+[MEDAL] userid :  sQ54o4PXgbc9px6fBbed6H0RY3H2  ---- group :  top25
+[MEDAL] userid :  ANaJR3p0kUagTiM0IeFn3epbZQX2  ---- group :  top25
+[MEDAL] userid :  AzikVo9ykXZys5oXLXJPb0EEtyC2  ---- group :  top25
+[MEDAL] userid :  nSNlqq16PJQHB0WoqRPwU1dJk2b2  ---- group :  top25
+[MEDAL] userid :  jcFOydD0GwTMYtnG89HIRBL3OI42  ---- group :  top25
+[MEDAL] userid :  oKxzdUl6tbMz2zWH7bwcS41jcJV2  ---- group :  top25
+[MEDAL] userid :  B96zq63BG5QfNkVwsZHdRWAPJb22  ---- group :  top25
+[MEDAL] userid :  CnxvKrXmMdX6qN7SltCVkA1hUet1  ---- group :  top25
+[MEDAL] userid :  WjsERAlCcPfMSMINgbqptNFVuKf2  ---- group :  top25

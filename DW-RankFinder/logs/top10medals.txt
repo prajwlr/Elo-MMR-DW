@@ -1,73 +1,73 @@
-Running for contest :  7
+Running for contest :  9
+{
+  _id: new ObjectId("653a8881a5344ff67ec2f964"),
+  username: 'ktshacx',
+  userid: 'hwoALi6h56eIp0mxO3jZBlVif8v1'
+}
 {
   _id: new ObjectId("63c42bba24def9d654a62d28"),
   username: 'bepossible',
   userid: 'Erq8sPQmkVdjbvAcPFgZrLNO3X03'
 }
 {
-  _id: new ObjectId("64da0dafde2aa06e7035177f"),
-  username: '10xdev',
-  userid: '6cr3GSGK2OQCrYCxj7D5t2aWt403'
+  _id: new ObjectId("653bf820a5344ff67ec2fe40"),
+  username: 'Paras_21',
+  userid: 'fGmwfOvJMLeBDMOQAeZ7GqgCqxj2'
 }
 {
-  _id: new ObjectId("63c42bc124def9d654a63066"),
-  username: 'Vishal4',
-  userid: 'bxTnkph7rFQoRMiwvweQcLkiCjQ2'
+  _id: new ObjectId("64ec2e39afecb2fa6928a5ba"),
+  username: 'Ronnie',
+  userid: '7s0bpWKAUNgnzPs6OiYNRRVFFPX2'
 }
 {
-  _id: new ObjectId("652552b8dc06b30093b78f56"),
-  username: 'PARASi27',
-  userid: 'btrfHGSYzEhXVpfHv01m1AUXgFb2'
+  _id: new ObjectId("653decb3fbed0fba5c885b14"),
+  username: 'Aravind5I6',
+  userid: 'anlF7C6ozMNbjFdPxuzRP9zBVAS2'
 }
 {
-  _id: new ObjectId("652ab70c0d93891c17cb1c3e"),
-  username: '0xhappy',
-  userid: 'b7Mo4K6dE6NpzDvmbzKoLDzshOy1'
+  _id: new ObjectId("650c15b2d34a32145ca5b1ba"),
+  username: 'Mayuresh20',
+  userid: 'A935wqYr0VdG0pCMl54gTMwfrlx1'
+}
+{
+  _id: new ObjectId("63c42bb524def9d654a6225d"),
+  username: 'sauravrao637',
+  userid: '4EjD0VpnSaN6nQ1mCgYc34hP4zI2'
+}
+{
+  _id: new ObjectId("64d8d80c9c541895276fdb5b"),
+  username: 'bg5fxp_JF',
+  userid: 'bI6JxP9NvKOl9OKjqzhowbDk6gA3'
+}
+{
+  _id: new ObjectId("6528e26459bd608df7f8f088"),
+  username: 'Shoydon',
+  userid: '1DX1XJ3tiRRpwc6KQO88HXbJ0YA2'
 }
 {
   _id: new ObjectId("650abbfed34a32145ca5b09f"),
   username: 'kamuik16',
   userid: 'ZtjIHEUMVxQhBZE05CyOc5T2i8q1'
 }
-{
-  _id: new ObjectId("6526240bdc06b30093b78fff"),
-  username: 'Dhananjayi88',
-  userid: 'snzLmFjrgNXYG7sLJv8XXywaQdh1'
-}
-{
-  _id: new ObjectId("652ba44a0d93891c17cb25e4"),
-  username: 'Kshitijd36',
-  userid: 'tx1KNADnqyb01UT1vFvFI8D1jU12'
-}
-{
-  _id: new ObjectId("650df2fdd34a32145ca5b77a"),
-  username: 'sufiyanmemon',
-  userid: 'zpXV7qlSLEhsPbiZAqEXEiAAe1l1'
-}
-{
-  _id: new ObjectId("652a47600d93891c17cb14b2"),
-  username: 'Ethan360',
-  userid: 'RpjyzivdeoYMosIUqy44wIJone73'
-}
 allUserIds :  {
+  ktshacx: 'hwoALi6h56eIp0mxO3jZBlVif8v1',
   bepossible: 'Erq8sPQmkVdjbvAcPFgZrLNO3X03',
-  '10xdev': '6cr3GSGK2OQCrYCxj7D5t2aWt403',
-  Vishal4: 'bxTnkph7rFQoRMiwvweQcLkiCjQ2',
-  PARASi27: 'btrfHGSYzEhXVpfHv01m1AUXgFb2',
-  '0xhappy': 'b7Mo4K6dE6NpzDvmbzKoLDzshOy1',
-  kamuik16: 'ZtjIHEUMVxQhBZE05CyOc5T2i8q1',
-  Dhananjayi88: 'snzLmFjrgNXYG7sLJv8XXywaQdh1',
-  Kshitijd36: 'tx1KNADnqyb01UT1vFvFI8D1jU12',
-  sufiyanmemon: 'zpXV7qlSLEhsPbiZAqEXEiAAe1l1',
-  Ethan360: 'RpjyzivdeoYMosIUqy44wIJone73'
+  Paras_21: 'fGmwfOvJMLeBDMOQAeZ7GqgCqxj2',
+  Ronnie: '7s0bpWKAUNgnzPs6OiYNRRVFFPX2',
+  Aravind5I6: 'anlF7C6ozMNbjFdPxuzRP9zBVAS2',
+  Mayuresh20: 'A935wqYr0VdG0pCMl54gTMwfrlx1',
+  sauravrao637: '4EjD0VpnSaN6nQ1mCgYc34hP4zI2',
+  bg5fxp_JF: 'bI6JxP9NvKOl9OKjqzhowbDk6gA3',
+  Shoydon: '1DX1XJ3tiRRpwc6KQO88HXbJ0YA2',
+  kamuik16: 'ZtjIHEUMVxQhBZE05CyOc5T2i8q1'
 }
-userid :  Erq8sPQmkVdjbvAcPFgZrLNO3X03  ------ medal :  /images/badges/medal-contest-7-rank-1.png
-userid :  6cr3GSGK2OQCrYCxj7D5t2aWt403  ------ medal :  /images/badges/medal-contest-7-rank-2.png
-userid :  bxTnkph7rFQoRMiwvweQcLkiCjQ2  ------ medal :  /images/badges/medal-contest-7-rank-3.png
-userid :  btrfHGSYzEhXVpfHv01m1AUXgFb2  ------ medal :  /images/badges/medal-contest-7-top10.png
-userid :  b7Mo4K6dE6NpzDvmbzKoLDzshOy1  ------ medal :  /images/badges/medal-contest-7-top10.png
-userid :  ZtjIHEUMVxQhBZE05CyOc5T2i8q1  ------ medal :  /images/badges/medal-contest-7-top10.png
-userid :  snzLmFjrgNXYG7sLJv8XXywaQdh1  ------ medal :  /images/badges/medal-contest-7-top10.png
-userid :  tx1KNADnqyb01UT1vFvFI8D1jU12  ------ medal :  /images/badges/medal-contest-7-top10.png
-userid :  zpXV7qlSLEhsPbiZAqEXEiAAe1l1  ------ medal :  /images/badges/medal-contest-7-top10.png
-userid :  RpjyzivdeoYMosIUqy44wIJone73  ------ medal :  /images/badges/medal-contest-7-top10.png
+userid :  hwoALi6h56eIp0mxO3jZBlVif8v1  ------ medal :  /images/badges/medal-contest-9-rank-1.png
+userid :  Erq8sPQmkVdjbvAcPFgZrLNO3X03  ------ medal :  /images/badges/medal-contest-9-rank-2.png
+userid :  fGmwfOvJMLeBDMOQAeZ7GqgCqxj2  ------ medal :  /images/badges/medal-contest-9-rank-3.png
+userid :  7s0bpWKAUNgnzPs6OiYNRRVFFPX2  ------ medal :  /images/badges/medal-contest-9-top10.png
+userid :  anlF7C6ozMNbjFdPxuzRP9zBVAS2  ------ medal :  /images/badges/medal-contest-9-top10.png
+userid :  A935wqYr0VdG0pCMl54gTMwfrlx1  ------ medal :  /images/badges/medal-contest-9-top10.png
+userid :  4EjD0VpnSaN6nQ1mCgYc34hP4zI2  ------ medal :  /images/badges/medal-contest-9-top10.png
+userid :  bI6JxP9NvKOl9OKjqzhowbDk6gA3  ------ medal :  /images/badges/medal-contest-9-top10.png
+userid :  1DX1XJ3tiRRpwc6KQO88HXbJ0YA2  ------ medal :  /images/badges/medal-contest-9-top10.png
+userid :  ZtjIHEUMVxQhBZE05CyOc5T2i8q1  ------ medal :  /images/badges/medal-contest-9-top10.png
